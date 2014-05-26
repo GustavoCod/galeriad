@@ -1,0 +1,4 @@
+Notas
+-----
+
+- Resolución para móviles: < 1024x768 
