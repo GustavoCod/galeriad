@@ -1,4 +1,6 @@
 Notas
 -----
 
-- Resolución para móviles: < 1024x768 
+- Móviles: 
+	Resolucion max candidata: 768x1024
+	Mas usados: ipad e iphone
