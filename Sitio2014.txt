@@ -13,3 +13,5 @@ http://www.mobilemoxie.com/2011/03/user-agent-detection-and-redirection/
 http://programmers.stackexchange.com/questions/199228/responsive-web-design-vs-user-agent-sniffing
 http://blog.adrianroselli.com/2011/10/detecting-mobile-devices.html
 http://www.smashingmagazine.com/2012/09/24/server-side-device-detection-history-benefits-how-to/
+
+HOLA!
