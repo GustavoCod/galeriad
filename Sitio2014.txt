@@ -14,4 +14,7 @@ http://programmers.stackexchange.com/questions/199228/responsive-web-design-vs-u
 http://blog.adrianroselli.com/2011/10/detecting-mobile-devices.html
 http://www.smashingmagazine.com/2012/09/24/server-side-device-detection-history-benefits-how-to/
 
-HOLA!
+Slide shows
+-----------
+http://www.web-desings.com/2012/08/02/20-excelentes-slider-show-para-utilizar-en-tu-web.html
+
