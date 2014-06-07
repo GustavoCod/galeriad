@@ -22,3 +22,7 @@ Dattatec - Panel de control
 ---------------------------
 31/05/2014: Cambie la versión de ASP.NET Framework de ".NET Framework 1.1 - Modo clásico" a ".NET Framework 4 - Modo clásico"
 
+Twitter
+-------
+http://www.asp.net/AjaxLibrary/AjaxControlToolkitSampleSite/Twitter/Twitter.aspx
+
