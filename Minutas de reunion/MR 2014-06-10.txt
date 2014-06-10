@@ -1,0 +1,53 @@
+Minuta de Reunion con Tami
+
+HomePage
+--------
+Logo
+Menu
+Slider de 300px
+IZQ: Boton a página de locales
+DER: Box con link a Facebook (Promociones)
+ABAJO: Grilla de rubros
+Pie
+
+Pagina de locales
+-----------------
+En el menu principal aparecen 2 opciones:
+- Locales por rubro
+- Lista completa
+
+Locales por rubro y lista completa son la misma página. La lista completa
+esta abajo de los locales por rubro.
+
+Corregir el click sobre el cuadrado que representa el local.
+
+Pagina detalle de local
+-----------------------
+Poner nombre de local centrado
+Poner rubro bajo el nombre de local en una fuente mas pequeña.
+
+Locales relacionados es una lista con 3 elementos. Sin posibilidad de scroll.
+
+Descripcion de locales
+----------------------
+Dar posibilidad de redacción a locatarios.
+Completar las descripciones faltantes.
+
+Word Press descartado.
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
