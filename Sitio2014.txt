@@ -26,3 +26,8 @@ Twitter
 -------
 http://www.asp.net/AjaxLibrary/AjaxControlToolkitSampleSite/Twitter/Twitter.aspx
 
+Layout
+------
+Columnas y cajas: http://masonry.desandro.com/
+
+
