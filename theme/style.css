@@ -1284,3 +1284,27 @@ html[xmlns] .slides {display: block;}
 /* If you are not using another script, such as Modernizr, make sure you
  * include js that eliminates this class on page load */
 .no-js .slides > li:first-child {display: block;}   
+
+/* FACEBOOK BOX
+****************************/
+#boxWrapper {
+	height: 200px;
+	width: 100%;
+	margin: 20px;
+		}
+			 
+
+#localesbanner {
+	border:#666 1px;
+	float: left;
+	background-color:#333;
+	height: 200px;
+	width: 50%
+		}
+#facebook {
+	width: 50%;
+	border:#666 1px;
+	float: left;
+	background-color:#333;
+	height: 200px;
+	}
