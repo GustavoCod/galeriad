@@ -66,7 +66,7 @@ h6 { font-size:0.9em }
 body h5, body h6 {font-family: "Droid Sans", serif !important;}
 .cufon-delicious h1, .cufon-delicious h2, .cufon-delicious h3 {letter-spacing:-2px;}
 .cufon-delicious h4, .cufon-delicious h5, .cufon-delicious h6 {letter-spacing:-1px;font-weight:normal;}
-#content ul { margin-left:40px; list-style:square }
+#content ul { margin-left:0px; list-style: none; }
 #content ol { margin-left:40px; }
 i, em { font-style:italic; }
 strong { font-weight:bold; }
@@ -1001,7 +1001,7 @@ ul.add li   {background:url('images/icons/bullet/add.png') no-repeat center left
 ul.info li  {background:url('images/icons/bullet/info.png') no-repeat center left;}
 
 /*alert message*/
-div.box {font-size:108.3%;margin:2px 0 15px;padding:20px 15px 20px 65px;-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;/*behavior:url(http://www.yourinspirationweb.com/tf/bolder/wp-content/themes/bolder/PIE.htc);*/}
+div.box {font-size:108.3%;margin:2px 0 15px;padding:5px;-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;/*behavior:url(http://www.yourinspirationweb.com/tf/bolder/wp-content/themes/bolder/PIE.htc);*/}
 div.success-box {background:url("images/icons/message/check.png") no-repeat 15px center #ebfab6;border:1px solid #bbcc5b;color:#599847;}
 div.arrow-box   {background:url("images/icons/message/arrow.png") no-repeat 15px center #ebfab6;border:1px solid #bbcc5b;color:#599847;}
 div.alert-box   {background:url("images/icons/message/alert.png") no-repeat 15px center #fbdd96;border:1px solid #e5af51;color:#ca6b1c;}
