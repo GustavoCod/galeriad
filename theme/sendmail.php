@@ -5,9 +5,9 @@
  */ 
  
 // email
-define('TO_EMAIL', 'antonino.scarfi@gmail.com'); 
-define('FROM_EMAIL', 'info@test.it');  
-define('FROM_NAME', 'Test'); 
+define('TO_EMAIL', 'gustavo.prueba@gmail.com'); 
+define('FROM_EMAIL', 'info@grangaleriadevoto.com');  
+define('FROM_NAME', 'Prueba Nuevo Sitio'); 
 
 /**
  * define the body of the email. You can add some shortcode, with this format: %ID%
@@ -20,19 +20,19 @@ define('FROM_NAME', 'Test');
  * You can add on BODY, this:
  * email: %email%   
  */ 
-define( 'BODY', '%message%<br /><br /><small>email inviata da %name%, email %email%.</small>' );
-define( 'SUBJECT', 'Email from yoursite.com' );
+define( 'BODY', '%message%<br /><br /><small>Enviado por %name%, email %email%.</small>' );
+define( 'SUBJECT', '%messagetype% - Email enviado desde página de contacto.' );
 
 // here the redirect, when the form is submitted
-define( 'ERROR_URL', 'contatti_error.html' );
-define( 'SUCCESS_URL', 'contatti_success.html' ); 
-define( 'NOTSENT_URL', 'contatti_notsent.html' );           
+define( 'ERROR_URL', 'error.html' );
+define( 'SUCCESS_URL', 'gracias.html' ); 
+define( 'NOTSENT_URL', 'emailnoenviado.html' );           
 
 // the message feedback of ajax request
 $msg = array(
-    'error' => '<p class="error">Warning! Fill correctly the fields marked in red</p>',
-    'success' => '<p class="success">Email sent correctly. Thanks to get in touch us!</p>',
-    'not-sent' => '<p class="error">An error has been encountered. Please try again.</p>'
+    'error' => '<p class="error">Por favor corrija los campos marcados en rojo.</p>',
+    'success' => '<p class="success">El EMail se envi&oacute; correctamente. Gracias por contactarse con nosotros.</p>',
+    'not-sent' => '<p class="error">Ocurrió un error. Por favor intente nuevamente.</p>'
 );      
     
 // the field required, by name
@@ -62,6 +62,7 @@ function sendemail()
 	if ( isset( $_POST['action'] ) AND $_POST['action'] == 'sendmail' ) 
 	{
 	    $body = BODY;
+		$subject = SUBJECT;
 	    
 	    $post_data = array_map( 'stripslashes', $_POST );
 	    
@@ -87,15 +88,26 @@ function sendemail()
 	    {
 	    	if( $id == 'message' ) $var = nl2br($var);
 			$body = str_replace( "%$id%", $var, $body );	
+			$subject = str_replace( "%$id%", $var, $subject );
 		}
+
+		require_once("fzo.mail.php"); 
+		$mail = new SMTP("localhost","info@grangaleriadevoto.com","Refrescola09"); 
 	    
-		$headers  = 'MIME-Version: 1.0' . "\r\n";
-		$headers .= 'Content-type: text/html; charset=UTF-8' . "\r\n";
-		$headers .= 'From: '.FROM_NAME.' <'.FROM_EMAIL.'>' . "\r\n" . 'Reply-To: ' . $post_data['email'];
+		// $headers  = 'mime-version: 1.0' . "\r\n";
+		// $headers .= 'content-type: text/html; charset=utf-8' . "\r\n";
+		// $headers .= 'from: '.FROM_NAME.' <'.FROM_EMAIL.'>' . "\r\n" . 'reply-to: ' . $post_data['email'];
 	
-	    $sendmail = mail( TO_EMAIL, SUBJECT, $body, $headers );
+		$headers = $mail->make_header(FROM_EMAIL, TO_EMAIL, $subject, 3, $cc, $bcc ); 
+		$headers .= 'mime-version: 1.0' . "\r\n";
+		$headers .= 'content-type: text/html; charset=utf-8' . "\r\n";
+		$headers .= "Reply-To: ".$post_data['email']." \r\n";
+	 /* Pueden definirse más encabezados. Tener en cuenta la terminación de la linea con (\r\n) $header .= "Reply-To: ".$_POST['from']." \r\n"; $header .= "Content-Type: text/plain; charset=\"iso-8859-1\" \r\n"; $header .= "Content-Transfer-Encoding: 8bit \r\n"; $header .= "MIME-Version: 1.0 \r\n"; */
+	
+		$error = $mail->smtp_send(FROM_EMAIL, TO_EMAIL, $headers, $body, $cc, $bcc); 
+		// $sendmail = mail( TO_EMAIL, SUBJECT, $body, $headers );
 	         
-		if ( $sendmail ) 
+		if ( $error == "0" ) 
 	        if ( $ajax )
 	           end_ajax( $msg['success'] );
 	        else

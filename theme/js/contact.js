@@ -4,7 +4,7 @@ jQuery(document).ready(function($){
     
     function addLoading( e )
     {
-		e.val( 'attendi...' ).attr('disabled', true);
+		e.val( 'Enviando...' ).attr('disabled', true);
 	}    
     
     function removeLoading( e, value_submit )
