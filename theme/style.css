@@ -803,12 +803,12 @@ input#s { width:208px; padding:5px; }
 #content .contact-form li.full { clear:both; }
 #content .contact-form li.full label { display: block }  
 #content .contact-form li.textarea-field { clear:both; width:auto; float:none; }
-#content .contact-form label span.label { font-family:'Yanone Kaffeesatz' !important; font-size:1.286em; }
+#content .contact-form label span.label { font-family:'Yanone Kaffeesatz' !important; font-size:1.286em; display: block; }
 #content .contact-form label span.sublabel { font-family: "Droid Sans", serif; font-size: 11px; color: #9C9B9B }  
 #content .contact-form li.text-field input, #content .contact-form li.checkbox-field input, #content .contact-form li.file-field input, #content .contact-form li select, #content .contact-form li textarea { border:1px solid #cecbcb; margin-top:10px; padding:10px; }
-#content .contact-form li.text-field input, #content .contact-form li select { font-size: 12px; background-color:#fff; width:97.5%; }
+#content .contact-form li.text-field input, #content .contact-form li select { font-size: 12px; background-color:#fff; width:100%; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;	box-sizing: border-box; }
 #content .contact-form li select { padding:10px; }
-#content .contact-form li textarea {  width:97%; height:150px; background-color:#fff; } 
+#content .contact-form li textarea { width:100%; height:150px; background-color:#fff; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;	box-sizing: border-box; }
 #content .contact-form li.icon input, #content .contact-form li.icon textarea, #content .contact-form li input.icon, #content .contact-form li textarea.icon { background-repeat:no-repeat; } 
 #content .contact-form li.icon input, #content .contact-form li input.icon { background-position:98% center; }
 #content .contact-form li.icon textarea, #content .contact-form li textarea.icon { background-position: 98% 15px; }

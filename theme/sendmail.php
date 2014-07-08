@@ -21,7 +21,7 @@ define('FROM_NAME', 'Prueba Nuevo Sitio');
  * email: %email%   
  */ 
 define( 'BODY', '%message%<br /><br /><small>Enviado por %name%, email %email%.</small>' );
-define( 'SUBJECT', '%messagetype% - Email enviado desde página de contacto.' );
+define( 'SUBJECT', '[SitioWeb] - %messagetype%' );
 
 // here the redirect, when the form is submitted
 define( 'ERROR_URL', 'error.html' );
@@ -31,7 +31,7 @@ define( 'NOTSENT_URL', 'emailnoenviado.html' );
 // the message feedback of ajax request
 $msg = array(
     'error' => '<p class="error">Por favor corrija los campos marcados en rojo.</p>',
-    'success' => '<p class="success">El EMail se envi&oacute; correctamente. Gracias por contactarse con nosotros.</p>',
+    'success' => '<p class="success">Gracias por contactarse con nosotros! Le responderemos a la brevedad.</p>',
     'not-sent' => '<p class="error">Ocurrió un error. Por favor intente nuevamente.</p>'
 );      
     
@@ -66,8 +66,8 @@ function sendemail()
 	    
 	    $post_data = array_map( 'stripslashes', $_POST );
 	    
-// 	    print_r($post_data);
-// 	    die;
+	    // print_r($post_data);
+	    // die;
 	    
 	    foreach ( $required as $id_field ) {
     	    if( $post_data[$id_field] == '' || is_null( $post_data[$id_field] ) ) {
@@ -88,21 +88,18 @@ function sendemail()
 	    {
 	    	if( $id == 'message' ) $var = nl2br($var);
 			$body = str_replace( "%$id%", $var, $body );	
-			$subject = str_replace( "%$id%", $var, $subject );
 		}
+		
+		$subject = str_replace( "%messagetype%", $post_data['messagetype'], $subject );
 
 		require_once("fzo.mail.php"); 
 		$mail = new SMTP("localhost","info@grangaleriadevoto.com","Refrescola09"); 
 	    
-		// $headers  = 'mime-version: 1.0' . "\r\n";
-		// $headers .= 'content-type: text/html; charset=utf-8' . "\r\n";
-		// $headers .= 'from: '.FROM_NAME.' <'.FROM_EMAIL.'>' . "\r\n" . 'reply-to: ' . $post_data['email'];
-	
 		$headers = $mail->make_header(FROM_EMAIL, TO_EMAIL, $subject, 3, $cc, $bcc ); 
 		$headers .= 'mime-version: 1.0' . "\r\n";
 		$headers .= 'content-type: text/html; charset=utf-8' . "\r\n";
 		$headers .= "Reply-To: ".$post_data['email']." \r\n";
-	 /* Pueden definirse más encabezados. Tener en cuenta la terminación de la linea con (\r\n) $header .= "Reply-To: ".$_POST['from']." \r\n"; $header .= "Content-Type: text/plain; charset=\"iso-8859-1\" \r\n"; $header .= "Content-Transfer-Encoding: 8bit \r\n"; $header .= "MIME-Version: 1.0 \r\n"; */
+		/* Pueden definirse más encabezados. Tener en cuenta la terminación de la linea con (\r\n) $header .= "Reply-To: ".$_POST['from']." \r\n"; $header .= "Content-Type: text/plain; charset=\"iso-8859-1\" \r\n"; $header .= "Content-Transfer-Encoding: 8bit \r\n"; $header .= "MIME-Version: 1.0 \r\n"; */
 	
 		$error = $mail->smtp_send(FROM_EMAIL, TO_EMAIL, $headers, $body, $cc, $bcc); 
 		// $sendmail = mail( TO_EMAIL, SUBJECT, $body, $headers );
