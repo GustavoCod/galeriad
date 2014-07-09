@@ -59,11 +59,9 @@
                 <!-- START NAV -->
                 <div id="nav" class="group">
                     <ul class="level-1 white">
-                        <li class="home"><a href="shortcode-typography.html">GALERÍA</a>
-                        </li>
+                        <li class="home"><a href="shortcode-typography.html">GALERÍA</a> </li>
                         <li class="folder"><a href="portfolio-big-image.html">VILLA DEVOTO</a> </li>
-                        <li class="bookmark"><a href="portfolio-filterable.html">LOCALES</a>
-                        </li>
+                        <li class="bookmark"><a href="portfolio-filterable.html">LOCALES</a> </li>
                         <li class="email"><a href="contact.html">CONTACTO</a></li>
                     </ul>
                 </div>
@@ -95,7 +93,7 @@
 
                     var header_map = { "tab_open": "Ver mapa", "tab_close": "Ocultar" };
                 </script>
-                <div id="map-wrap" class="opened">
+                <div id="map-wrap" class="closed">
                     <div id="map">
                     </div>
                 </div>
@@ -111,91 +109,14 @@
                     <div class="ds h5 o5">
                     </div>
                 </div>
-                <a href="#" class="tab-label opened">Ocultar</a>
+                <a href="#" class="tab-label closed">Ver mapa</a>
             </div>
             <!-- END MAP -->
             <!-- START CONTENT -->
-            <div id="content" class="layout-sidebar-right group">
+            <div id="content" class="layout-sidebar-no group">
                 <!-- START PRIMARY -->
                 <div id="primary" class="hentry group wrapper-content" role="main">
-                    <h2>
-                        Contacto
-                    </h2>
-                    <form class="contact-form" method="post" action="sendmail.php" enctype="multipart/form-data">
-                    <!-- The feedback message is here -->
-                    <div class="usermessagea">
-                        Por favor, complete el formulario para hacer su consulta, comentario o sugerencia.
-                        <br />
-                        Gracias!
-                        <br />
-                        <br />
-                    </div>
-                    <ul>
-                        <!-- NAME FIELD -->
-                        <li class="text-field">
-                            <label for="name-main">
-                                <span class="label">Nombre</span>
-                            </label>
-                            <input type="text" name="name" id="name-form" class="required" value="" />
-                            <div class="msg-error">
-                            </div>
-                        </li>
-                        <!-- END NAME FIELD -->
-                        <!-- EMAIL FIELD -->
-                        <li class="text-field">
-                            <label for="email-main">
-                                <span class="label">Mail</span>
-                            </label>
-                            <input type="text" name="email" id="email-form" class="required email-validate" value="" />
-                            <div class="msg-error">
-                            </div>
-                        </li>
-                        <!-- END EMAIL FIELD -->
-                        <!-- MESSAGE TYPE FIELD -->
-                        <li>
-                            <label for="messagetype-main">
-                                <span class="label">Tipo de mensaje</span>
-                            </label>
-                            <select name="messagetype" id="messagetype-form">
-                                <option value="consulta">Consulta</option>
-                                <option value="comentario">Comentario</option>
-                                <option value="sugerencia">Sugerencia</option>
-                                <option value="otro">Otro</option>
-                            </select>
-                            <div class="msg-error">
-                            </div>
-                        </li>
-                        <!-- END MESSAGE TYPE FIELD -->
-                        <!-- MESSAGE FIELD -->
-                        <li class="textarea-field">
-                            <label for="message-main">
-                                <span class="label">Mensaje</span>
-                            </label>
-                            <textarea name="message" id="message-form" rows="8" cols="30" class="required"></textarea>
-                            <div class="msg-error">
-                            </div>
-                        </li>
-                        <!-- END MESSAGE FIELD -->
-                        <!-- SUBMIT FIELD -->
-                        <li class="submit-button">
-                            <input type="hidden" name="action" value="sendmail" id="action" />
-                            <input type="submit" name="sendmail" value="Enviar" class="sendmail alignleft" />
-                        </li>
-                    </ul>
-                    </form>
-                    <script type="text/javascript">
-                        // specif here the message for each field of contact form, by ID of field
-                        var error_messages = {
-                            name: "Por favor complete su nombre.",
-                            email: "Por favor ingrese una dirección de email válida.",
-                            message: "Por favor ingrese un mensaje."
-                        };
-                    </script>
-                </div>
-                <!-- END CONTENT -->
-                <!-- START SIDEBAR -->
-                <div id="sidebar" class="group">
-                    <div class="widget-first widget text-image">
+                    <div id="contactInfo" class="content-left-col">
                         <h3>
                             Dirección
                         </h3>
@@ -218,7 +139,7 @@
                             Colectivos
                         </h4>
                         <p>
-                            108-105-114-107-85-134-80-146
+                            108 - 105 - 114 - 107 - 85 - 134 - 80 - 146
                         </p>
                         <h3>
                             Teléfono
@@ -233,7 +154,84 @@
                             Lunes a Viernes de 16 a 20hs.
                         </p>
                     </div>
+                    <div id="contactFormDiv" class="content-right-col">
+                        <h2>
+                            Contacto
+                        </h2>
+                        <form class="contact-form" method="post" action="sendmail.php" enctype="multipart/form-data">
+                        <!-- The feedback message is here -->
+                        <div class="usermessagea">
+                            Por favor, complete el formulario para hacer su consulta, comentario o sugerencia.
+                            <br />
+                            Gracias!
+                            <br />
+                            <br />
+                        </div>
+                        <ul>
+                            <!-- NAME FIELD -->
+                            <li class="text-field">
+                                <label for="name-main">
+                                    <span class="label">Nombre</span>
+                                </label>
+                                <input type="text" name="name" id="name-form" class="required" value="" />
+                                <div class="msg-error">
+                                </div>
+                            </li>
+                            <!-- END NAME FIELD -->
+                            <!-- EMAIL FIELD -->
+                            <li class="text-field">
+                                <label for="email-main">
+                                    <span class="label">Mail</span>
+                                </label>
+                                <input type="text" name="email" id="email-form" class="required email-validate" value="" />
+                                <div class="msg-error">
+                                </div>
+                            </li>
+                            <!-- END EMAIL FIELD -->
+                            <!-- MESSAGE TYPE FIELD -->
+                            <li>
+                                <label for="messagetype-main">
+                                    <span class="label">Tipo de mensaje</span>
+                                </label>
+                                <select name="messagetype" id="messagetype-form">
+                                    <option value="consulta">Consulta</option>
+                                    <option value="comentario">Comentario</option>
+                                    <option value="sugerencia">Sugerencia</option>
+                                    <option value="otro">Otro</option>
+                                </select>
+                                <div class="msg-error">
+                                </div>
+                            </li>
+                            <!-- END MESSAGE TYPE FIELD -->
+                            <!-- MESSAGE FIELD -->
+                            <li class="textarea-field">
+                                <label for="message-main">
+                                    <span class="label">Mensaje</span>
+                                </label>
+                                <textarea name="message" id="message-form" rows="8" cols="30" class="required"></textarea>
+                                <div class="msg-error">
+                                </div>
+                            </li>
+                            <!-- END MESSAGE FIELD -->
+                            <!-- SUBMIT FIELD -->
+                            <li class="submit-button">
+                                <input type="hidden" name="action" value="sendmail" id="action" />
+                                <input type="submit" name="sendmail" value="Enviar" class="sendmail alignleft" />
+                            </li>
+                        </ul>
+                        </form>
+                        <script type="text/javascript">
+                            // specif here the message for each field of contact form, by ID of field
+                            var error_messages = {
+                                name: "Por favor complete su nombre.",
+                                email: "Por favor ingrese una dirección de email válida.",
+                                message: "Por favor ingrese un mensaje."
+                            };
+                        </script>
+                    </div>
                 </div>
+                <!-- END CONTENT -->
+                <!-- START SIDEBAR -->
                 <!-- END SIDEBAR -->
             </div>
             <!-- END CONTENT -->
