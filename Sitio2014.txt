@@ -1,9 +1,10 @@
 Notas
 -----
 
-- Móviles: 
-	Resolucion max candidata: 768x1024
-	Mas usados: ipad e iphone
+Móviles
+-------
+Resolucion max candidata: 768x1024
+Mas usados: ipad e iphone
 
 Detección de dispositivos móviles
 ---------------------------------
@@ -30,12 +31,16 @@ Layout
 ------
 Columnas y cajas: http://masonry.desandro.com/
 
-Consultas
----------
-Ver si poner el mail en la página de contacto o solo poner el formulario.
 
 TODO
 ----
 
+  Contacto
+  --------
+  - Ver si poner el mail en la página de contacto o solo poner el formulario.
+  > Por ahora no ponerlo, para que no se llene de SPAM la casilla.
 
+  - En vez de obtener el marcador por latitud y longitud, hacerlo por el nombre de la empresa asi muestra la ficha
+
+  - Agregar separador entre datos de contacto y formulario: http://kaliko.com/blog/add-vertical-dividers-with-css/
 
