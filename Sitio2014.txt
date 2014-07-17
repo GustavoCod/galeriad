@@ -37,6 +37,11 @@ TODO
 
   Contacto
   --------
+
+  - Agregar font awesome para iconos
+
+  - Ver la posibilidad de cargar el mapa cuando el usuario hace click en "Ver mapa"
+
   - Ver si poner el mail en la página de contacto o solo poner el formulario.
   > Por ahora no ponerlo, para que no se llene de SPAM la casilla.
 
