@@ -1,51 +1,56 @@
+Recursos
+--------
+
+	Móviles
+	-------
+	Resolucion max candidata: 768x1024
+	Mas usados: ipad e iphone
+
+	Detección de dispositivos móviles
+	---------------------------------
+	http://www.iosres.com/
+	http://www.slideshare.net/bryanrieger/rethinking-the-mobile-web-by-yiibu
+	http://www.mobilemoxie.com/2011/03/user-agent-detection-and-redirection/
+	http://programmers.stackexchange.com/questions/199228/responsive-web-design-vs-user-agent-sniffing
+	http://blog.adrianroselli.com/2011/10/detecting-mobile-devices.html
+	http://www.smashingmagazine.com/2012/09/24/server-side-device-detection-history-benefits-how-to/
+
+	Slide shows
+	-----------
+	http://www.web-desings.com/2012/08/02/20-excelentes-slider-show-para-utilizar-en-tu-web.html
+
+	Twitter
+	-------
+	http://www.asp.net/AjaxLibrary/AjaxControlToolkitSampleSite/Twitter/Twitter.aspx
+
+	Layout
+	------
+	Columnas y cajas: http://masonry.desandro.com/
+
+	Iconos
+	------
+	http://fortawesome.github.io/Font-Awesome/
+
+
 Notas
 -----
 
-Móviles
--------
-Resolucion max candidata: 768x1024
-Mas usados: ipad e iphone
-
-Detección de dispositivos móviles
----------------------------------
-http://www.iosres.com/
-http://www.slideshare.net/bryanrieger/rethinking-the-mobile-web-by-yiibu
-http://www.mobilemoxie.com/2011/03/user-agent-detection-and-redirection/
-http://programmers.stackexchange.com/questions/199228/responsive-web-design-vs-user-agent-sniffing
-http://blog.adrianroselli.com/2011/10/detecting-mobile-devices.html
-http://www.smashingmagazine.com/2012/09/24/server-side-device-detection-history-benefits-how-to/
-
-Slide shows
------------
-http://www.web-desings.com/2012/08/02/20-excelentes-slider-show-para-utilizar-en-tu-web.html
-
-Dattatec - Panel de control
----------------------------
-31/05/2014: Cambie la versión de ASP.NET Framework de ".NET Framework 1.1 - Modo clásico" a ".NET Framework 4 - Modo clásico"
-
-Twitter
--------
-http://www.asp.net/AjaxLibrary/AjaxControlToolkitSampleSite/Twitter/Twitter.aspx
-
-Layout
-------
-Columnas y cajas: http://masonry.desandro.com/
-
+	Dattatec - Panel de control
+	---------------------------
+	31/05/2014: Cambie la versión de ASP.NET Framework de ".NET Framework 1.1 - Modo clásico" a ".NET Framework 4 - Modo clásico"
 
 TODO
 ----
 
-  Contacto
-  --------
+	Contacto
+	--------
 
-  - Agregar font awesome para iconos
+	- Ver la posibilidad de cargar el mapa cuando el usuario hace click en "Ver mapa"
 
-  - Ver la posibilidad de cargar el mapa cuando el usuario hace click en "Ver mapa"
+	- Ver si poner el mail en la página de contacto o solo poner el formulario.
+	> Por ahora no ponerlo, para que no se llene de SPAM la casilla.
 
-  - Ver si poner el mail en la página de contacto o solo poner el formulario.
-  > Por ahora no ponerlo, para que no se llene de SPAM la casilla.
+	- En vez de obtener el marcador por latitud y longitud, hacerlo por el nombre de la empresa asi muestra la ficha
 
-  - En vez de obtener el marcador por latitud y longitud, hacerlo por el nombre de la empresa asi muestra la ficha
-
-  - Agregar separador entre datos de contacto y formulario: http://kaliko.com/blog/add-vertical-dividers-with-css/
+	- Agregar separador entre datos de contacto y formulario: http://kaliko.com/blog/add-vertical-dividers-with-css/
 

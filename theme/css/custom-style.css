@@ -34,3 +34,7 @@ p, li {
  .content-right-col {
     overflow: hidden;
 }
+
+.title-with-icon {
+    margin-left: 10px;
+}
