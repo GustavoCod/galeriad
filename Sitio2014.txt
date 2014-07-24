@@ -42,6 +42,10 @@ Notas
 TODO
 ----
 
+	Principal
+	---------
+	- Se pixela el logo al hacer zoom
+
 	Contacto
 	--------
 
