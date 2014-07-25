@@ -49,6 +49,8 @@ TODO
 	Contacto
 	--------
 
+	- Poner el cursor en el primer textbox cuando carga la página
+
 	- Ver la posibilidad de cargar el mapa cuando el usuario hace click en "Ver mapa"
 
 	- Ver si poner el mail en la página de contacto o solo poner el formulario.
