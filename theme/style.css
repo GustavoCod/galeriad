@@ -209,7 +209,7 @@ body.no_js #nav ul li:hover > ul { display:block }
 #content #slogan {padding-top:0;}
 .home #slogan {background:none;}
 #slogan h1 { font-size:2.14em; color:#454545; padding-bottom:0.3em; }
-#slogan h3, #slogan h1.only { font-size:1.714em; color:#5d5c5c; } 
+#slogan h3, #slogan h1.only { font-size:1.714em; color:#999; } 
 .cufon-delicious #slogan h3, .cufon-delicious #slogan h1.only { letter-spacing:-1px; }  
 #slogan h1, #slogan h3 { margin:0; font-weight:normal; }
 #slogan h1 span, #slogan h3 span { color:#a6a4a4; }
@@ -465,7 +465,7 @@ a.zoom { position:absolute; width:280px; height:204px; left:5px; top:5px; text-i
 .internal_page_item_gallery a.zoom { margin: 6px 6px }
 .internal_page_item_gallery { margin-top: 0; } 
 #portfolio-gallery .overlay {display:none; background: none repeat scroll 0 0 #FCFCFC;height:100%;left:0;overflow: hidden; position: absolute; top: 0; width: 100%;}
-#portfolio-gallery .overlay a.icon-more {background:url('images/more.png') no-repeat;border-left-width:0px;bottom:0;height:20px;position:absolute;right:0;width:20px;text-indent:-9999px;}
+#portfolio-gallery .overlay a.icon-more {background:url('images/more2.png') no-repeat;border-left-width:0px;bottom:5px;height:20px;position:absolute;right:5px;width:20px;text-indent:-9999px;}
 #portfolio-gallery .overlay a.icon-zoom {background:url('images/zoom.png') no-repeat;bottom:0;height:20px;position:absolute;right:20px;text-indent:-9999px;width:20px;}
 #portfolio-gallery .overlay p {color: #666666;font-size:12px; margin:50px 10px 10px 10px!important;}
 .no_js #portfolio-gallery .overlay:hover {opacity: 1;}
