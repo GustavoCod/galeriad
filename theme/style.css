@@ -1295,16 +1295,18 @@ html[xmlns] .slides {display: block;}
 			 
 
 #localesbanner {
-	border:#666 1px;
-	float: left;
-	background-color:#333;
+	width: 45%;
+	border: 1px solid #CCC;
+	/*background-color:#333;*/
 	height: 200px;
-	width: 50%
+	float:right;
+	margin-right: 5%;
 		}
 #facebook {
-	width: 50%;
-	border:#666 1px;
+	width: 45%;
+	border: 1px solid #CCC;
 	float: left;
-	background-color:#333;
+	/*background-color:#333;*/
 	height: 200px;
+	margin-right: 5%;	
 	}
