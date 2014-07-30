@@ -38,3 +38,16 @@ p, li {
 .title-with-icon {
     margin-left: 10px;
 }
+
+/*Este codigo no es necesario si las imagenes tienen el tamaño correcto*/
+/*.bx-wrapper {
+    height: 400px !important;
+}
+
+.bx-viewport {
+    height: 380px !important;
+}
+
+.bxslider img {
+    height: 350px !important;
+}*/

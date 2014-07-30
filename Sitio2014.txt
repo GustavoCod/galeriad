@@ -18,6 +18,7 @@ Recursos
 	Slide shows
 	-----------
 	http://www.web-desings.com/2012/08/02/20-excelentes-slider-show-para-utilizar-en-tu-web.html
+	Usado: http://bxslider.com/
 
 	Twitter
 	-------
@@ -53,10 +54,15 @@ TODO
 
 	- Ver la posibilidad de cargar el mapa cuando el usuario hace click en "Ver mapa"
 
-	- Ver si poner el mail en la página de contacto o solo poner el formulario.
-	> Por ahora no ponerlo, para que no se llene de SPAM la casilla.
-
 	- En vez de obtener el marcador por latitud y longitud, hacerlo por el nombre de la empresa asi muestra la ficha
 
 	- Agregar separador entre datos de contacto y formulario: http://kaliko.com/blog/add-vertical-dividers-with-css/
+	
+	Miro.html
+	---------
+	
+	- Hacer que todas las imagenes tengan 300px de alto.
+	
+	- Ver el tema de la sombra del slider y los estilos. El pager está muy arriba y cuando se achica el espacio en pantalla pisa el slider.
 
+	- Pensar plan B para cuando JavaScript está desactivado. El slider no funciona. Ver clase no_js y no-js (Modernizr)
