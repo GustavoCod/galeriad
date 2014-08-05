@@ -31,7 +31,7 @@ p, li {
     width: 30%;
 }
 
- .content-right-col {
+.content-right-col {
     overflow: hidden;
 }
 
@@ -51,3 +51,17 @@ p, li {
 .bxslider img {
     height: 350px !important;
 }*/
+
+.bx-wrapper .bx-viewport {
+    box-shadow: none !important;
+    border: 0px !important;
+    left: 0px !important;
+}
+
+.bx-wrapper ul {
+    margin: 0px;
+}
+
+.bx-wrapper .bx-pager.bx-default-pager, .bx-wrapper .bx-controls-auto {
+    line-height: 1em !important;
+}

@@ -1,10 +1,5 @@
 $(document).ready(function () {
 
-    $('.bxslider').bxSlider({
-        auto: true,
-        autoControls: true
-    });
-
     $('body').removeClass('no_js').addClass('yes_js');
 
     $('a.no-link').click(function () { return false; });

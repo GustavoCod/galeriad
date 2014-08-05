@@ -61,8 +61,7 @@ TODO
 	Miro.html
 	---------
 	
-	- Hacer que todas las imagenes tengan 300px de alto.
+	- Hacer que todas las imagenes del slider tengan 640px de ancho y 300px de alto. 
+	> HECHO
 	
-	- Ver el tema de la sombra del slider y los estilos. El pager está muy arriba y cuando se achica el espacio en pantalla pisa el slider.
-
 	- Pensar plan B para cuando JavaScript está desactivado. El slider no funciona. Ver clase no_js y no-js (Modernizr)
