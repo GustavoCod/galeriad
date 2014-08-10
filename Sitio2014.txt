@@ -64,6 +64,8 @@ TODO
 	- Hacer que todas las imagenes del slider tengan 640px de ancho y 300px de alto. 
 	> HECHO
 	
+	- Agregar secciones "Productos que encontraras aqui" y "Medios de pago aceptados"
+	
 	- Construir las master pages
 	
 	- Pensar plan B para cuando JavaScript está desactivado. El slider no funciona. Ver clase no_js y no-js (Modernizr)
