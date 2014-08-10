@@ -5,6 +5,10 @@
 .home-sections .section .section-title h4, .home-sections .section .section-title p {display:none;}
 .home-sections .section .section-content {margin-left:0;}                      
 
-.one-fourth, .one-third, .two-fourth, .two-third {width:100%;float:none;}
+.one-fourth, .one-third, .two-fourth, .two-third, .three-fourth {width:100%;float:none;}
 
 table td, table th {padding:5px 10px;}
+
+.portfolio-post #storeDescription {
+    clear:both;
+}

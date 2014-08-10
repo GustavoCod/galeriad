@@ -65,3 +65,11 @@ p, li {
 .bx-wrapper .bx-pager.bx-default-pager, .bx-wrapper .bx-controls-auto {
     line-height: 1em !important;
 }
+
+.portfolio-post #storeDescription {
+    overflow: hidden;
+}
+
+#relatedStores {
+    height: 300px;
+}

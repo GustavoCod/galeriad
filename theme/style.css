@@ -566,7 +566,7 @@ a.video a.zoom { background:#000 url('images/icons/play.png') center no-repeat }
 .portfolio-post .work-skillsdate p { line-height: 1em; font-size: 11px; text-transform: uppercase; margin-left: 0 }
 .portfolio-post .work-skillsdate span { font-size: 18px; font-family: "Yanone Kaffeesatz", serif; padding-right: 5px; text-transform: none }
 #content .portfolio-post h2 {clear:none;margin-bottom:8px;}
-.portfolio-post p { margin-left: 200px; }
+/*.portfolio-post p { margin-left: 200px; }*/
 /* ====================== END PORTFOLIO GALLERY ====================== */        
                                                                  
                                                                  
@@ -990,6 +990,7 @@ code, pre {background-color:#e8ebec;border:1px dotted #bbb;color:#333;font:13px/
 .one-third  {float:left;margin-right:3%;width:31.33%;}
 .two-third  {float:left;margin-right:3%;width:65.66%;}
 .two-fourth {float:left;margin-right:3%;width:48.5%;}
+.three-fourth {float:left;margin-right:3%;width:68.25%;}
 
 /*bullet*/
 ul.short {margin:20px 0;padding:0;list-style-type:none!important;}
