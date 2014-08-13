@@ -140,7 +140,7 @@ $(document).ready(function () {
 
     // gallery hover
     $(".gallery-wrap .internal_page_item .overlay").css({ opacity: 0 });
-    $(".gallery-wrap .internal_page_item").live('mouseover mouseout', function (event) {
+    $(".gallery-wrap .internal_page_item").on('mouseover mouseout', function (event) {
         if (event.type == 'mouseover') $('.overlay', this).show().stop(true, false).animate({ opacity: 1 }, "fast");
         if (event.type == 'mouseout') $('.overlay', this).animate({ opacity: 0 }, "fast", function () { $(this).hide() });
     });
@@ -206,73 +206,73 @@ $(document).ready(function () {
 
         check_position();
 
-        $('.next:not(.disabled)', slider_wrap).live('click', function () {
+        $('.next:not(.disabled)', slider_wrap).on('click', function () {
             $('ul', slider_wrap).animate({ marginTop: '-=' + height_item }, 200, function () { check_position(); });
             $('.prev', slider_wrap).removeClass('disabled');
             return false;
         });
 
-        $('.prev:not(.disabled)', slider_wrap).live('click', function () {
+        $('.prev:not(.disabled)', slider_wrap).on('click', function () {
             $('ul', slider_wrap).animate({ marginTop: '+=' + height_item }, 200, function () { check_position(); });
             $('.next', slider_wrap).removeClass('disabled');
             return false;
         });
 
-        $('.disabled', slider_wrap).live('click', function () {
+        $('.disabled', slider_wrap).on('click', function () {
             return false;
         });
     });
 
     /* twitter slider in footer */
-    $('#twitter-slider .tweets-list').tweetable({
-        username: 'YIW',
-        items: 5,
-        time: true,
-        loaded: function () {
-            $('.tweets-list ul').addClass('slides');
-            $('.tweets-list').flexslider({
-                animation: "slide",
-                slideDirection: "vertical",
-                slideshowSpeed: 5000,
-                animationDuration: 500,
-                directionNav: false,
-                controlNav: false,
-                keyboardNav: false
-            });
-        }
-    });
+//    $('#twitter-slider .tweets-list').tweetable({
+//        username: 'YIW',
+//        items: 5,
+//        time: true,
+//        loaded: function () {
+//            $('.tweets-list ul').addClass('slides');
+//            $('.tweets-list').flexslider({
+//                animation: "slide",
+//                slideDirection: "vertical",
+//                slideshowSpeed: 5000,
+//                animationDuration: 500,
+//                directionNav: false,
+//                controlNav: false,
+//                keyboardNav: false
+//            });
+//        }
+//    });
 
     /* testimonial slider in home section */
     // if ( 'cycle' in $ ) {         
-    $(".cites").cycle({
-        fx: "scrollHorz",
-        width: "100%",
-        slideResize: true,
-        fit: 1,
-        timeout: 8000,
-        containerResize: false,
-        animOut: {
-            opacity: 0
-        },
-        animIn: {
-            opacity: 1
-        },
-        before: function (currSlideElement, nextSlideElement, options, forwardFlag) {
-            var i = $(nextSlideElement).index();
-            $("ul.testimonials li").removeClass("active");
-            $("ul.testimonials li:eq(" + i + ")").addClass("active");
-            if (typeof Cufon != "undefined")
-                Cufon.refresh();
-        }
-    });
-    $("ul.testimonials li").click(function () {
-        var i = $(this).index();
-        $(".cites").cycle(i);
-        $("ul.testimonials li").removeClass("active");
-        $("ul.testimonials li:eq(" + i + ")").addClass("active");
-        if (typeof Cufon != "undefined")
-            Cufon.refresh();
-    });
+//    $(".cites").cycle({
+//        fx: "scrollHorz",
+//        width: "100%",
+//        slideResize: true,
+//        fit: 1,
+//        timeout: 8000,
+//        containerResize: false,
+//        animOut: {
+//            opacity: 0
+//        },
+//        animIn: {
+//            opacity: 1
+//        },
+//        before: function (currSlideElement, nextSlideElement, options, forwardFlag) {
+//            var i = $(nextSlideElement).index();
+//            $("ul.testimonials li").removeClass("active");
+//            $("ul.testimonials li:eq(" + i + ")").addClass("active");
+//            if (typeof Cufon != "undefined")
+//                Cufon.refresh();
+//        }
+//    });
+//    $("ul.testimonials li").click(function () {
+//        var i = $(this).index();
+//        $(".cites").cycle(i);
+//        $("ul.testimonials li").removeClass("active");
+//        $("ul.testimonials li:eq(" + i + ")").addClass("active");
+//        if (typeof Cufon != "undefined")
+//            Cufon.refresh();
+//    });
     //}
 
     /* works slider in home page */

@@ -99,7 +99,7 @@ jQuery(document).ready(function($){
             return false;
     	});     
     	
-    	$('.close_msg').live( 'click', function(){                
+    	$('.close_msg').on( 'click', function(){                
     		$(this).parents('form').find('ul').slideDown(500);
     		$(this).parent().remove();
     		return false;
