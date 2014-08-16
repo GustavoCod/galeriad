@@ -39,6 +39,7 @@ Notas
 	Dattatec - Panel de control
 	---------------------------
 	31/05/2014: Cambie la versión de ASP.NET Framework de ".NET Framework 1.1 - Modo clásico" a ".NET Framework 4 - Modo clásico"
+	16/08/2014: Cambie la versión "PHP 5.2.17 - Modo clásico" a ".NET Framework 4 - Modo clásico"
 
 TODO
 ----
@@ -50,6 +51,8 @@ TODO
 	Contacto
 	--------
 
+	- Corregir layout en teléfono movil. Poner el texto de "Enviado satisfactoriamente" abajo del botón enviar.
+	
 	- Poner el cursor en el primer textbox cuando carga la página
 
 	- Ver la posibilidad de cargar el mapa cuando el usuario hace click en "Ver mapa"
@@ -66,6 +69,6 @@ TODO
 	
 	- Agregar secciones "Productos que encontraras aqui" y "Medios de pago aceptados"
 	
-	- Construir las master pages
+	- Explicar a tami como se usan las master pages
 	
 	- Pensar plan B para cuando JavaScript está desactivado. El slider no funciona. Ver clase no_js y no-js (Modernizr)

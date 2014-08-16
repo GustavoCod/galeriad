@@ -1,0 +1,75 @@
+body, .stretched-layout .bgWrapper {
+    background-color: #454545;
+    background-image: url('../images/backgrounds/patterns/cuadradito.jpg');
+    background-position: top center;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+.wrapper-content {
+    width: 620px;
+}
+
+h1, h2, h3, h4, h5, h6, .special-font {
+    font-family: 'Yanone Kaffeesatz' !important;
+}
+
+#nav > ul > li > a {
+    font-family: Verdana, Geneva, sans-serif !important;
+}
+
+p, li {
+    font-family: Calibri, 'Lucida Sans Unicode' , Helvetica, Arial, san-serif !important;
+}
+
+#topbar {
+    text-align: right;
+}
+
+.content-left-col {
+    float: left;
+    width: 30%;
+}
+
+.content-right-col {
+    overflow: hidden;
+}
+
+.title-with-icon {
+    margin-left: 10px;
+}
+
+/*Este codigo no es necesario si las imagenes tienen el tamaño correcto*/
+/*.bx-wrapper {
+    height: 400px !important;
+}
+
+.bx-viewport {
+    height: 380px !important;
+}
+
+.bxslider img {
+    height: 350px !important;
+}*/
+
+.bx-wrapper .bx-viewport {
+    box-shadow: none !important;
+    border: 0px !important;
+    left: 0px !important;
+}
+
+.bx-wrapper ul {
+    margin: 0px;
+}
+
+.bx-wrapper .bx-pager.bx-default-pager, .bx-wrapper .bx-controls-auto {
+    line-height: 1em !important;
+}
+
+.portfolio-post #storeDescription {
+    overflow: hidden;
+}
+
+#relatedStores {
+    height: 300px;
+}

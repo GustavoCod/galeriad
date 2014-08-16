@@ -1,0 +1,64 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Principal.master" AutoEventWireup="true" CodeFile="Local.master.cs" Inherits="locales_Local" %>
+
+<asp:Content ID="cHead" ContentPlaceHolderID="cphHead" runat="Server">
+    <asp:ContentPlaceHolder ID="cphMetaDescription" runat="server" />
+    <link rel="stylesheet" type="text/css" media="all" href="../jquery.bxslider/jquery.bxslider.css" />
+    <script type="text/javascript" src="../jquery.bxslider/jquery.bxslider.min.js"></script>
+    <script type="text/javascript" src="../js/local.js"></script>
+</asp:Content>
+<asp:Content ID="cContent" ContentPlaceHolderID="cphContent" runat="Server">
+    <div id="content" class="layout-sidebar-no group">
+        <!-- SLOGAN -->
+        <div id="slogan" class="inner">
+            <h1>
+                <asp:ContentPlaceHolder ID="cphStoreName" runat="server" />
+            </h1>
+            <h4>
+                <asp:ContentPlaceHolder ID="cphStoreSector" runat="server" />
+            </h4>
+        </div>
+        <!-- END SLOGAN -->
+        <!-- START PRIMARY -->
+        <div id="primary" class="hentry group wrapper-content portfolio-post" role="main">
+            <div class="three-fourth">
+                <div class="post_header portfolio_header group">
+                    <!--slider-->
+                    <div class="hide-if-no-js">
+                        <ul class="bxslider">
+                            <asp:ContentPlaceHolder ID="cphStoreImages" runat="server" />
+                        </ul>
+                    </div>
+                    <!--<img alt="004" class="internal show-if-no-js" src="../images/portfolio/full-description/local-miro-1.jpg" />-->
+                </div>
+                <div class="post_content group">
+                    <div class="work-skillsdate">
+                        <asp:ContentPlaceHolder ID="cphStoreContactInfo" runat="server" />
+                    </div>
+                    <div id="storeDescription">
+                        <h3>
+                            Acerca del local
+                        </h3>
+                        <asp:ContentPlaceHolder ID="cphStoreDescription" runat="server" />
+                    </div>
+                </div>
+            </div>
+            <div id="relatedStores" class="one-fourth last">
+                <div class="widget-first widget more_projects">
+                    <h3>
+                        Locales relacionados
+                    </h3>
+                    <div class="more-projects-widget">
+                        <div class="sliderWrap">
+                            <asp:ContentPlaceHolder ID="cphRelatedStores" runat="server" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clear">
+            </div>
+        </div>
+        <!-- END CONTENT -->
+        <!-- START SIDEBAR -->
+        <!-- END SIDEBAR -->
+    </div>
+</asp:Content>

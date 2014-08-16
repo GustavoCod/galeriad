@@ -1,0 +1,105 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Principal.master.cs" Inherits="Principal" %>
+
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" dir="ltr" lang="es-AR">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" dir="ltr" lang="es-AR">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" dir="ltr" lang="es-AR">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html dir="ltr" lang="es-AR">
+<!--<![endif]-->
+<head runat="server">
+    <meta charset="UTF-8" />
+    <title></title>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" type="text/css" media="all" href="style.css" />
+    <link rel="stylesheet" type="text/css" media="screen and (max-width: 960px)" href="css/lessthen800.css" />
+    <link rel="stylesheet" type="text/css" media="screen and (max-width: 600px)" href="css/lessthen600.css" />
+    <link rel="stylesheet" type="text/css" media="screen and (max-width: 480px)" href="css/lessthen480.css" />
+    <!-- CUSTOM STYLE -->
+    <link rel="stylesheet" type="text/css" media="all" href="css/custom-style.css" />
+    <link rel="stylesheet" type="text/css" href="font-awesome-4.1.0/css/font-awesome.css" />
+    <!-- [favicon] begin -->
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
+    <!-- [favicon] end -->
+    <!-- MAIN FONT STYLE -->
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz%3A400&amp;subset=latin%2Ccyrillic%2Cgreek" type="text/css" media="all" />
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Droid+Sans" type="text/css" media="all" />
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Oswald" type="text/css" media="all" />
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz%3A200%2C400" type="text/css" media="all" />
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed%3A300%7CPlayfair+Display%3A400italic" type="text/css" media="all" />
+    <!-- END MAIN FONT STYLE -->
+    <script type="text/javascript" src="<%= Page.ResolveClientUrl("~/js/jquery-1.11.1.min.js") %>"></script>
+    <!-- CUSTOM JAVASCRIPT -->
+    <script type="text/javascript" src="<%= Page.ResolveClientUrl("~/js/jquery.custom.js") %>"></script>
+    <asp:ContentPlaceHolder ID="cphHead" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body class="image-sphere-style responsive">
+    <!-- START SHADOW WRAPPER -->
+    <div class="shadowBg group">
+        <!-- START WRAPPER -->
+        <div class="wrapper group">
+            <!-- START HEADER -->
+            <div id="header" class="group">
+                <!-- START LOGO -->
+                <div id="logo" class="group">
+                    <!-- TODO -->
+                    <asp:HyperLink ID="hlIndex" NavigateUrl="~/default.aspx" ToolTip="Gran Galería Devoto. Página principal." runat="server">
+                        <asp:Image ID="imgLogo" ImageUrl="~/images/logo.png" AlternateText="Logo de Gran Galería Devoto" runat="server" />
+                    </asp:HyperLink>
+                </div>
+                <!-- END LOGO -->
+                <!-- START NAV -->
+                <div id="nav" class="group">
+                    <ul class="level-1 white">
+                        <li class="home">
+                            <asp:HyperLink ID="hlHistory" NavigateUrl="~/shortcode-typography.html" runat="server">GALERÍA</asp:HyperLink>
+                        </li>
+                        <li class="folder">
+                            <asp:HyperLink ID="hlVillaDevoto" NavigateUrl="~/portfolio-big-image.html" runat="server">VILLA DEVOTO</asp:HyperLink>
+                        </li>
+                        <li class="bookmark">
+                            <asp:HyperLink ID="hlStores" NavigateUrl="~/portfolio-filterable.html" runat="server">LOCALES</asp:HyperLink>
+                        </li>
+                        <li class="email">
+                            <asp:HyperLink ID="hlMail" NavigateUrl="~/contacto.aspx" runat="server">CONTACTO</asp:HyperLink>
+                        </li>
+                    </ul>
+                </div>
+                <!-- END NAV -->
+            </div>
+            <!-- END HEADER -->
+            <!-- START MAIN CONTENT -->
+            <asp:ContentPlaceHolder ID="cphContent" runat="server" />
+            <!-- END MAIN CONTENT -->
+            <!-- START COPYRIGHT -->
+            <div id="copyright" class="group two-columns">
+                <div class="inner group">
+                    <p class="left">
+                        Copyright <strong>Gran Galería Devoto</strong>
+                        <script type="text/javascript">
+                            document.write(new Date().getFullYear())
+                        </script>
+                    </p>
+                    <p class="right">
+                        <asp:HyperLink ID="hlFacebook" NavigateUrl="https://es-la.facebook.com/pages/Gran-Galeria-Devoto/141649039331786" ToolTip="Gran Galería Devoto en Facebook" CssClass="socials facebook" Target="_blank" runat="server">
+                        Facebook
+                        </asp:HyperLink>
+                        <!-- <a href="#" class="socials mail" title="EMail">Email</a>-->
+                    </p>
+                </div>
+            </div>
+            <!-- END COPYRIGHT -->
+        </div>
+        <!-- END WRAPPER -->
+    </div>
+    <!-- END SHADOW -->
+</body>
+</html>
