@@ -815,7 +815,7 @@ input#s { width:208px; padding:5px; }
 #content .contact-form li.error input, #content .contact-form li.error textarea, #content .contact-form li.error select,
 #content .contact-form li input.error, #content .contact-form li textarea.error, #content .contact-form li select.error { background-image:url('images/icons/error.png'); border:1px solid #cf0606; } 
 #content .contact-form li.success input, #content .contact-form li.success textarea, #content .contact-form li.success select,
-#content .contact-form li input.success, #content .contact-form li textarea.success, #content .contact-form li select.success { background-image:url('images/icons/success.png'); }                     
+#content .contact-form li input.success, #content .contact-form li textarea.success, #content .contact-form li select.success {  }                     
 #content .contact-form li div.msg-error { font-style:normal; font-size:11px; color:#cf0606; height:14px; }    
 #content .contact-form li.submit-button {clear:both; width:auto; float:none;}      
 #content .contact-form li.checkbox-field label, #content .contact-form li.radio-field label { display: block; }
@@ -835,7 +835,7 @@ input#s { width:208px; padding:5px; }
 #content .contact-form li.submit-button input:hover { background: url("images/input_pattern_hover.png") repeat-x scroll 0 0 #fff; }
 #content .contact-form li.submit-button input[disabled] { color:#ddd; }
 #content .contact-form label, #content .contact-form input, #content .contact-form textarea { color:#4c4c4c; width:auto; }
-#content .contact-form p.success, #content .contact-form p.error { padding:10px 15px 10px 55px; border:1px solid; margin:0 auto 30px; background:no-repeat 15px center; width:400px; }
+#content .contact-form p.success, #content .contact-form p.error { padding:10px 15px 10px 55px; border:1px solid; background:no-repeat 15px center; max-width:400px; }
 #content .contact-form p.success { background-color:#effea9; border-color:#d7ee6e; color:#839607; background-image:url('images/icons/tick_contact.png'); }
 #content .contact-form p.error   { background-color:#fedccd; border-color:#fa8c83; color:#c82c1f; background-image:url('images/icons/error.png'); }
 #yiw_bot {display:none !important;}

@@ -7,7 +7,7 @@
 // email
 define('TO_EMAIL', 'gustavo.prueba@gmail.com'); 
 define('FROM_EMAIL', 'info@grangaleriadevoto.com');  
-define('FROM_NAME', 'Prueba Nuevo Sitio'); 
+//define('FROM_NAME', 'Prueba Nuevo Sitio'); 
 
 /**
  * define the body of the email. You can add some shortcode, with this format: %ID%
@@ -21,7 +21,7 @@ define('FROM_NAME', 'Prueba Nuevo Sitio');
  * email: %email%   
  */ 
 define( 'BODY', '%message%<br /><br /><small>Enviado por %name%, email %email%.</small>' );
-define( 'SUBJECT', '[SitioWeb] - %messagetype%' );
+define( 'SUBJECT', '[SitioWeb] - %messagetype% - %name%' );
 
 // here the redirect, when the form is submitted
 define( 'ERROR_URL', 'error.html' );
@@ -86,11 +86,15 @@ function sendemail()
 	    
 	    foreach( $post_data as $id => $var )
 	    {
-	    	if( $id == 'message' ) $var = nl2br($var);
-			$body = str_replace( "%$id%", $var, $body );	
+	    	if( $id == 'message' ) 
+				$var = nl2br($var);
+			
+			$body = str_replace( "%$id%", $var, $body );
 		}
 		
+		//$body = str_replace( "%", "Porcentaje", $body );
 		$subject = str_replace( "%messagetype%", $post_data['messagetype'], $subject );
+		$subject = str_replace( "%name%", $post_data['name'], $subject );
 
 		require_once("fzo.mail.php"); 
 		$mail = new SMTP("localhost","info@grangaleriadevoto.com","Refrescola09"); 
