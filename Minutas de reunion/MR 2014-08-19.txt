@@ -1,0 +1,26 @@
+Minuta de Reunion con Tami
+
+
+Tareas Tami
+-----------
+- Construir la página de cada local
+- Modificar las imagenes del slider para que tengan 640px de ancho y 300px de alto.
+- Hacer los iconos del menu.
+- Darle mas calidad al logo de la galeria.
+
+
+Tareas Gusti
+------------
+- Pedirle a los locatarios la información faltante.
+- Terminar la pagina contato.aspx
+- Terminar la pagina locales.aspx
+- Terminar la página historia.aspx
+- Terminar la página villadevoto.aspx
+- Poner correctamente los titulos y descripciones.
+
+
+ASP.NET
+-------
+Las páginas .aspx, .aspx.cs y .master se pueden abrir con Dreamweaver o con Notepad++.
+Para probar subir a www.grangaleriadevoto.com/nuevositio/
+
