@@ -51,8 +51,6 @@ TODO
 	Contacto
 	--------
 
-	- Poner el cursor en el primer textbox cuando carga la página
-
 	- Ver la posibilidad de cargar el mapa cuando el usuario hace click en "Ver mapa"
 
 	- En vez de obtener el marcador por latitud y longitud, hacerlo por el nombre de la empresa asi muestra la ficha

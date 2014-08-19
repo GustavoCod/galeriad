@@ -118,7 +118,7 @@
                             <label for="name-main">
                                 <span class="label">Nombre</span>
                             </label>
-                            <input type="text" name="name" id="name-form" class="required" value="" maxlength="30" />
+                            <input type="text" name="name" id="name-form" class="required" value="" maxlength="30" autofocus />
                             <div class="msg-error">
                             </div>
                         </li>
