@@ -1289,7 +1289,7 @@ html[xmlns] .slides {display: block;}
 /* FACEBOOK BOX
 ****************************/
 #boxWrapper {
-	height: 200px;
+	height: 120px;
 	width: 100%;
 	margin: 20px;
 		}
@@ -1299,11 +1299,11 @@ html[xmlns] .slides {display: block;}
 	width: 45%;
 	border: 1px solid #CCC;
 	/*background-color:#333;*/
-	height: 150px;
+	height: 100px;
 	float:right;
 	margin-right: 5%;
-	padding-top: 20px;
-	padding-left: 20px;
+	padding-top: 15px;
+	padding-left: 30px;
 	padding-right: 20px;	
 	/*para Firefox*/
 	-moz-border-radius: 15px 15px 15px 15px;
@@ -1316,13 +1316,13 @@ html[xmlns] .slides {display: block;}
 		
 
 #box_img {
-	width: 30%;
+	width: 20%;
 	float:left;
 	}
 	
 #box_txt {
-	width: 70%;
+	width: 80%;
 	float: right;
-	padding-top: 15px;
+	
 	}	
 	
