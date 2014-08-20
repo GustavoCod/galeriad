@@ -1,7 +1,5 @@
 jQuery(document).ready(function ($) {
 
-    $("#name-form").focus();
-
     var error = true;
 
     function addLoading(e) {
