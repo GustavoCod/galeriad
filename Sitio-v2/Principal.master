@@ -66,7 +66,7 @@
                             <asp:HyperLink ID="hlVillaDevoto" NavigateUrl="~/portfolio-big-image.html" runat="server">VILLA DEVOTO</asp:HyperLink>
                         </li>
                         <li class="bookmark">
-                            <asp:HyperLink ID="hlStores" NavigateUrl="~/portfolio-filterable.html" runat="server">LOCALES</asp:HyperLink>
+                            <asp:HyperLink ID="hlStores" NavigateUrl="~/rubros/locales.aspx" runat="server">LOCALES</asp:HyperLink>
                         </li>
                         <li class="email">
                             <asp:HyperLink ID="hlMail" NavigateUrl="~/contacto.aspx" runat="server">CONTACTO</asp:HyperLink>

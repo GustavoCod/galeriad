@@ -46,11 +46,8 @@ TODO
 
 	Locales
 	-------
-	Descomentar los links a "Locales por rubro" y "Locales alfabeticamente"
-
-	Principal
-	---------
-	- Se pixela el logo al hacer zoom
+	- Agregar el listado alfabetico de locales (ver si no usar masonry y usar divs con inline-block)
+	- Agregar la master page "Rubro.Master"
 
 	Contacto
 	--------
