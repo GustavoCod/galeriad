@@ -1,5 +1,12 @@
 $(document).ready(function () {
 
+    // ScrollToAnchor
+    $(".goto").click(function (e) {
+        e.preventDefault();
+        var destId = $(this).attr('href');
+        $('html,body').animate({ scrollTop: $(destId).offset().top }, 'slow');
+    });
+
     $('body').removeClass('no_js').addClass('yes_js');
 
     $('a.no-link').click(function () { return false; });
@@ -221,58 +228,59 @@ $(document).ready(function () {
         $('.disabled', slider_wrap).on('click', function () {
             return false;
         });
+
     });
 
     /* twitter slider in footer */
-//    $('#twitter-slider .tweets-list').tweetable({
-//        username: 'YIW',
-//        items: 5,
-//        time: true,
-//        loaded: function () {
-//            $('.tweets-list ul').addClass('slides');
-//            $('.tweets-list').flexslider({
-//                animation: "slide",
-//                slideDirection: "vertical",
-//                slideshowSpeed: 5000,
-//                animationDuration: 500,
-//                directionNav: false,
-//                controlNav: false,
-//                keyboardNav: false
-//            });
-//        }
-//    });
+    //    $('#twitter-slider .tweets-list').tweetable({
+    //        username: 'YIW',
+    //        items: 5,
+    //        time: true,
+    //        loaded: function () {
+    //            $('.tweets-list ul').addClass('slides');
+    //            $('.tweets-list').flexslider({
+    //                animation: "slide",
+    //                slideDirection: "vertical",
+    //                slideshowSpeed: 5000,
+    //                animationDuration: 500,
+    //                directionNav: false,
+    //                controlNav: false,
+    //                keyboardNav: false
+    //            });
+    //        }
+    //    });
 
     /* testimonial slider in home section */
     // if ( 'cycle' in $ ) {         
-//    $(".cites").cycle({
-//        fx: "scrollHorz",
-//        width: "100%",
-//        slideResize: true,
-//        fit: 1,
-//        timeout: 8000,
-//        containerResize: false,
-//        animOut: {
-//            opacity: 0
-//        },
-//        animIn: {
-//            opacity: 1
-//        },
-//        before: function (currSlideElement, nextSlideElement, options, forwardFlag) {
-//            var i = $(nextSlideElement).index();
-//            $("ul.testimonials li").removeClass("active");
-//            $("ul.testimonials li:eq(" + i + ")").addClass("active");
-//            if (typeof Cufon != "undefined")
-//                Cufon.refresh();
-//        }
-//    });
-//    $("ul.testimonials li").click(function () {
-//        var i = $(this).index();
-//        $(".cites").cycle(i);
-//        $("ul.testimonials li").removeClass("active");
-//        $("ul.testimonials li:eq(" + i + ")").addClass("active");
-//        if (typeof Cufon != "undefined")
-//            Cufon.refresh();
-//    });
+    //    $(".cites").cycle({
+    //        fx: "scrollHorz",
+    //        width: "100%",
+    //        slideResize: true,
+    //        fit: 1,
+    //        timeout: 8000,
+    //        containerResize: false,
+    //        animOut: {
+    //            opacity: 0
+    //        },
+    //        animIn: {
+    //            opacity: 1
+    //        },
+    //        before: function (currSlideElement, nextSlideElement, options, forwardFlag) {
+    //            var i = $(nextSlideElement).index();
+    //            $("ul.testimonials li").removeClass("active");
+    //            $("ul.testimonials li:eq(" + i + ")").addClass("active");
+    //            if (typeof Cufon != "undefined")
+    //                Cufon.refresh();
+    //        }
+    //    });
+    //    $("ul.testimonials li").click(function () {
+    //        var i = $(this).index();
+    //        $(".cites").cycle(i);
+    //        $("ul.testimonials li").removeClass("active");
+    //        $("ul.testimonials li:eq(" + i + ")").addClass("active");
+    //        if (typeof Cufon != "undefined")
+    //            Cufon.refresh();
+    //    });
     //}
 
     /* works slider in home page */
@@ -572,6 +580,8 @@ jQuery(function($) {
             
         });
     
-    }); 
-    
+    });
+
 });
+
+

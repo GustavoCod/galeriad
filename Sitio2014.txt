@@ -44,6 +44,10 @@ Notas
 TODO
 ----
 
+	Locales
+	-------
+	Descomentar los links a "Locales por rubro" y "Locales alfabeticamente"
+
 	Principal
 	---------
 	- Se pixela el logo al hacer zoom
