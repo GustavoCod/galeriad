@@ -47,7 +47,6 @@ TODO
 	Locales
 	-------
 	- Agregar el listado alfabetico de locales (ver si no usar masonry y usar divs con inline-block)
-	- Agregar la master page "Rubro.Master"
 
 	Contacto
 	--------

@@ -1,0 +1,10 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/rubros/Rubro.master" AutoEventWireup="true" CodeFile="locales-marroquineriacalzados.aspx.cs" Inherits="rubros_locales_marroquineriacalzados" %>
+
+<%@ Register TagPrefix="uc" TagName="LocalBox" Src="~/rubros/LocalBox.ascx" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="cphMetaDescription" runat="Server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="cphSectorStores" runat="Server">
+    <uc:LocalBox ID="boxIvanLaras" StorePage="~/locales/ivanlaras.aspx" StoreName="Ivan Laras" StoreDescription="Marroquinería y calzados" StoreLogoSrc="~/images/logos/ivanlaras.jpg" runat="server" />
+    <uc:LocalBox ID="boxParisotto" StorePage="~/locales/parisotto.aspx" StoreName="Parisotto" StoreDescription="Marroquinería y calzados" StoreLogoSrc="~/images/logos/parisotto.jpg" runat="server" />
+    <uc:LocalBox ID="boxZZ" StorePage="~/locales/zz.aspx" StoreName="ZZ" StoreDescription="Marroquinería y calzados" StoreLogoSrc="~/images/logos/zz.jpg" runat="server" />
+</asp:Content>

@@ -1,0 +1,55 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Principal.master" AutoEventWireup="true" CodeFile="Rubro.master.cs" Inherits="rubros_Rubro" %>
+
+<asp:Content ID="cHead" ContentPlaceHolderID="cphHead" runat="Server">
+    <asp:ContentPlaceHolder ID="cphMetaDescription" runat="server" />
+</asp:Content>
+<asp:Content ID="cContent" ContentPlaceHolderID="cphContent" runat="Server">
+    <div id="content" class="layout-sidebar-no group portfolio-filterable">
+        <!-- SLOGAN -->
+        <div id="slogan" class="inner">
+            <h1>
+                Locales
+            </h1>
+            <%--TODO: Descomentar--%>
+<%--            <h4 class="inline">
+                <a class="goto" href="#bysector">Por rubro</a>
+            </h4>
+            |
+            <h4 class="inline">
+                <a class="goto" href="#byname">Por orden alfabético</a>
+            </h4>--%>
+        </div>
+        <!-- END SLOGAN -->
+        <div id="primary" class="hentry group wrapper-content" role="main">
+            <h3 id="bysector">
+                Locales por rubro
+            </h3>
+            <div id="sectorList" class="one-fourth group">
+                <div class="widget-first widget gallery-categories">
+                    <ul id="gallery_categories_widget">
+                        <li><a href="locales.aspx">Todos</a></li>
+                        <li><a href="locales-cuidadospersonales.aspx">Cuidados personales</a></li>
+                        <li><a href="locales-gastronomia.aspx">Gastronomía</a></li>
+                        <li><a href="locales-hogar.aspx">Hogar</a></li>
+                        <li><a href="locales-indumentariafemenina.aspx">Indumentaria Femenina</a></li>
+                        <li><a href="locales-indumentariainfantil.aspx">Indumentaria Infantil</a></li>
+                        <li><a href="locales-indumentariamasculina.aspx">Indumentaria Masculina</a></li>
+                        <li><a href="locales-infantiles.aspx">Infantiles</a></li>
+                        <li><a href="locales-joyeriabijouterie.aspx">Joyería y bijouterie</a></li>
+                        <li><a href="locales-lenceria.aspx">Lencería</a></li>
+                        <li><a href="locales-marroquineriacalzados.aspx">Marroquinería y calzados</a></li>
+                        <li><a href="locales-merceria.aspx">Merceria</a></li>
+                        <li><a href="locales-tecnologia.aspx">Tecnología y entretenimiento</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div id="portfolio-gallery" class="three-fourth last internal_page_items internal_page_gallery">
+                <ul class="gallery-wrap image-grid group">
+                    <asp:ContentPlaceHolder ID="cphSectorStores" runat="server" />
+                </ul>
+                <div class="clear">
+                </div>
+            </div>
+        </div>
+    </div>
+</asp:Content>
