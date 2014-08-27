@@ -1,6 +1,15 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Principal.master" AutoEventWireup="true" CodeFile="default.aspx.cs" Inherits="_default" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="cphHead" Runat="Server">
+<!-- SLIDER ELASTIC -->                                                               
+        <link rel="stylesheet" id="slider-elastic-css" href="css/slider-elastic.css" type="text/css" media="all" />
+        <script type="text/javascript" src="js/jquery.eislideshow.js"></script>
+        
+<!-- JQUERY LOCALES -->
+<link rel="stylesheet" type="text/css" href="css/default.css" />
+<link rel="stylesheet" type="text/css" href="css/component.css" />
+<script src="js/modernizr.custom.js"></script>
+
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="cphContent" Runat="Server">
 
