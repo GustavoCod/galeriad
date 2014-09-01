@@ -1,37 +1,27 @@
-﻿<%@ Page Title="country2" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="country2.aspx.cs" Inherits="locales_country2" %>
+﻿<%@ Page Title="celeste" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="perfumeriaceleste.aspx.cs" Inherits="locales_perfumeriaceleste" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
-    <meta name="description" content="country2" />
+    <meta name="description" content="celeste" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
-    country2
+    celeste
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
     Indumentaria Femenina
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <li>
-        <img src="fotos/country2/country21.jpg" alt="country2. Foto del local 1" />
+        <img src="fotos/celeste/celeste1.jpg" alt="celeste. Foto del local 1" />
     </li>
     <li>
-        <img src="fotos/country2/country22.jpg" alt="country2. Foto del local 2" />
+        <img src="fotos/celeste/celeste2.jpg" alt="celeste. Foto del local 2" />
     </li>
     <li>
-        <img src="fotos/country2/country23.jpg" alt="country2. Foto del local 3" />
+        <img src="fotos/celeste/celeste3.jpg" alt="celeste. Foto del local 3" />
     </li>
     <li>
-        <img src="fotos/country2/country24.jpg" alt="country2. Foto del local 4" />
+        <img src="fotos/celeste/celeste4.jpg" alt="celeste. Foto del local 4" />
     </li>
-    <li>
-        <img src="fotos/country2/country25.jpg" alt="country2. Foto del local 5" />
-    </li>
-    <li>
-        <img src="fotos/country2/country26.jpg" alt="country2. Foto del local 6" />
-    </li>
-    <li>
-        <img src="fotos/country2/country27.jpg" alt="country2. Foto del local 7" />
-    </li>    
-  
   
     
 </asp:Content>

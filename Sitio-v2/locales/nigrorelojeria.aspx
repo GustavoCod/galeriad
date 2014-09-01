@@ -1,40 +1,36 @@
-﻿<%@ Page Title="autoservicio" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="autoservicio.aspx.cs" Inherits="locales_autoservicio" %>
+﻿<%@ Page Title="nigro" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="nigrorelojeria.aspx.cs" Inherits="locales_nigrorelojeria" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
-    <meta name="description" content="autoservicio" />
+    <meta name="description" content="nigro" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
-    autoservicio
+    nigro
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
     Indumentaria Femenina
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <li>
-        <img src="fotos/autoservicio/autoservicio1.jpg" alt="autoservicio. Foto del local 1" />
+        <img src="fotos/nigro/nigro1.jpg" alt="nigro. Foto del local 1" />
     </li>
     <li>
-        <img src="fotos/autoservicio/autoservicio2.jpg" alt="autoservicio. Foto del local 2" />
+        <img src="fotos/nigro/nigro2.jpg" alt="nigro. Foto del local 2" />
     </li>
     <li>
-        <img src="fotos/autoservicio/autoservicio3.jpg" alt="autoservicio. Foto del local 3" />
+        <img src="fotos/nigro/nigro3.jpg" alt="nigro. Foto del local 3" />
     </li>
     <li>
-        <img src="fotos/autoservicio/autoservicio4.jpg" alt="autoservicio. Foto del local 4" />
+        <img src="fotos/nigro/nigro4.jpg" alt="nigro. Foto del local 4" />
     </li>
     <li>
-        <img src="fotos/autoservicio/autoservicio5.jpg" alt="autoservicio. Foto del local 5" />
+        <img src="fotos/nigro/nigro5.jpg" alt="nigro. Foto del local 5" />
     </li>
     <li>
-        <img src="fotos/autoservicio/autoservicio6.jpg" alt="autoservicio. Foto del local 6" />
-    </li>  
-    <li>
-        <img src="fotos/autoservicio/autoservicio7.jpg" alt="autoservicio. Foto del local 7" />
-    </li>
-    <li>
-        <img src="fotos/autoservicio/autoservicio8.jpg" alt="autoservicio. Foto del local 8" />
-    </li>          
+        <img src="fotos/nigro/nigro6.jpg" alt="nigro. Foto del local 6" />
+    </li>    
 
+  
+    
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
@@ -80,7 +76,7 @@
                 <a href="#">Bombones y más</a></p>
         </li>
         <li class="work-item group"><a class="work-thumb" href="#">
-            <img src="../images/various/more-project-widget/0041-86x86.jpg" alt="0041" title="0041" /></a> <a class="meta work-title" href="#">Kentucky</a>
+            <img src="../images/various/more-project-widget/0041-86x86.jpg" alt="0041" title="0041" /></a> <a class="meta work-title" href="#">nigro</a>
             <p class="meta categories">
                 <a href="#">Pizza tradicional</a></p>
         </li>

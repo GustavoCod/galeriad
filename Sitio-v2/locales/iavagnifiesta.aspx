@@ -1,25 +1,42 @@
-﻿<%@ Page Title="jetson" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="jetson.aspx.cs" Inherits="locales_jetson" %>
+﻿<%@ Page Title="iavagni" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="iavagnifiesta.aspx.cs" Inherits="locales_iavagnifiesta" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
-    <meta name="description" content="jetson" />
+    <meta name="description" content="iavagni" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
-    jetson
+    iavagni
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
     Indumentaria Femenina
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <li>
-        <img src="fotos/jetson/jetson1.jpg" alt="jetson. Foto del local 1" />
+        <img src="fotos/iavagni/iavagni1.jpg" alt="iavagni. Foto del local 1" />
     </li>
     <li>
-        <img src="fotos/jetson/jetson2.jpg" alt="jetson. Foto del local 2" />
+        <img src="fotos/iavagni/iavagni2.jpg" alt="iavagni. Foto del local 2" />
     </li>
     <li>
-        <img src="fotos/jetson/jetson3.jpg" alt="jetson. Foto del local 3" />
+        <img src="fotos/iavagni/iavagni3.jpg" alt="iavagni. Foto del local 3" />
     </li>
- 
+    <li>
+        <img src="fotos/iavagni/iavagni4.jpg" alt="iavagni. Foto del local 4" />
+    </li>
+    <li>
+        <img src="fotos/iavagni/iavagni5.jpg" alt="iavagni. Foto del local 5" />
+    </li>
+    <li>
+        <img src="fotos/iavagni/iavagni6.jpg" alt="iavagni. Foto del local 6" />
+    </li>   
+    <li>
+        <img src="fotos/iavagni/iavagni7.jpg" alt="iavagni. Foto del local 7" />
+    </li>     
+    <li>
+        <img src="fotos/iavagni/iavagni8.jpg" alt="iavagni. Foto del local 8" />
+    </li>   
+    <li>
+        <img src="fotos/iavagni/iavagni9.jpg" alt="iavagni. Foto del local 9" />
+    </li>             
   
     
 </asp:Content>

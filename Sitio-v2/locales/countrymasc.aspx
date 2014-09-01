@@ -1,34 +1,37 @@
-﻿<%@ Page Title="nigro" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="nigro.aspx.cs" Inherits="locales_nigro" %>
+﻿<%@ Page Title="country2" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="countrymasc.aspx.cs" Inherits="locales_countrymasc" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
-    <meta name="description" content="nigro" />
+    <meta name="description" content="country2" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
-    nigro
+    country2
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
     Indumentaria Femenina
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <li>
-        <img src="fotos/nigro/nigro1.jpg" alt="nigro. Foto del local 1" />
+        <img src="fotos/country2/country21.jpg" alt="country2. Foto del local 1" />
     </li>
     <li>
-        <img src="fotos/nigro/nigro2.jpg" alt="nigro. Foto del local 2" />
+        <img src="fotos/country2/country22.jpg" alt="country2. Foto del local 2" />
     </li>
     <li>
-        <img src="fotos/nigro/nigro3.jpg" alt="nigro. Foto del local 3" />
+        <img src="fotos/country2/country23.jpg" alt="country2. Foto del local 3" />
     </li>
     <li>
-        <img src="fotos/nigro/nigro4.jpg" alt="nigro. Foto del local 4" />
+        <img src="fotos/country2/country24.jpg" alt="country2. Foto del local 4" />
     </li>
     <li>
-        <img src="fotos/nigro/nigro5.jpg" alt="nigro. Foto del local 5" />
+        <img src="fotos/country2/country25.jpg" alt="country2. Foto del local 5" />
     </li>
     <li>
-        <img src="fotos/nigro/nigro6.jpg" alt="nigro. Foto del local 6" />
+        <img src="fotos/country2/country26.jpg" alt="country2. Foto del local 6" />
+    </li>
+    <li>
+        <img src="fotos/country2/country27.jpg" alt="country2. Foto del local 7" />
     </li>    
-
+  
   
     
 </asp:Content>
@@ -76,7 +79,7 @@
                 <a href="#">Bombones y más</a></p>
         </li>
         <li class="work-item group"><a class="work-thumb" href="#">
-            <img src="../images/various/more-project-widget/0041-86x86.jpg" alt="0041" title="0041" /></a> <a class="meta work-title" href="#">nigro</a>
+            <img src="../images/various/more-project-widget/0041-86x86.jpg" alt="0041" title="0041" /></a> <a class="meta work-title" href="#">Kentucky</a>
             <p class="meta categories">
                 <a href="#">Pizza tradicional</a></p>
         </li>

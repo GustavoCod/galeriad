@@ -12,8 +12,8 @@
     <uc:LocalBox ID="boxDevotoSports" StorePage="~/locales/devotosports.aspx" StoreName="Devoto Sports" StoreDescription="Indumentaria unisex (deportiva)" StoreLogoSrc="~/images/logos/devotosports.jpg" runat="server" />
     <uc:LocalBox ID="boxElVestidor" StorePage="~/locales/elvestidor.aspx" StoreName="El Vestidor" StoreDescription="Indumentaria femenina" StoreLogoSrc="~/images/logos/elvestidor.jpg" runat="server" />
     <uc:LocalBox ID="boxElephant" StorePage="~/locales/elephant.aspx" StoreName="Elephant" StoreDescription="Indumentaria femenina" StoreLogoSrc="~/images/logos/elephant.jpg" runat="server" />
-    <uc:LocalBox ID="boxIavagni1" StorePage="~/locales/iavagni1.aspx" StoreName="Iavagni1" StoreDescription="Indumentaria femenina (ropa de fiesta)" StoreLogoSrc="~/images/logos/iavagni1.jpg" runat="server" />
-    <uc:LocalBox ID="boxIavagni2" StorePage="~/locales/iavagni2.aspx" StoreName="Iavagni2" StoreDescription="Indumentaria femenina" StoreLogoSrc="~/images/logos/iavagni2.jpg" runat="server" />
+    <uc:LocalBox ID="boxIavagni" StorePage="~/locales/iavagni.aspx" StoreName="Iavagni" StoreDescription="Indumentaria femenina" StoreLogoSrc="~/images/logos/iavagni.jpg" runat="server" />
+    <uc:LocalBox ID="boxIavagniFiesta" StorePage="~/locales/iavagnifiesta.aspx" StoreName="Iavagni Fiesta" StoreDescription="Indumentaria femenina (ropa de fiesta)" StoreLogoSrc="~/images/logos/iavagnifiesta.jpg" runat="server" />
     <uc:LocalBox ID="boxLentejuela" StorePage="~/locales/lentejuela.aspx" StoreName="Lentejuela" StoreDescription="Indumentaria femenina" StoreLogoSrc="~/images/logos/lentejuela.jpg" runat="server" />
     <uc:LocalBox ID="boxReinaVictoria" StorePage="~/locales/reinavictoria.aspx" StoreName="Reina Victoria" StoreDescription="Indumentaria femenina" StoreLogoSrc="~/images/logos/reinavictoria.jpg" runat="server" />
     <uc:LocalBox ID="boxTabatha" StorePage="~/locales/tabatha.aspx" StoreName="Tabatha" StoreDescription="Indumentaria femenina" StoreLogoSrc="~/images/logos/tabatha.jpg" runat="server" />

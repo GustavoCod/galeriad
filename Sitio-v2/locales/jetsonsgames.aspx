@@ -1,27 +1,25 @@
-﻿<%@ Page Title="celeste" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="celeste.aspx.cs" Inherits="locales_celeste" %>
+﻿<%@ Page Title="jetson" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="jetsonsgames.aspx.cs" Inherits="locales_jetsonsgames" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
-    <meta name="description" content="celeste" />
+    <meta name="description" content="jetson" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
-    celeste
+    jetson
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
     Indumentaria Femenina
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <li>
-        <img src="fotos/celeste/celeste1.jpg" alt="celeste. Foto del local 1" />
+        <img src="fotos/jetson/jetson1.jpg" alt="jetson. Foto del local 1" />
     </li>
     <li>
-        <img src="fotos/celeste/celeste2.jpg" alt="celeste. Foto del local 2" />
+        <img src="fotos/jetson/jetson2.jpg" alt="jetson. Foto del local 2" />
     </li>
     <li>
-        <img src="fotos/celeste/celeste3.jpg" alt="celeste. Foto del local 3" />
+        <img src="fotos/jetson/jetson3.jpg" alt="jetson. Foto del local 3" />
     </li>
-    <li>
-        <img src="fotos/celeste/celeste4.jpg" alt="celeste. Foto del local 4" />
-    </li>
+ 
   
     
 </asp:Content>
