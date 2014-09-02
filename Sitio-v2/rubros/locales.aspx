@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/rubros/Rubro.master" AutoEventWireup="true" CodeFile="locales.aspx.cs" Inherits="rubros_locales" %>
+﻿<%@ Page Title="Locales" Language="C#" MasterPageFile="~/rubros/Rubro.master" AutoEventWireup="true" CodeFile="locales.aspx.cs" Inherits="rubros_locales" %>
 
 <%@ Register TagPrefix="uc" TagName="LocalBox" Src="~/rubros/LocalBox.ascx" %>
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">

@@ -95,7 +95,7 @@ body .last, body .widget-last { margin-right:0; border-right:0; }
 #slogan 	{ margin:2em 0; }
 #slider 	{  }
 #content 	{ padding:1em 20px 30px; }
-#primary 	{ width:640px; min-height: 580px }
+#primary 	{ width:640px; min-height: 600px }
 #sidebar 	{ width:250px; }
 #footer 	{ padding:10px 10px 30px; }
 .extra-content { padding:0 20px 30px; clear:both; }

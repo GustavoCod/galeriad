@@ -78,10 +78,29 @@ p, li {
     display: inline;
 }
 
-#sectorList h3 {font-size:1.71em;}
-#sectorList a {color:#090807;}
-#sectorList .widget ul {margin:0;list-style:none;font-size:1.1em;}
-#sectorList .widget a { color: #615C5C }
-#sectorList .widget a:hover { color: #000 }
-#sectorList .widget ul.children { list-style-image: url('images/icons/ruz.png'); list-style-position: inside; }
-#sectorList .widget li { line-height: 23px; color: #636060; line-height: 26px; }
+#sectorList h3 {
+    font-size: 1.71em;
+}
+#sectorList a {
+    color: #090807;
+}
+#sectorList .widget ul {
+    margin: 0;
+    list-style: none;
+    font-size: 1.1em;
+}
+#sectorList .widget a {
+    color: #615C5C;
+}
+#sectorList .widget a:hover {
+    color: #000;
+}
+#sectorList .widget ul.children {
+    list-style-image: url('images/icons/ruz.png');
+    list-style-position: inside;
+}
+#sectorList .widget li {
+    line-height: 23px;
+    color: #636060;
+    line-height: 26px;
+}
