@@ -1,7 +1,7 @@
-﻿<%@ Page Title="Galería Devoto – Contacto. Ubicación. Dirección. Teléfono. Mail." Language="C#" MasterPageFile="~/Principal.master" AutoEventWireup="true" CodeFile="contacto.aspx.cs" Inherits="contacto" %>
+﻿<%@ Page Title="Contacto. Dirección. Teléfono. Email." Language="C#" MasterPageFile="~/Principal.master" AutoEventWireup="true" CodeFile="contacto.aspx.cs" Inherits="contacto" %>
 
 <asp:Content ID="cHead" ContentPlaceHolderID="cphHead" runat="Server">
-    <meta name="description" content="Página de contacto. Consultas, comentarios y sugerencias bienvenidos!" />
+    <meta name="description" content="Página de contacto. Dirección, horario de atención, transporte público cercano, email, teléfono. Consultas, comentarios y sugerencias bienvenidos!" />
     <script type="text/javascript" src="js/contact.js"></script>
 </asp:Content>
 <asp:Content ID="cContent" ContentPlaceHolderID="cphContent" runat="Server">

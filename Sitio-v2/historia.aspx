@@ -1,7 +1,7 @@
 ﻿<%@ Page Title="Historia" Language="C#" MasterPageFile="~/Principal.master" AutoEventWireup="true" CodeFile="historia.aspx.cs" Inherits="historia" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="cphHead" runat="Server">
-    <meta name="description" content="Historia de Gran Galería Devoto." />
+    <meta name="description" content="Historia de Gran Galería Devoto. Más de 50 años en el barrio de Villa Devoto." />
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="cphContent" runat="Server">
     <div id="content" class="layout-sidebar-no group">
