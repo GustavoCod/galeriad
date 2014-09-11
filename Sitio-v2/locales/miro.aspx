@@ -11,43 +11,43 @@
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <li>
-        <img src="fotos/miro/local-miro-01.jpg" alt="Miró. Foto del local 1" />
+        <img src="fotos/miro/miro1.jpg" alt="Miró. Foto del local 1" />
     </li>
     <li>
-        <img src="fotos/miro/local-miro-02.jpg" alt="Miró. Foto del local 2" />
+        <img src="fotos/miro/miro2.jpg" alt="Miró. Foto del local 2" />
     </li>
     <li>
-        <img src="fotos/miro/local-miro-03.jpg" alt="Miró. Foto del local 3" />
+        <img src="fotos/miro/miro3.jpg" alt="Miró. Foto del local 3" />
     </li>
     <li>
-        <img src="fotos/miro/local-miro-04.jpg" alt="Miró. Foto del local 4" />
+        <img src="fotos/miro/miro4.jpg" alt="Miró. Foto del local 4" />
     </li>
     <li>
-        <img src="fotos/miro/local-miro-05.jpg" alt="Miró. Foto del local 5" />
+        <img src="fotos/miro/miro5.jpg" alt="Miró. Foto del local 5" />
     </li>
     <li>
-        <img src="fotos/miro/local-miro-06.jpg" alt="Miró. Foto del local 6" />
+        <img src="fotos/miro/miro6.jpg" alt="Miró. Foto del local 6" />
     </li>
     <li>
-        <img src="fotos/miro/local-miro-07.jpg" alt="Miró. Foto del local 7" />
+        <img src="fotos/miro/miro7.jpg" alt="Miró. Foto del local 7" />
     </li>
     <li>
-        <img src="fotos/miro/local-miro-11.jpg" alt="Miró. Foto del local 11" />
+        <img src="fotos/miro/miro8.jpg" alt="Miró. Foto del local 8" />
     </li>
     <li>
-        <img src="fotos/miro/local-miro-12.jpg" alt="Miró. Foto del local 12" />
+        <img src="fotos/miro/miro9.jpg" alt="Miró. Foto del local 9" />
     </li>
     <li>
-        <img src="fotos/miro/local-miro-13.jpg" alt="Miró. Foto del local 13" />
+        <img src="fotos/miro/miro10.jpg" alt="Miró. Foto del local 10" />
     </li>
     <li>
-        <img src="fotos/miro/local-miro-14.jpg" alt="Miró. Foto del local 14" />
+        <img src="fotos/miro/miro11.jpg" alt="Miró. Foto del local 11" />
     </li>
     <li>
-        <img src="fotos/miro/local-miro-17.jpg" alt="Miró. Foto del local 17" />
+        <img src="fotos/miro/miro12.jpg" alt="Miró. Foto del local 12" />
     </li>
     <li>
-        <img src="fotos/miro/local-miro-18.jpg" alt="Miró. Foto del local 18" />
+        <img src="fotos/miro/miro13.jpg" alt="Miró. Foto del local 13" />
     </li>
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
