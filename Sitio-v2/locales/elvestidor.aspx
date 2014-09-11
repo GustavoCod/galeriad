@@ -4,7 +4,7 @@
     <meta name="description" content="elvestidor" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
-    elvestidor
+    El vestidor
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
     Indumentaria Femenina

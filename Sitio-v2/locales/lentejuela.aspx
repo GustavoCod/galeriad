@@ -4,7 +4,7 @@
     <meta name="description" content="lentejuela" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
-    lentejuela
+    Lentejuela
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
     Indumentaria Femenina
@@ -20,7 +20,7 @@
         <img src="fotos/lentejuela/lentejuela3.jpg" alt="lentejuela. Foto del local 3" />
     </li>
     <li>
-        <img src="fotos/lentejuela/kend4.jpg" alt="lentejuela. Foto del local 4" />
+        <img src="fotos/lentejuela/lentejuela4.jpg" alt="lentejuela. Foto del local 4" />
     </li>
     <li>
         <img src="fotos/lentejuela/lentejuela5.jpg" alt="lentejuela. Foto del local 5" />

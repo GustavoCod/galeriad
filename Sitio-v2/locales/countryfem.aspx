@@ -4,7 +4,7 @@
     <meta name="description" content="country1" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
-    country1
+    Country Femenino
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
     Indumentaria Femenina

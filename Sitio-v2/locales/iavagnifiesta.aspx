@@ -4,7 +4,7 @@
     <meta name="description" content="iavagni" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
-    iavagni
+    Iavagni Fiesta
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
     Indumentaria Femenina

@@ -4,7 +4,7 @@
     <meta name="description" content="tabatha" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
-    tabatha
+    Tabatha
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
     Indumentaria Femenina

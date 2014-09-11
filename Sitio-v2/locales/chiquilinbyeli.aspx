@@ -4,10 +4,10 @@
     <meta name="description" content="chiquilin" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
-    chiquilin
+    Chiquilin by Eli
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
-    Indumentaria Femenina
+    Indumentaria Infantil
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <li>
