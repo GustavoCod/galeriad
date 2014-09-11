@@ -4,10 +4,10 @@
     <meta name="description" content="kentucky" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
-    kentucky
+    Kentucky
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
-    Indumentaria Femenina
+    Gastronomía
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <li>
@@ -20,7 +20,7 @@
         <img src="fotos/kentucky/kentucky3.jpg" alt="kentucky. Foto del local 3" />
     </li>
     <li>
-        <img src="fotos/kentucky/kend4.jpg" alt="kentucky. Foto del local 4" />
+        <img src="fotos/kentucky/kentucky4.jpg" alt="kentucky. Foto del local 4" />
     </li>
     <li>
         <img src="fotos/kentucky/kentucky5.jpg" alt="kentucky. Foto del local 5" />
