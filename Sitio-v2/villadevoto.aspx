@@ -72,6 +72,24 @@
                     </div>
                 </div>
                 <!-- END WORK -->
+                <!-- WORK -->
+                <div class="work group">
+                    <div class="work-thumbnail">
+                        <a class="thumb img">
+                            <img src="images/basilica-sanantonio-padua.jpg" alt="Lateral del edificio de la Escuela Antonio Devoto" width="100%" />
+                        </a>
+                    </div>
+                    <div class="work-description">
+                        <h3>
+                            Basílica San Antonio de Padua
+                        </h3>
+                        <p>
+                            En 1884 la comienza a construir la familia Anchorena, tarea continuada por Antonio Devoto hasta poco antes de su muerte, la terminación de la obra estuvo a cargo de la comunidad de vecinos. Tiene diseño renacentista y grandes lujos interiores. Alli descansan los restos de Antonio Devoto y sus dos esposas.
+                        </p>
+                        <a href="http://www.basilicasanantonio.com.ar/inicio.htm" class="read-more" target="_blank">Más información de Basílica San Antonio de Padua</a>
+                    </div>
+                </div>
+                <!-- END WORK -->
             </div>
         </div>
     </div>
