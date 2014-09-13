@@ -1,9 +1,9 @@
-﻿<%@ Page Title="Villa Devoto" Language="C#" MasterPageFile="~/Principal.master" AutoEventWireup="true" CodeFile="villadevoto.aspx.cs" Inherits="villadevoto" %>
+﻿<%@ Page Title="Villa Devoto. Lugares para visitar en el barrio" Language="C#" MasterPageFile="~/Principal.master" AutoEventWireup="true" CodeFile="villadevoto.aspx.cs" Inherits="villadevoto" %>
 
-<asp:Content ID="Content1" ContentPlaceHolderID="cphHead" runat="Server">
+<asp:Content ID="cHead" ContentPlaceHolderID="cphHead" runat="Server">
     <meta name="description" content="Puntos de interés del barrio Villa Devoto, Ciudad Autónoma de Buenos Aires, Argentina." />
 </asp:Content>
-<asp:Content ID="Content2" ContentPlaceHolderID="cphContent" runat="Server">
+<asp:Content ID="cContent" ContentPlaceHolderID="cphContent" runat="Server">
     <div id="content" class="layout-sidebar-no group">
         <!-- SLOGAN -->
         <div id="slogan" class="inner">
@@ -87,6 +87,24 @@
                             En 1884 la comienza a construir la familia Anchorena, tarea continuada por Antonio Devoto hasta poco antes de su muerte, la terminación de la obra estuvo a cargo de la comunidad de vecinos. Tiene diseño renacentista y grandes lujos interiores. Alli descansan los restos de Antonio Devoto y sus dos esposas.
                         </p>
                         <a href="http://www.basilicasanantonio.com.ar/inicio.htm" class="read-more" target="_blank">Más información de Basílica San Antonio de Padua</a>
+                    </div>
+                </div>
+                <!-- END WORK -->
+                <!-- WORK -->
+                <div class="work group">
+                    <div class="work-thumbnail">
+                        <a class="thumb img">
+                            <img src="images/casadelavilla.jpg" alt="Frente de Casa de la Villa" width="100%" />
+                        </a>
+                    </div>
+                    <div class="work-description">
+                        <h3>
+                            Casa de la Villa
+                        </h3>
+                        <p>
+                            Fue la residencia del ingles W. Huxable y su familia. Construida en estilo itálico y con preciosos jardines. Conserva el estilo de la época.
+                        </p>
+                        <a href="http://www.casadelavilla.com.ar/" class="read-more" target="_blank">Más información de Casa de la Villa</a>
                     </div>
                 </div>
                 <!-- END WORK -->
