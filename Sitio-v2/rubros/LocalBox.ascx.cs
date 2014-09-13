@@ -29,11 +29,14 @@ public partial class rubros_LocalBox : System.Web.UI.UserControl
         set { lblStoreDescription.Text = value; }
     }
 
-    // TODO: Completar
     public string StoreLogoSrc
     {
-        get { return ""; }
-        set { ; }
+        get { return imgLogoLocal.ImageUrl; }
+        set
+        {
+            imgLogoLocal.ImageUrl = value;
+            imgLogoLocal.AlternateText = "Logo del local " + this.StoreName;
+        }
     }
 
     protected void Page_Load(object sender, EventArgs e)

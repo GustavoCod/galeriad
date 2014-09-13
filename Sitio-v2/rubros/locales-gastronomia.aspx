@@ -5,7 +5,7 @@
     <meta name="description" content="" />
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="cphSectorStores" Runat="Server">
-    <uc:LocalBox ID="boxKentucky" StorePage="~/locales/kentucky.aspx" StoreName="Kentucky" StoreDescription="Gastronomía (pizzería)" StoreLogoSrc="~/images/logos/kentucky.jpg" runat="server" />
+    <uc:LocalBox ID="boxKentucky" StorePage="~/locales/kentucky.aspx" StoreName="Kentucky" StoreDescription="Gastronomía (pizzería)" StoreLogoSrc="~/images/logos/kentucky.png" runat="server" />
     <uc:LocalBox ID="boxMiro" StorePage="~/locales/miro.aspx" StoreName="Miro" StoreDescription="Gastronomía (pastelería)" StoreLogoSrc="~/images/logos/miro.jpg" runat="server" />
     <uc:LocalBox ID="boxDevotoMarket" StorePage="~/locales/devotomarket.aspx" StoreName="Devoto Market" StoreDescription="Supermercado" StoreLogoSrc="~/images/logos/devotomarket.jpg" runat="server" />
     <uc:LocalBox ID="boxStylo" StorePage="~/locales/stylo.aspx" StoreName="Stylo" StoreDescription="Gastronomía (bar y cafetería)" StoreLogoSrc="~/images/logos/stylo.jpg" runat="server" />

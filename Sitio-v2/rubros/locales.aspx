@@ -27,7 +27,7 @@
     <uc:LocalBox ID="boxIvanLaras" StorePage="~/locales/ivanlaras.aspx" StoreName="Ivan Laras" StoreDescription="Marroquinería y calzados" StoreLogoSrc="~/images/logos/ivanlaras.jpg" runat="server" />
     <uc:LocalBox ID="boxJetsonsGames" StorePage="~/locales/jetsonsgames.aspx" StoreName="Jetsons Games" StoreDescription="tecnología y entretenimiento (librería)" StoreLogoSrc="~/images/logos/jetsonsgames.jpg" runat="server" />
     <uc:LocalBox ID="boxKendi" StorePage="~/locales/kendi.aspx" StoreName="Kendi" StoreDescription="Lencería" StoreLogoSrc="~/images/logos/kendi.jpg" runat="server" />
-    <uc:LocalBox ID="boxKentucky" StorePage="~/locales/kentucky.aspx" StoreName="Kentucky" StoreDescription="Gastronomía (pizzería)" StoreLogoSrc="~/images/logos/kentucky.jpg" runat="server" />
+    <uc:LocalBox ID="boxKentucky" StorePage="~/locales/kentucky.aspx" StoreName="Kentucky" StoreDescription="Gastronomía (pizzería)" StoreLogoSrc="~/images/logos/kentucky.png" runat="server" />
     <uc:LocalBox ID="boxLentejuela" StorePage="~/locales/lentejuela.aspx" StoreName="Lentejuela" StoreDescription="Indumentaria femenina" StoreLogoSrc="~/images/logos/lentejuela.jpg" runat="server" />
     <uc:LocalBox ID="boxLunaDePapel" StorePage="~/locales/lunadepapel.aspx" StoreName="Luna De Papel" StoreDescription="Infantiles (cotillón)" StoreLogoSrc="~/images/logos/lunadepapel.jpg" runat="server" />
     <uc:LocalBox ID="boxMiraQuienSoy" StorePage="~/locales/miraquiensoy.aspx" StoreName="Mira Quien Soy" StoreDescription="Indumentaria infantil" StoreLogoSrc="~/images/logos/miraquiensoy.jpg" runat="server" />

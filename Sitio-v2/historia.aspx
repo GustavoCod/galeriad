@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Historia" Language="C#" MasterPageFile="~/Principal.master" AutoEventWireup="true" CodeFile="historia.aspx.cs" Inherits="historia" %>
+﻿<%@ Page Title="Historia de la Galería" Language="C#" MasterPageFile="~/Principal.master" AutoEventWireup="true" CodeFile="historia.aspx.cs" Inherits="historia" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="cphHead" runat="Server">
     <meta name="description" content="Historia de Gran Galería Devoto. Más de 50 años en el barrio de Villa Devoto." />

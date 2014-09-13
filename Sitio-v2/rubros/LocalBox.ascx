@@ -6,6 +6,7 @@
                 <asp:Label ID="lblStoreName" runat="server" />
             </h4>
             <%-- TODO: Agregar logo <img src="images/logos/a-la-page.jpg" alt="Logo A la page" title="Logo A la page" />--%>
+            <asp:Image ID="imgLogoLocal" runat="server" />
             <div class="overlay">
                 <h5>
                     <asp:Label ID="lblStoreNameOverlay" runat="server" />

@@ -5,6 +5,6 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="cphSectorStores" runat="Server">
     <uc:LocalBox ID="boxBufalos" StorePage="~/locales/bufalos.aspx" StoreName="Bufalos" StoreDescription="Joyeria y bijouteri (marrouqineria, bijouteri y accesorios)" StoreLogoSrc="~/images/logos/bufalos.jpg" runat="server" />
-    <uc:LocalBox ID="boxNigroJoyeria1" StorePage="~/locales/nigrojoyeria1.aspx" StoreName="Nigro Joyería 1" StoreDescription="Joyería, bijouterie y relojería" StoreLogoSrc="~/images/logos/nigrojoyeria1.jpg" runat="server" />
-    <uc:LocalBox ID="boxNigroJoyeria2" StorePage="~/locales/nigrojoyeria2.aspx" StoreName="Nigro Joyería 2" StoreDescription="Joyería, bijouterie y relojería" StoreLogoSrc="~/images/logos/nigrojoyeria2.jpg" runat="server" />
+    <uc:LocalBox ID="boxNigroJoyeriaBijouterie" StorePage="~/locales/nigrojoyeriabijouterie.aspx" StoreName="Nigro Joyería y Bijouterie" StoreDescription="Joyería, bijouterie y relojería" StoreLogoSrc="~/images/logos/nigrojoyeriabijouterie.jpg" runat="server" />
+    <uc:LocalBox ID="boxNigroRelojeria" StorePage="~/locales/nigrorelojeria.aspx" StoreName="Nigro Relojería" StoreDescription="Joyería, bijouterie y relojería" StoreLogoSrc="~/images/logos/nigrorelojeria.jpg" runat="server" />
 </asp:Content>
