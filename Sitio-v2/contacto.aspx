@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Contacto. Dirección. Teléfono. Email." Language="C#" MasterPageFile="~/Principal.master" AutoEventWireup="true" CodeFile="contacto.aspx.cs" Inherits="contacto" %>
+﻿<%@ Page Title="Contacto. Dirección. Teléfono. Email" Language="C#" MasterPageFile="~/Principal.master" AutoEventWireup="true" CodeFile="contacto.aspx.cs" Inherits="contacto" %>
 
 <asp:Content ID="cHead" ContentPlaceHolderID="cphHead" runat="Server">
     <meta name="description" content="Página de contacto. Dirección, horario de atención, transporte público cercano, email, teléfono. Consultas, comentarios y sugerencias bienvenidos!" />
@@ -75,10 +75,18 @@
                     Sabados de 10 a 18 hs.
                 </p>
                 <h4>
-                    <i class="fa fa-taxi"></i><span class="title-with-icon">Colectivos</span>
+                    <img src="images/icons/bus-icon.png" alt="icono de colectivo" width="20" /><span class="title-with-icon">Colectivos</span>
                 </h4>
                 <p>
                     108 - 105 - 114 - 107 - 85 - 134 - 80 - 146
+                </p>
+                <h4>
+                    <img src="images/icons/train-icon.png" alt="icono de tren" width="22" /><span class="title-with-icon">Trenes</span>
+                </h4>
+                <p>
+                    Tren San Martín - Estación Devoto 
+                    <br />
+                    Tren Urquiza - Estación Devoto 
                 </p>
                 <h4>
                     <i class="fa fa-envelope-o"></i><span class="title-with-icon">Mail</span>
