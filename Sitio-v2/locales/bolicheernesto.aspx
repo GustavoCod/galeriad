@@ -1,4 +1,4 @@
-﻿<%@ Page Title="ernesto" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="bolicheernesto.aspx.cs" Inherits="locales_bolicheernesto" %>
+﻿<%@ Page Title="Boliche Ernesto" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="bolicheernesto.aspx.cs" Inherits="locales_bolicheernesto" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="ernesto" />
@@ -7,7 +7,7 @@
     Boliche Ernesto
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
-    Indumentaria Femenina
+    Indumentaria Femenina / Indumentaria Masculina
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <li>
@@ -26,26 +26,28 @@
     
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
-    <p class="workdate">
-        <span class="label">Teléfono:</span> 4505-0814
+    <!--<p class="workdate">
+        <span class="label">Teléfono:</span> 
     </p>
     <p class="workdate">
-        <span class="label">Mail:</span> info@mirtarovagna.com.ar
-    </p>
+        <span class="label">Mail:</span> 
+    </p> -->
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
-        Lunes a Viernes de 10 a 20 hs.
+        <strong>Lunes a jueves</strong>
+        9:30 a 13 hs. - 16 a 20 hs. 
         <br />
-        Sabados de 10 a 18 hs.
+		<strong>Viernes</strong>
+        9:30 a 13 hs. - 14:30 a 16:30 hs.    
     </p>
-    <p class="workdate">
-        <span class="label">Web:</span> www.miroweb.com.ar
-    </p>
-    <p class="workdate">
+    <!--<p class="workdate">
+        <span class="label">Web:</span> 
+    </p> -->
+    <!--<p class="workdate">
         <span class="label">Rubro:</span> Gastronomía
-    </p>
+    </p> -->
     <p class="skills">
-        <span class="label">Local:</span> 15
+        <span class="label">Local:</span> 22
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">

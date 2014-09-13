@@ -1,65 +1,67 @@
-﻿<%@ Page Title="carocuore" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="carocuoreragazza.aspx.cs" Inherits="locales_carocuoreragazza" %>
+﻿<%@ Page Title="Caro Cuore Ragazza" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="carocuoreragazza.aspx.cs" Inherits="locales_carocuoreragazza" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="carocuore" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
-    carocuore
+    Caro Cuore Ragazza
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
-    Indumentaria Femenina
+    Lenceria
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <li>
-        <img src="fotos/carocuore/carocuore1.jpg" alt="carocuore. Foto del local 1" />
+        <img src="fotos/carocuoreragazza/carocuore1.jpg" alt="carocuore. Foto del local 1" />
     </li>
     <li>
-        <img src="fotos/carocuore/carocuore2.jpg" alt="carocuore. Foto del local 2" />
+        <img src="fotos/carocuoreragazza/carocuore2.jpg" alt="carocuore. Foto del local 2" />
     </li>
     <li>
-        <img src="fotos/carocuore/carocuore3.jpg" alt="carocuore. Foto del local 3" />
+        <img src="fotos/carocuoreragazza/carocuore3.jpg" alt="carocuore. Foto del local 3" />
     </li>
     <li>
-        <img src="fotos/carocuore/carocuore4.jpg" alt="carocuore. Foto del local 4" />
+        <img src="fotos/carocuoreragazza/carocuore4.jpg" alt="carocuore. Foto del local 4" />
     </li>
     <li>
-        <img src="fotos/carocuore/carocuore5.jpg" alt="carocuore. Foto del local 5" />
+        <img src="fotos/carocuoreragazza/carocuore5.jpg" alt="carocuore. Foto del local 5" />
     </li>
     <li>
-        <img src="fotos/carocuore/carocuore6.jpg" alt="carocuore. Foto del local 6" />
+        <img src="fotos/carocuoreragazza/carocuore6.jpg" alt="carocuore. Foto del local 6" />
     </li>  
     <li>
-        <img src="fotos/carocuore/carocuore7.jpg" alt="carocuore. Foto del local 7" />
+        <img src="fotos/carocuoreragazza/carocuore7.jpg" alt="carocuore. Foto del local 7" />
     </li>
     <li>
-        <img src="fotos/carocuore/carocuore8.jpg" alt="carocuore. Foto del local 8" />
+        <img src="fotos/carocuoreragazza/carocuore8.jpg" alt="carocuore. Foto del local 8" />
     </li>          
     <li>
-        <img src="fotos/carocuore/carocuore9.jpg" alt="carocuore. Foto del local 9" />
+        <img src="fotos/carocuoreragazza/carocuore9.jpg" alt="carocuore. Foto del local 9" />
     </li>   
     
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
-        <span class="label">Teléfono:</span> 4505-0814
+        <span class="label">Teléfono:</span> 4504-4278
     </p>
-    <p class="workdate">
+    <!--<p class="workdate">
         <span class="label">Mail:</span> info@mirtarovagna.com.ar
-    </p>
+    </p> -->
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
-        Lunes a Viernes de 10 a 20 hs.
+        <strong>Lunes a viernes</strong>
+        10 a 13 hs. / 14 a 20 hs. 
         <br />
-        Sabados de 10 a 18 hs.
+        <strong>Sábado</strong>
+        10 a 14 / 17 a 20 hs.
     </p>
-    <p class="workdate">
+    <!--<p class="workdate">
         <span class="label">Web:</span> www.miroweb.com.ar
-    </p>
-    <p class="workdate">
+    </p> -->
+    <!--<p class="workdate">
         <span class="label">Rubro:</span> Gastronomía
-    </p>
+    </p>-->
     <p class="skills">
-        <span class="label">Local:</span> 15
+        <span class="label">Local:</span> 36
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
