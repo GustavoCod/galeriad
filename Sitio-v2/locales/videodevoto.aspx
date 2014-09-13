@@ -1,13 +1,13 @@
-﻿<%@ Page Title="videodevoto" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="videodevoto.aspx.cs" Inherits="locales_videodevoto" %>
+﻿<%@ Page Title="Devoto Store" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="videodevoto.aspx.cs" Inherits="locales_videodevoto" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="videodevoto" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
-    videodevoto
+    Devoto Store
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
-    Indumentaria Femenina
+    Tecnología y entretenimiento
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <li>
@@ -23,10 +23,10 @@
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
-        <span class="label">Teléfono:</span> 4505-0814
+        <span class="label">Teléfono:</span> 4504-4492
     </p>
     <p class="workdate">
-        <span class="label">Mail:</span> info@mirtarovagna.com.ar
+        <span class="label">Mail:</span> videodevoto@ortnet.com.ar
     </p>
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
@@ -35,13 +35,13 @@
         Sabados de 10 a 18 hs.
     </p>
     <p class="workdate">
-        <span class="label">Web:</span> www.miroweb.com.ar
+        <span class="label">Web:</span>  www.videodevoto.com.ar
     </p>
-    <p class="workdate">
+    <!--<p class="workdate">
         <span class="label">Rubro:</span> Gastronomía
-    </p>
+    </p>-->
     <p class="skills">
-        <span class="label">Local:</span> 15
+        <span class="label">Local:</span> 28-29
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">

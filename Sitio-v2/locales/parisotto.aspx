@@ -1,13 +1,13 @@
-﻿<%@ Page Title="parisotto" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="parisotto.aspx.cs" Inherits="locales_parisotto" %>
+﻿<%@ Page Title="Parisotto" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="parisotto.aspx.cs" Inherits="locales_parisotto" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="parisotto" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
-    parisotto
+    Parisotto
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
-    Indumentaria Femenina
+    Marroquinería y Calzados
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <li>
@@ -30,25 +30,27 @@
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
-        <span class="label">Teléfono:</span> 4505-0814
+        <span class="label">Teléfono:</span> 4504-1322
     </p>
     <p class="workdate">
-        <span class="label">Mail:</span> info@mirtarovagna.com.ar
+        <span class="label">Mail:</span> anjousrl@hotmail.com
     </p>
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
-        Lunes a Viernes de 10 a 20 hs.
+        <strong>Lunes a sábado</strong>
         <br />
-        Sabados de 10 a 18 hs.
+        10 a 14 hs.
+        <br />
+        16 a 20:30 hs.
     </p>
     <p class="workdate">
-        <span class="label">Web:</span> www.miroweb.com.ar
+        <span class="label">Web:</span>www.anjousrl.com.ar
     </p>
-    <p class="workdate">
+    <!--<p class="workdate">
         <span class="label">Rubro:</span> Gastronomía
-    </p>
+    </p>-->
     <p class="skills">
-        <span class="label">Local:</span> 15
+        <span class="label">Local:</span> 6-7
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">

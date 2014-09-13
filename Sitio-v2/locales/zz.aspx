@@ -1,17 +1,17 @@
-﻿<%@ Page Title="zz" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="zz.aspx.cs" Inherits="locales_zz" %>
+﻿<%@ Page Title="ZZ" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="zz.aspx.cs" Inherits="locales_zz" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="zz" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
-    zz
+    ZZ
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
-    Indumentaria Femenina
+  Marroquinería y Calzados
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <li>
-        <img src="fotos/zz/zz1.jpg" alt="zz. Foto del local 1" />
+        <img src="fotos/zz/zz.jpg" alt="zz. Foto del local 1" />
     </li>
     <li>
         <img src="fotos/zz/zz2.jpg" alt="zz. Foto del local 2" />
@@ -30,25 +30,29 @@
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
-        <span class="label">Teléfono:</span> 4505-0814
+        <span class="label">Teléfono:</span> 4504-0987
     </p>
     <p class="workdate">
-        <span class="label">Mail:</span> info@mirtarovagna.com.ar
+        <span class="label">Mail:</span> adosim@fibertel.com.ar
     </p>
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
-        Lunes a Viernes de 10 a 20 hs.
+        <strong>Lunes a viernes</strong>
         <br />
-        Sabados de 10 a 18 hs.
+        9:30 a 13 hs. - 15:30 a 20:30 hs.
+        <br />
+        <strong>Sábado</strong>
+        <br />
+        9:30 a 14hs. - 17 a 20:30 hs.
     </p>
-    <p class="workdate">
+    <!--<p class="workdate">
         <span class="label">Web:</span> www.miroweb.com.ar
     </p>
     <p class="workdate">
         <span class="label">Rubro:</span> Gastronomía
-    </p>
+    </p>-->
     <p class="skills">
-        <span class="label">Local:</span> 15
+        <span class="label">Local:</span> 26-27
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">

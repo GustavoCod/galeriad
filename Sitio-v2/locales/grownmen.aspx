@@ -1,13 +1,13 @@
-﻿<%@ Page Title="grownmen" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="grownmen.aspx.cs" Inherits="locales_grownmen" %>
+﻿<%@ Page Title="Grownmen" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="grownmen.aspx.cs" Inherits="locales_grownmen" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="grownmen" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
-    grownmen
+    Grownmen
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
-    Indumentaria Femenina
+    Indumentaria Masculina
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <li>
@@ -36,25 +36,29 @@
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
-        <span class="label">Teléfono:</span> 4505-0814
+        <span class="label">Teléfono:</span> 4504-9513
     </p>
     <p class="workdate">
-        <span class="label">Mail:</span> info@mirtarovagna.com.ar
+        <span class="label">Mail:</span> grownmen@arnetbiz.com.ar
     </p>
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
-        Lunes a Viernes de 10 a 20 hs.
+        <strong>Lunes a sábado</strong>
         <br />
-        Sabados de 10 a 18 hs.
+        10 a 13:30 hs. - 16 a 20:30 hs. 
+        <br />
+        <strong>Sábado</strong>
+        <br />
+        10 a 14 hs. - 15:30 a 20:30 hs.
     </p>
-    <p class="workdate">
+    <!--<p class="workdate">
         <span class="label">Web:</span> www.miroweb.com.ar
     </p>
     <p class="workdate">
         <span class="label">Rubro:</span> Gastronomía
-    </p>
+    </p>-->
     <p class="skills">
-        <span class="label">Local:</span> 15
+        <span class="label">Local:</span> 34-35
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">

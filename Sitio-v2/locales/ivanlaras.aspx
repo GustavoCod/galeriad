@@ -1,13 +1,13 @@
-﻿<%@ Page Title="ivanlaras" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="ivanlaras.aspx.cs" Inherits="locales_ivanlaras" %>
+﻿<%@ Page Title="Ivan Laras" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="ivanlaras.aspx.cs" Inherits="locales_ivanlaras" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="ivanlaras" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
-    ivanlaras
+    Ivan Laras
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
-    Indumentaria Femenina
+    Marroquinería y Calzados
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <li>
@@ -28,26 +28,26 @@
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
-        <span class="label">Teléfono:</span> 4505-0814
+        <span class="label">Teléfono:</span> 4504-3085
     </p>
-    <p class="workdate">
+    <!--<p class="workdate">
         <span class="label">Mail:</span> info@mirtarovagna.com.ar
-    </p>
+    </p>-->
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
-        Lunes a Viernes de 10 a 20 hs.
+        <strong>Lunes a sábado</strong>
         <br />
-        Sabados de 10 a 18 hs.
+        9 a 21 hs.
     </p>
     <p class="workdate">
-        <span class="label">Web:</span> www.miroweb.com.ar
+        <span class="label">Web:</span> “Iván Laras” (Facebook)
     </p>
-    <p class="workdate">
+    <!--<p class="workdate">
         <span class="label">Rubro:</span> Gastronomía
     </p>
     <p class="skills">
         <span class="label">Local:</span> 15
-    </p>
+    </p>-->
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>

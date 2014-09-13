@@ -1,4 +1,4 @@
-﻿<%@ Page Title="kentucky" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="kentucky.aspx.cs" Inherits="locales_kentucky" %>
+﻿<%@ Page Title="Kentucky" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="kentucky.aspx.cs" Inherits="locales_kentucky" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="kentucky" />
@@ -32,25 +32,25 @@
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
-        <span class="label">Teléfono:</span> 4505-0814
+        <span class="label">Teléfono:</span> 4501-4224
     </p>
-    <p class="workdate">
+    <!--<p class="workdate">
         <span class="label">Mail:</span> info@mirtarovagna.com.ar
-    </p>
+    </p>-->
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
-        Lunes a Viernes de 10 a 20 hs.
+        
         <br />
-        Sabados de 10 a 18 hs.
+        
     </p>
     <p class="workdate">
-        <span class="label">Web:</span> www.miroweb.com.ar
+        <span class="label">Web:</span> www.pizzeriaskentucky.com/
     </p>
-    <p class="workdate">
+    <!--<p class="workdate">
         <span class="label">Rubro:</span> Gastronomía
-    </p>
+    </p>-->
     <p class="skills">
-        <span class="label">Local:</span> 15
+        <span class="label">Local:</span> 62-1
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">

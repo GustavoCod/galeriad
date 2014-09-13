@@ -1,4 +1,4 @@
-﻿<%@ Page Title="miraquiensoy" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="miraquiensoy.aspx.cs" Inherits="locales_miraquiensoy" %>
+﻿<%@ Page Title="Mira quien soy" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="miraquiensoy.aspx.cs" Inherits="locales_miraquiensoy" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="miraquiensoy" />
@@ -28,25 +28,29 @@
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
-        <span class="label">Teléfono:</span> 4505-0814
+        <span class="label">Teléfono:</span> 4505-2033
     </p>
-    <p class="workdate">
+    <!--<p class="workdate">
         <span class="label">Mail:</span> info@mirtarovagna.com.ar
-    </p>
+    </p>-->
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
-        Lunes a Viernes de 10 a 20 hs.
+        <strong>Lunes a viernes </strong>
         <br />
-        Sabados de 10 a 18 hs.
+        9 a 13 hs - 15:30 a 20 hs. 
+        <br />
+        <strong>Sábado</strong>
+        <br />
+        10 a 14 hs - 15:30 a 20 hs.
     </p>
-    <p class="workdate">
+    <!--<p class="workdate">
         <span class="label">Web:</span> www.miroweb.com.ar
     </p>
     <p class="workdate">
         <span class="label">Rubro:</span> Gastronomía
-    </p>
+    </p>-->
     <p class="skills">
-        <span class="label">Local:</span> 15
+        <span class="label">Local:</span> 16
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">

@@ -4,31 +4,21 @@
     <meta name="description" content="nigro" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
-    nigro
+    Nigro Relojeria
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
-    Indumentaria Femenina
+   Joyería y Bijouterie
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <li>
-        <img src="fotos/nigro/nigro1.jpg" alt="nigro. Foto del local 1" />
+        <img src="fotos/nigrorelojeria/nigrorelojeria1.jpg" alt="nigro. Foto del local 2" />
     </li>
     <li>
-        <img src="fotos/nigro/nigro2.jpg" alt="nigro. Foto del local 2" />
+        <img src="fotos/nigrorelojeria/nigrorelojeria2.jpg" alt="nigro. Foto del local 3" />
     </li>
     <li>
-        <img src="fotos/nigro/nigro3.jpg" alt="nigro. Foto del local 3" />
+        <img src="fotos/nigrorelojeria/nigrorelojeria3.jpg" alt="nigro. Foto del local 4" />
     </li>
-    <li>
-        <img src="fotos/nigro/nigro4.jpg" alt="nigro. Foto del local 4" />
-    </li>
-    <li>
-        <img src="fotos/nigro/nigro5.jpg" alt="nigro. Foto del local 5" />
-    </li>
-    <li>
-        <img src="fotos/nigro/nigro6.jpg" alt="nigro. Foto del local 6" />
-    </li>    
-
   
     
 </asp:Content>

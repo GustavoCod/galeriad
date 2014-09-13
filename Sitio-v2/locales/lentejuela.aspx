@@ -1,4 +1,4 @@
-﻿<%@ Page Title="lentejuela" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="lentejuela.aspx.cs" Inherits="locales_lentejuela" %>
+﻿<%@ Page Title="Lentejuela" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="lentejuela.aspx.cs" Inherits="locales_lentejuela" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="lentejuela" />
@@ -32,25 +32,25 @@
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
-        <span class="label">Teléfono:</span> 4505-0814
+        <span class="label">Teléfono:</span> 4504-7209
     </p>
-    <p class="workdate">
+    <!--<p class="workdate">
         <span class="label">Mail:</span> info@mirtarovagna.com.ar
-    </p>
+    </p>-->
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
-        Lunes a Viernes de 10 a 20 hs.
+        <strong>Lunes a sábado</strong>
         <br />
-        Sabados de 10 a 18 hs.
+        10 a 13 hs - 17 a 20:30 hs.
     </p>
-    <p class="workdate">
+    <!--<p class="workdate">
         <span class="label">Web:</span> www.miroweb.com.ar
     </p>
     <p class="workdate">
         <span class="label">Rubro:</span> Gastronomía
-    </p>
+    </p>-->
     <p class="skills">
-        <span class="label">Local:</span> 15
+        <span class="label">Local:</span> 21
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">

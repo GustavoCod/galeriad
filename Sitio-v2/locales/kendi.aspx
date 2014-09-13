@@ -1,13 +1,13 @@
-﻿<%@ Page Title="kendi" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="kendi.aspx.cs" Inherits="locales_kendi" %>
+﻿<%@ Page Title="Kendi" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="kendi.aspx.cs" Inherits="locales_kendi" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="kendi" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
-    kendi
+    Kendi
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
-    Indumentaria Femenina
+    Lenceria
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <li>
@@ -20,7 +20,7 @@
         <img src="fotos/kendi/kendi3.jpg" alt="kendi. Foto del local 3" />
     </li>
     <li>
-        <img src="fotos/kendi/kend4.jpg" alt="kendi. Foto del local 4" />
+        <img src="fotos/kendi/kendi4.jpg" alt="kendi. Foto del local 4" />
     </li>
     <li>
         <img src="fotos/kendi/kendi5.jpg" alt="kendi. Foto del local 5" />
@@ -34,25 +34,25 @@
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
-        <span class="label">Teléfono:</span> 4505-0814
+        <span class="label">Teléfono:</span> : 4503-1116
     </p>
-    <p class="workdate">
+    <!--<p class="workdate">
         <span class="label">Mail:</span> info@mirtarovagna.com.ar
-    </p>
+    </p>-->
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
-        Lunes a Viernes de 10 a 20 hs.
+        <strong>Lunes a sábado</strong>
         <br />
-        Sabados de 10 a 18 hs.
+        9:30 a 20:30 hs.
     </p>
-    <p class="workdate">
+    <!--<p class="workdate">
         <span class="label">Web:</span> www.miroweb.com.ar
     </p>
     <p class="workdate">
         <span class="label">Rubro:</span> Gastronomía
-    </p>
+    </p>-->
     <p class="skills">
-        <span class="label">Local:</span> 15
+        <span class="label">Local:</span> 59
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">

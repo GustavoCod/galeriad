@@ -1,4 +1,4 @@
-﻿<%@ Page Title="rollerhome" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="rollerhome.aspx.cs" Inherits="locales_rollerhome" %>
+﻿<%@ Page Title="Roller home" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="rollerhome.aspx.cs" Inherits="locales_rollerhome" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="rollerhome" />
@@ -27,25 +27,26 @@
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
-        <span class="label">Teléfono:</span> 4505-0814
+        <span class="label">Teléfono:</span> 4505-2548
     </p>
     <p class="workdate">
-        <span class="label">Mail:</span> info@mirtarovagna.com.ar
+        <span class="label">Mail:</span> roller.home@hotmail.com 
     </p>
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
-        Lunes a Viernes de 10 a 20 hs.
+        <strong>Lunes a Sábado</strong>
         <br />
-        Sabados de 10 a 18 hs.
+        10 a 13 y 16 a 20 hs.
+        
     </p>
-    <p class="workdate">
+    <!--<p class="workdate">
         <span class="label">Web:</span> www.miroweb.com.ar
     </p>
     <p class="workdate">
         <span class="label">Rubro:</span> Gastronomía
-    </p>
+    </p>-->
     <p class="skills">
-        <span class="label">Local:</span> 15
+        <span class="label">Local:</span> 41
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">

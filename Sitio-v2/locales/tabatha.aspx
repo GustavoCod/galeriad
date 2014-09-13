@@ -1,4 +1,4 @@
-﻿<%@ Page Title="tabatha" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="tabatha.aspx.cs" Inherits="locales_tabatha" %>
+﻿<%@ Page Title="Tabatha" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="tabatha.aspx.cs" Inherits="locales_tabatha" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="tabatha" />
@@ -28,25 +28,29 @@
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
-        <span class="label">Teléfono:</span> 4505-0814
+        <span class="label">Teléfono:</span> 4503-2790
     </p>
     <p class="workdate">
-        <span class="label">Mail:</span> info@mirtarovagna.com.ar
+        <span class="label">Mail:</span> valeynahi@hotmail.com
     </p>
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
-        Lunes a Viernes de 10 a 20 hs.
+        <strong>Lunes a Viernes</strong>
         <br />
-        Sabados de 10 a 18 hs.
+        10 a 13;30 y de 16:30 a 20:30. 
+        
+        <strong>Sábados</strong>
+        <br />
+        10 a 14 y 15 a 20:30.
     </p>
     <p class="workdate">
-        <span class="label">Web:</span> www.miroweb.com.ar
+        <span class="label">Web:</span> www.tabathajeans.com
     </p>
-    <p class="workdate">
+    <!--<p class="workdate">
         <span class="label">Rubro:</span> Gastronomía
-    </p>
+    </p>-->
     <p class="skills">
-        <span class="label">Local:</span> 15
+        <span class="label">Local:</span> 40
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">

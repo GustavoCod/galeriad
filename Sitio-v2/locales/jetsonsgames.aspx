@@ -1,23 +1,23 @@
-﻿<%@ Page Title="jetson" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="jetsonsgames.aspx.cs" Inherits="locales_jetsonsgames" %>
+﻿<%@ Page Title="Jetsons Games" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="jetsonsgames.aspx.cs" Inherits="locales_jetsonsgames" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="jetson" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
-    jetson
+  Jetsons Games
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
-    Indumentaria Femenina
+    Tecnología y entretenimiento
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <li>
-        <img src="fotos/jetson/jetson1.jpg" alt="jetson. Foto del local 1" />
+        <img src="fotos/jetsonsgames/jetson1.jpg" alt="jetson. Foto del local 1" />
     </li>
     <li>
-        <img src="fotos/jetson/jetson2.jpg" alt="jetson. Foto del local 2" />
+        <img src="fotos/jetsonsgames/jetson2.jpg" alt="jetson. Foto del local 2" />
     </li>
     <li>
-        <img src="fotos/jetson/jetson3.jpg" alt="jetson. Foto del local 3" />
+        <img src="fotos/jetsonsgames/jetson3.jpg" alt="jetson. Foto del local 3" />
     </li>
  
   
@@ -25,25 +25,29 @@
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
-        <span class="label">Teléfono:</span> 4505-0814
+        <span class="label">Teléfono:</span> 4501-1092
     </p>
-    <p class="workdate">
+    <!--<p class="workdate">
         <span class="label">Mail:</span> info@mirtarovagna.com.ar
-    </p>
+    </p>-->
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
-        Lunes a Viernes de 10 a 20 hs.
+        <strong>Lunes a sábado</strong>
         <br />
-        Sabados de 10 a 18 hs.
+        10 a 21 hs. 
+        <br />
+        <strong>Domingo</strong>
+        <br />
+        15:30 a 21 hs.
     </p>
-    <p class="workdate">
+    <!--<p class="workdate">
         <span class="label">Web:</span> www.miroweb.com.ar
     </p>
     <p class="workdate">
         <span class="label">Rubro:</span> Gastronomía
-    </p>
+    </p>-->
     <p class="skills">
-        <span class="label">Local:</span> 15
+        <span class="label">Local:</span> 10
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
