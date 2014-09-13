@@ -1,35 +1,35 @@
-﻿<%@ Page Title="country2" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="countrymasc.aspx.cs" Inherits="locales_countrymasc" %>
+﻿<%@ Page Title="Country Masculino" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="countrymasc.aspx.cs" Inherits="locales_countrymasc" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="country2" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
-    country2
+    Country Masculino
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
-    Indumentaria Femenina
+   Indumentaria Masculina
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <li>
-        <img src="fotos/country2/country21.jpg" alt="country2. Foto del local 1" />
+        <img src="fotos/countrymasc/countrymasc1.jpg" alt="country2. Foto del local 1" />
     </li>
     <li>
-        <img src="fotos/country2/country22.jpg" alt="country2. Foto del local 2" />
+        <img src="fotos/countrymasc/countrymasc2.jpg" alt="country2. Foto del local 2" />
     </li>
     <li>
-        <img src="fotos/country2/country23.jpg" alt="country2. Foto del local 3" />
+        <img src="fotos/countrymasc/countrymasc3.jpg" alt="country2. Foto del local 3" />
     </li>
     <li>
-        <img src="fotos/country2/country24.jpg" alt="country2. Foto del local 4" />
+        <img src="fotos/countrymasc/countrymasc4.jpg" alt="country2. Foto del local 4" />
     </li>
     <li>
-        <img src="fotos/country2/country25.jpg" alt="country2. Foto del local 5" />
+        <img src="fotos/countrymasc/countrymasc5.jpg" alt="country2. Foto del local 5" />
     </li>
     <li>
-        <img src="fotos/country2/country26.jpg" alt="country2. Foto del local 6" />
+        <img src="fotos/countrymasc/countrymasc6.jpg" alt="country2. Foto del local 6" />
     </li>
     <li>
-        <img src="fotos/country2/country27.jpg" alt="country2. Foto del local 7" />
+        <img src="fotos/countrymasc/countrymasc7.jpg" alt="country2. Foto del local 7" />
     </li>    
   
   
@@ -37,25 +37,29 @@
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
-        <span class="label">Teléfono:</span> 4505-0814
+        <span class="label">Teléfono:</span> 4504-0692
     </p>
     <p class="workdate">
-        <span class="label">Mail:</span> info@mirtarovagna.com.ar
+        <span class="label">Mail:</span> countrydevoto@hotmail.com 
     </p>
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
-        Lunes a Viernes de 10 a 20 hs.
+        <strong>Lunes a viernes</strong>
         <br />
-        Sabados de 10 a 18 hs.
+        9 a 21 hs. 
+        <br />
+        <strong>Sábado</strong>
+        <br />
+        9:30 a 21 hs.
     </p>
-    <p class="workdate">
+    <!--<p class="workdate">
         <span class="label">Web:</span> www.miroweb.com.ar
     </p>
     <p class="workdate">
         <span class="label">Rubro:</span> Gastronomía
-    </p>
+    </p> -->
     <p class="skills">
-        <span class="label">Local:</span> 15
+        <span class="label">Local:</span> 47-48
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
