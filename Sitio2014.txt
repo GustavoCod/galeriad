@@ -44,6 +44,10 @@ Notas
 TODO
 ----
 
+	Principal
+	---------
+	Agregar 2 columnas para los boxes.
+
 	Locales
 	-------
 	- Agregar el listado alfabetico de locales (ver si no usar masonry y usar divs con inline-block)
