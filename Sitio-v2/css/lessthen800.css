@@ -12,4 +12,7 @@
 
 .portfolio-filterable #primary {width:auto;}
 #content .accordion-slider {display:none !important;}
+.ei-title h2, .ei-title h3{
+	color: DarkGray !important;
+}
 

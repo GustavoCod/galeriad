@@ -31,51 +31,59 @@
             <li class="first slide-1 slide align- image-content-type">
                 <img src="./images/slider/elastic/facebook.jpg" width="1280" height="500" alt="Banner Facebook" />
                 <div class="ei-title">
-                    <h2 style="color: #FFF;">
-                        Hacénos Like</h2>
-                    <h3 style="color: #FFF;">
-                        Y enterate de todas las novedades!</h3>
+                    <h2>
+                        Promociones
+                    </h2>
+                    <h3>
+                        y novedades en nuestra Fan Page!
+                    </h3>
                 </div>
             </li>
             <li class="slide-2 slide align- image-content-type">
                 <img src="./images/slider/elastic/banner_madres.jpg" width="1280" height="500" alt="Banner día de la madre. Argentina." />
                 <div class="ei-title">
-                    <h2 style="color: #FFF;">
-                        Encontrá el regalo perfecto</h2>
-                    <h3 style="color: #FFF;">
-                        en la Gran Galeria Devoto</h3>
+                    <h2>
+                        Encontrá el regalo para tu mamá
+                    </h2>
+                    <h3>
+                        en Gran Galería Devoto
+                    </h3>
                 </div>
             </li>
         </ul>
         <ul class="ei-slider-thumbs">
             <li class="ei-slider-element">Current</li>
-            <li><a href="#">Hacénos Like y enterate de todas las novedades!</a><img src="images/slider/elastic/01-150x59.jpg" alt="Hacénos Like y enterate de todas las novedades!" /></li>
-            <li><a href="#">Encontrá el regalo perfecto en la Gran Galeria Devoto</a><img src="images/slider/elastic/Senza-titolo-1-150x59.jpg" alt="Encontrá el regalo perfecto en la Gran Galeria Devoto" /></li>
+            <li></li>
+            <li></li>
         </ul>
     </div>
     <!-- END #slider -->
-     <!-- BOXES -->
-    <div id="boxWrapper">
-        <!--FACEBOOK BOX -->
-        <div class="boxes">
-            <div class="box_img">
-                <img src="images/fb_logo.png" alt="Logo Facebook"></div>
-            <div class="box_txt">
-                Hacenos LIKE en Facebook
-                <br>
-                y enterate de todas las promociones!</div>
-        </div>
-        <!--End of FACEBOOK BOX -->
+    <!-- BOXES -->
+    <div class="boxWrapper">
         <!-- LOCALES BANNER-->
-        <div class="boxes">
-            <div class="box_img">
-                <img src="images/local_icon.jpg" alt="Local comercial"></div>
-            <div class="box_txt">
-                Encontrá en nuestros LOCALES
-                <br>
-                lo que estás buscando!</div>
+        <div class="two-fourth">
+            <div class="boxes">
+                <div class="box_img">
+                    <img src="images/local_icon.jpg" alt="Local comercial"></div>
+                <div class="box_txt">
+                    Encontrá en nuestros LOCALES
+                    <br>
+                    lo que estás buscando!</div>
+            </div>
         </div>
         <!-- End of LOCALES BANNER-->
+        <!--FACEBOOK BOX -->
+        <div class="two-fourth last">
+            <div class="boxes">
+                <div class="box_img">
+                    <img src="images/fb_logo.png" alt="Logo Facebook"></div>
+                <div class="box_txt">
+                    Promociones y novedades
+                    <br />
+                    en nuestra Fan Page!</div>
+            </div>
+        </div>
+        <!--End of FACEBOOK BOX -->
     </div>
     <!-- END OF BOXES -->
     <!-- LOCALES -->
