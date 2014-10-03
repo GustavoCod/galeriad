@@ -9,7 +9,7 @@
     <!-- JQUERY LOCALES -->
     <link rel="stylesheet" type="text/css" href="css/default.css" />
     <link rel="stylesheet" type="text/css" href="css/component.css" />
-    <script src="js/modernizr.custom.js"></script>
+    <%--<script src="js/modernizr.custom.js"></script>--%>
     <script type="text/javascript">
         $(document).ready(function () {
             $('#slider.elastic').eislideshow({
@@ -59,152 +59,127 @@
     </div>
     <!-- END #slider -->
     <!-- BOXES -->
-    <div class="boxWrapper">
-        <!-- LOCALES BANNER-->
-        <div class="two-fourth">
-            <div class="boxes">
-                <div class="box_img">
-                    <img src="images/local_icon.jpg" alt="Local comercial"></div>
-                <div class="box_txt">
-                    Encontrá en nuestros LOCALES
-                    <br>
-                    lo que estás buscando!</div>
+    <div id="content" class="layout-sidebar-no group">
+        <div id="primary">
+            <div class="boxWrapper">
+                <!-- LOCALES BANNER-->
+                <div class="two-fourth">
+                    <div class="boxes">
+                        <div class="box_img">
+                            <img src="images/local_icon.jpg" alt="Local comercial"></div>
+                        <div class="box_txt">
+                            Encontrá en nuestros LOCALES
+                            <br>
+                            lo que estás buscando!</div>
+                    </div>
+                </div>
+                <!-- End of LOCALES BANNER-->
+                <!--FACEBOOK BOX -->
+                <div class="two-fourth last">
+                    <div class="boxes">
+                        <div class="box_img">
+                            <img src="images/fb_logo.png" alt="Logo Facebook"></div>
+                        <div class="box_txt">
+                            Promociones y novedades
+                            <br />
+                            en nuestra Fan Page!</div>
+                    </div>
+                </div>
+                <!--End of FACEBOOK BOX -->
             </div>
-        </div>
-        <!-- End of LOCALES BANNER-->
-        <!--FACEBOOK BOX -->
-        <div class="two-fourth last">
-            <div class="boxes">
-                <div class="box_img">
-                    <img src="images/fb_logo.png" alt="Logo Facebook"></div>
-                <div class="box_txt">
-                    Promociones y novedades
-                    <br />
-                    en nuestra Fan Page!</div>
+            <!-- END OF BOXES -->
+            <!-- LOCALES -->
+            <div class="container">
+                <div class="main">
+                    <div id="cbp-vm" class="cbp-vm-switcher cbp-vm-view-grid">
+                        <ul>
+                            <li><a class="cbp-vm-image" href="rubros/locales-cuidadospersonales.aspx">
+                                <img src="images/home_locales/cuidados.png" alt="Tijera y peine">
+                                <h3 class="cbp-vm-title">
+                                    Cuidados Personales
+                                </h3>
+                            </a></li>
+                            <li><a class="cbp-vm-image" href="rubros/locales-gastronomia.aspx">
+                                <img src="images/home_locales/gastronomia.png" alt="Taza de café caliente">
+                                <h3 class="cbp-vm-title">
+                                    Gastronomía
+                                </h3>
+                            </a></li>
+                            <li><a class="cbp-vm-image" href="rubros/locales-hogar.aspx">
+                                <img src="images/home_locales/hogar.png" alt="Casa">
+                                <h3 class="cbp-vm-title">
+                                    Hogar
+                                </h3>
+                                </a>
+                            </li>
+                            <li><a class="cbp-vm-image" href="rubros/locales-indumentariafemenina.aspx">
+                                <img src="images/home_locales/female94.png" alt="Vestido">
+                                <h3 class="cbp-vm-title">
+                                    Indumentaria Femenina
+                                </h3>
+                                </a>
+                            </li>
+                            <li><a class="cbp-vm-image" href="rubros/locales-indumentariainfantil.aspx">
+                                <img src="images/home_locales/kids.png" alt="Enterito para chicos">
+                                <h3 class="cbp-vm-title">
+                                    Indumentaria Infantil
+                                </h3>
+                                </a>
+                            </li>
+                            <li><a class="cbp-vm-image" href="rubros/locales-indumentariamasculina.aspx">
+                                <img src="images/home_locales/male.png" alt="Ambo">
+                                <h3 class="cbp-vm-title">
+                                    Indumentaria Masculina
+                                </h3>
+                                </a>
+                            </li>
+                            <li><a class="cbp-vm-image" href="rubros/locales-infantiles.aspx">
+                                <img src="images/home_locales/infantiles.png" alt="Caballito de juguete">
+                                <h3 class="cbp-vm-title">
+                                    Infantiles
+                                </h3>
+                                </a>
+                            </li>
+                            <li><a class="cbp-vm-image" href="rubros/locales-joyeriabijouterie.aspx">
+                                <img src="images/home_locales/joyeria.png" alt="Cadenita con dije">
+                                <h3 class="cbp-vm-title">
+                                    Joyeria y bijouterie
+                                </h3>
+                                </a>
+                            </li>
+                            <li><a class="cbp-vm-image" href="rubros/locales-lenceria.aspx">
+                                <img src="images/home_locales/lenceria.png" alt="Conjunto de corpiño y bombacha">
+                                <h3 class="cbp-vm-title">
+                                    Lencería
+                                </h3>
+                                </a>
+                            </li>
+                            <li><a class="cbp-vm-image" href="rubros/locales-marroquineriacalzados.aspx">
+                                <img src="images/home_locales/marroquineria.png" alt="Zapato y Cartera">
+                                <h3 class="cbp-vm-title">
+                                    Marroquinería y calzados
+                                </h3>
+                                </a>
+                            </li>
+                            <li><a class="cbp-vm-image" href="rubros/locales-merceria.aspx">
+                                <img src="images/home_locales/merceria.png" alt="Hilo y aguja">
+                                <h3 class="cbp-vm-title">
+                                    Mercería
+                                </h3>
+                                </a>
+                            </li>
+                            <li><a class="cbp-vm-image" href="rubros/locales-tecnologia.aspx">
+                                <img src="images/home_locales/tecnologia.png" alt="Smartphone">
+                                <h3 class="cbp-vm-title">
+                                    Tecnología y entretenimiento</h3>
+                            </li>
+                            </a>
+                        </ul>
+                    </div>
+                </div>
             </div>
+            <!-- /main -->
         </div>
-        <!--End of FACEBOOK BOX -->
-    </div>
-    <!-- END OF BOXES -->
-    <!-- LOCALES -->
-    <div class="container">
-        <div class="main">
-            <div id="cbp-vm" class="cbp-vm-switcher cbp-vm-view-grid">
-                <h2>
-                    Rubros</h2>
-                <ul>
-                    <li><a class="cbp-vm-image" href="#">
-                        <img src="images/home_locales/cuidados.png"></a>
-                        <h3 class="cbp-vm-title">
-                            Cuidados Personales</h3>
-                        <!--<div class="cbp-vm-details">
-                                                Silver beet shallot wakame tomatillo salsify mung bean beetroot groundnut.
-                                            </div>
-                                            <a class="cbp-vm-icon cbp-vm-add" href="#">Ver más</a>-->
-                    </li>
-                    <li><a class="cbp-vm-image" href="#">
-                        <img src="images/home_locales/gastronomia.png"></a>
-                        <h3 class="cbp-vm-title">
-                            Gastronomía</h3>
-                        <!--<div class="cbp-vm-details">
-                                                Wattle seed bunya nuts spring onion okra garlic bitterleaf zucchini.
-                                            </div>
-                                            <a class="cbp-vm-icon cbp-vm-add" href="#">Ver más</a>-->
-                    </li>
-                    <li><a class="cbp-vm-image" href="#">
-                        <img src="images/home_locales/female94.png"></a>
-                        <h3 class="cbp-vm-title">
-                            Indumentaria Femenina</h3>
-                        <!--<div class="cbp-vm-details">
-                                                Kohlrabi bok choy broccoli rabe welsh onion spring onion tatsoi ricebean kombu chard.
-                                            </div>
-                                            <a class="cbp-vm-icon cbp-vm-add" href="#">Ver más</a>-->
-                    </li>
-                    <li><a class="cbp-vm-image" href="#">
-                        <img src="images/home_locales/male.png"></a>
-                        <h3 class="cbp-vm-title">
-                            Indumentaria Masculina</h3>
-                        <!--<div class="cbp-vm-details">
-                                                Melon sierra leone bologi carrot peanut salsify celery onion jícama summer purslane.
-                                            </div>
-                                            <a class="cbp-vm-icon cbp-vm-add" href="#">Ver más</a>-->
-                    </li>
-                    <li><a class="cbp-vm-image" href="#">
-                        <img src="images/home_locales/kids.png"></a>
-                        <h3 class="cbp-vm-title">
-                            Indumentaria Infantil</h3>
-                        <!--<div class="cbp-vm-details">
-                                                Celery carrot napa cabbage wakame zucchini celery chard beetroot jícama sierra leone.
-                                            </div>
-                                            <a class="cbp-vm-icon cbp-vm-add" href="#">Ver más</a>-->
-                    </li>
-                    <li><a class="cbp-vm-image" href="#">
-                        <img src="images/home_locales/unisex.png"></a>
-                        <h3 class="cbp-vm-title">
-                            Indumentaria Unisex</h3>
-                        <!--<div class="cbp-vm-details">
-                                                Catsear cabbage tomato parsnip cucumber pea brussels sprout spring onion shallot swiss .
-                                            </div>
-                                            <a class="cbp-vm-icon cbp-vm-add" href="#">Ver más</a>-->
-                    </li>
-                    <li><a class="cbp-vm-image" href="#">
-                        <img src="images/home_locales/infantiles.png"></a>
-                        <h3 class="cbp-vm-title">
-                            Infantiles</h3>
-                        <!--<div class="cbp-vm-details">
-                                                Mung bean taro chicory spinach komatsuna fennel.
-                                            </div>
-                                            <a class="cbp-vm-icon cbp-vm-add" href="#">Ver más</a>-->
-                    </li>
-                    <li><a class="cbp-vm-image" href="#">
-                        <img src="images/home_locales/joyeria.png"></a>
-                        <h3 class="cbp-vm-title">
-                            Joyeria y bijouterie</h3>
-                        <!--<div class="cbp-vm-details">
-                                                Epazote soko chickpea radicchio rutabaga desert raisin wattle seed coriander water.
-                                            </div>
-                                            <a class="cbp-vm-icon cbp-vm-add" href="#">Ver más</a>-->
-                    </li>
-                    <li><a class="cbp-vm-image" href="#">
-                        <img src="images/home_locales/marroquineria.png"></a>
-                        <h3 class="cbp-vm-title">
-                            Marroquinería y calzados</h3>
-                        <!--<div class="cbp-vm-details">
-                                                Tatsoi caulie broccoli rabe bush tomato fava bean beetroot epazote salad grape.
-                                            </div>
-                                            <a class="cbp-vm-icon cbp-vm-add" href="#">Ver más</a>-->
-                    </li>
-                    <li><a class="cbp-vm-image" href="#">
-                        <img src="images/home_locales/lenceria.png"></a>
-                        <h3 class="cbp-vm-title">
-                            Lencería</h3>
-                        <!--<div class="cbp-vm-details">
-                                                Endive okra chard desert raisin prairie turnip cucumber maize avocado.
-                                            </div>
-                                            <a class="cbp-vm-icon cbp-vm-add" href="#">Ver más</a>-->
-                    </li>
-                    <li><a class="cbp-vm-image" href="#">
-                        <img src="images/home_locales/tecnologia.png"></a>
-                        <h3 class="cbp-vm-title">
-                            Tecnología y entretenimiento</h3>
-                        <!--<div class="cbp-vm-details">
-                                                Bush tomato peanut shallot turnip prairie turnip gram desert raisin.
-                                            </div>
-                                            <a class="cbp-vm-icon cbp-vm-add" href="#">Ver más</a>-->
-                    </li>
-                    <li><a class="cbp-vm-image" href="#">
-                        <img src="images/home_locales/otros.png"></a>
-                        <h3 class="cbp-vm-title">
-                            Otros</h3>
-                        <!--<div class="cbp-vm-details">
-                                                Yarrow leek cabbage amaranth onion salsify caulie kale desert raisin prairie turnip garlic.
-                                            </div>
-                                            <a class="cbp-vm-icon cbp-vm-add" href="#">Ver más</a>-->
-                    </li>
-                </ul>
-            </div>
-        </div>
-        <!-- /main -->
     </div>
     <!-- /container -->
     <%--<script src="js/classie.js"></script>--%>

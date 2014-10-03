@@ -5,7 +5,6 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="cphContent" runat="Server">
     <div id="content" class="layout-sidebar-no group">
-        <!-- START PRIMARY -->
         <div id="primary">
             <div class="one-third">
                 <img src="images/historia.png" width="100%" alt="Frente de Gran Galería Devoto">
