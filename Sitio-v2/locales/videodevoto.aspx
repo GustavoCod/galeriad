@@ -46,10 +46,14 @@
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-        Sed ut perspiciatis <strong>unde omnis</strong> iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+      •	Alquiler y venta de películas Dvd Blue ray y Blue ray 3D.<br />
+	•	Venta y accesorios de consolas de video juegos Xbox, PS3, PS4 y PS2 (chipeos y carga de juegos en rigido). Venta – insumos – pilar – baterías – cables.<br />
+	•	Tablet y electrónica.<br />
+	•	Servicio técnico especializado (solo video juegos). Presupuesto sin cargo.
+
     </p>
     <p>
-        The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested<a href="#">. Sections 1.10.32</a> and 1.10.33 from &acirc;&euro;&oelig;de Finibus Bonorum et Malorum&acirc;&euro; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+       23 años en el rubro. Atención personalizada pre y post venta. Un lugar recomendable en Devoto.
     </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">

@@ -52,10 +52,22 @@
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-        Sed ut perspiciatis <strong>unde omnis</strong> iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-    </p>
-    <p>
-        The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested<a href="#">. Sections 1.10.32</a> and 1.10.33 from &acirc;&euro;&oelig;de Finibus Bonorum et Malorum&acirc;&euro; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+        <strong>MULTIMARCA</strong><br />
+        Nous Etudions<br />
+        Jackie Smith, Rapsodia<br />
+        Las oreiro, Jazmin Chebar<br />
+        Etiqueta negra<br />
+        tramando<br />Akiabara
+        <br />
+        Juanita Go<br />
+        Kosiuko<br />
+        Uma<br />
+        Maria Vazquez<br />
+        Ricky Sarkany<br />
+        Tivoglio<br />
+        Vitamina<br />
+        Ayres<br />
+        Maria Cher
     </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">

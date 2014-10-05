@@ -75,10 +75,29 @@
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-        Sed ut perspiciatis <strong>unde omnis</strong> iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+        Tortas<br />
+        alfajores<br />
+        budines<br />
+        torta galesa<br />
+        rollito de nuez<br />
+        torta inglesa<br />
+        tarta manzana<br />
+        lemon pie<br />
+        cheesecake<br />
+        snacks frutas secas<br />
+        seones<br />
+        galletitas<br />
+        tarteletas<br />
+        servicios de catering
     </p>
     <p>
-        The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested<a href="#">. Sections 1.10.32</a> and 1.10.33 from &acirc;&euro;&oelig;de Finibus Bonorum et Malorum&acirc;&euro; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+       Sucursales: Belgrano – Caballito – Devoto – Palermo.
+    </p>
+    <p>
+    Pedí tu presupuesto para servicios de catering.
+    </p>
+    <p>
+    Tarjeta Master. Visa.
     </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">

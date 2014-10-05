@@ -55,10 +55,33 @@
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-        Sed ut perspiciatis <strong>unde omnis</strong> iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+        Tienda de ropa para chicos con corazón aventurero.
     </p>
     <p>
-        The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested<a href="#">. Sections 1.10.32</a> and 1.10.33 from &acirc;&euro;&oelig;de Finibus Bonorum et Malorum&acirc;&euro; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+        Contamos con una amplia variedad de marcas exclusivas, que elegimos año a año teniendo en cuenta como prioridad el diseño, calidad y el precio.
+    </p>
+    <p>
+    Trabajamos talles desde recién nacidos a pre teens.<br />
+    En Mira Quien Soy! Vas a encontrar diferentes líneas:<br />
+    •	Urbana en informal <br />
+    •	Canchera y divertida <br />
+    •	Rockera y romántica <br />
+    •	Fiesta <br />
+    •	Trajes de baño y accesorios
+
+    </p>
+    <p>
+    Pensando siempre en vos!
+    </p>
+    <p>
+    Medios de pago: <br />
+    •	Efectivo<br />
+    •	Visa<br />
+    •	MasterCard<br />
+    •	American Express<br />
+    •	Diners<br />
+    •	Tarjeta Naranja
+
     </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">

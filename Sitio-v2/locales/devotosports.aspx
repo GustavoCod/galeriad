@@ -57,10 +57,22 @@
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-        Sed ut perspiciatis <strong>unde omnis</strong> iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+        Basados en la premisa de ofrecer las marcas líderes en el rubro deportivo y de renovar sus propuestas cada día para estar a la altura de las de la clientela de la zona, surge Devoto Sports, un negocio ubicado en pleno corazón del barrio y con más de 10 años de trayectoria.
     </p>
     <p>
-        The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested<a href="#">. Sections 1.10.32</a> and 1.10.33 from &acirc;&euro;&oelig;de Finibus Bonorum et Malorum&acirc;&euro; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+        Como siempre quienes se acerquen al local pueden encontrar variedad de productos en las mejores firmas del mercado como Adidas, Converse, Reebok, Wilson, Olympikus, Bubble Gummers Rider y Havaiana.
+    </p>
+    <p>
+    La fuerte apuesta de Devoto Sports apunta a darle la posibilidad a los vecinos de no tener que trasladarse hasta los grandes centros comerciales de la ciudad para acceder a un local deportivo de primer nivel, y al mismo tiempo, la buena presencia del local le otorga un salto de calidad importante a la zona.
+    </p>
+    <p>
+    En el negocio se brinda la mejor atención personalizada a cargo de expertos en el tema que lo podrán asesorar para que el cliente se vaya satisfecho.
+    </p>
+    <p>
+    La decoración, la iluminación y la fachada lo posicionan en el mismo nivel de los mejores locales de deportes de Buenos Aires.
+    </p>
+    <p>
+    Aceptamos Visa MasterCard. American Express. Diners. Visa Debito. Maestro.
     </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">
