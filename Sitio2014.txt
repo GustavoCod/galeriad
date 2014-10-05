@@ -46,7 +46,8 @@ TODO
 
 	Principal
 	---------
-	Agregar 2 columnas para los boxes.
+	Rubros: http://tympanus.net/codrops/2013/07/01/view-mode-switch/
+	Poner links al slider grande
 
 	Locales
 	-------
