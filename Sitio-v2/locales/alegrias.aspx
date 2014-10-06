@@ -53,10 +53,20 @@
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-        Sed ut perspiciatis <strong>unde omnis</strong> iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+        Alegrías es un negocio especializado en regalaría infantil, que hace 13 años se destaca por la variedad de productos y buenos precios.
+	En nuestro local encontrara: <br />
+	•	Juguetes para bebes y chicos<br />
+	•	Peluches<br />
+	•	Paraguas – piloto<br />
+	•	Artículos escolares: mochilas, cartucheras y otros.<br />
+	•	Juegos de mesa<br />
+	•	Almohadones<br />
+	•	Tazas – vasos – platos en melamina<br />
+	•	Tazas en cerámica y mucho mas.<br />
+
     </p>
     <p>
-        The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested<a href="#">. Sections 1.10.32</a> and 1.10.33 from &acirc;&euro;&oelig;de Finibus Bonorum et Malorum&acirc;&euro; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+        Se aceptan tarjetas de crédito y débito. Visa, American Express, MasterCard y Maestro.
     </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">

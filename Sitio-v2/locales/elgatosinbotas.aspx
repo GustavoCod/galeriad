@@ -64,10 +64,16 @@
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-        Sed ut perspiciatis <strong>unde omnis</strong> iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+        El gato sin botas se inició en el 2011, como un proyecto familiar, pensando en y para los chicos.
     </p>
     <p>
-        The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested<a href="#">. Sections 1.10.32</a> and 1.10.33 from &acirc;&euro;&oelig;de Finibus Bonorum et Malorum&acirc;&euro; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+        Con ropa de diseño para bebes y niños, ropa colorida, alegra, distinta… y muy original. Así como también se comercializa accesorios como cambiadores, toallones, porta chupetes, organizadores, regalos de nacimiento, baberos, etc.
+    </p>
+    <p>
+    Por el momento no tenemos otras sucursales, pero es un deseo enorme poder lograrlo algún día.
+    </p>
+    <p>
+    Nuestros medios de pago son: efectivo, tarjetas de crédito y débito (MasterCard, visa, american express, tarjeta shopping, tarjeta naranja, cabal, etc.) manejamos todas las tarjetas!!!
     </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">

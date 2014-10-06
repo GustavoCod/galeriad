@@ -61,11 +61,33 @@
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-        Sed ut perspiciatis <strong>unde omnis</strong> iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+        Desde hace 25 años brindando atención personalizada a los vecinos de Devoto, siempre con una propuesta diferente para todas las edades. Completo surtido en acero quirúrgico de primeras marcas: aros, anillos, pulseras, cadenas, dijes y los mismos artículos en plata lisa y también con piedras naturales. 
     </p>
     <p>
-        The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested<a href="#">. Sections 1.10.32</a> and 1.10.33 from &acirc;&euro;&oelig;de Finibus Bonorum et Malorum&acirc;&euro; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+       Sweaters medias, polainas, gorros y guantes en lana artesanal. Chalinas, pashminas, pañuelos, morrales y bolsos de diferentes orígenes para todos los gustos.
     </p>
+    <p>
+    En cuero tenemos billeteras, cinturones, monederos, sandalias y suecos.
+    </p>
+    <p>
+    Prendas de india camisolas, vestidos, faldas y pantalones “bali” tapices, hornillos eléctricos y esencias de aromaterapia.
+    </p>
+    <p>
+    También paraguas y variedad de billeteras en cuero ecológico
+    </p>
+    <p>
+    Para todos los más jóvenes, piercing, labret, B.C.R., nostril, septum, ombligo, expansores y túneles en todas las medidas.
+    </p>
+    <p>
+    Mochilas y remeras de rock, cinturones y muñequeras con tachas.
+    </p>      
+    <p>
+    Agradeciéndoles habernos acompañando todos estos años: Los esperamos!!!
+    </p>
+    <p>
+    Formas de pago: Tarjetas de débito y crédito, Visa, Master, American y Cabal.
+    </p>  
+    
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">
     <ul>

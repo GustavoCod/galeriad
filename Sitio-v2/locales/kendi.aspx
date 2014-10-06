@@ -57,10 +57,13 @@
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-        Sed ut perspiciatis <strong>unde omnis</strong> iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+        Lencería Kendi acompañando al público  devótense hace 11 años. Nos destacamos por ofrecer diferentes opciones que van desde pijamas, camisones, medias, pantuflas, ropa interior de niño y mujer. También con la línea de disfraces y lencería erótica de la firma 4 hidden.
     </p>
     <p>
-        The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested<a href="#">. Sections 1.10.32</a> and 1.10.33 from &acirc;&euro;&oelig;de Finibus Bonorum et Malorum&acirc;&euro; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+        Para hombres tenemos pantuflas, medias de algodón, de vestir y deportivas y la línea de boxer y slip
+    </p>
+    <p>
+    Se aceptan todas las tarjetas Visa, MasterCard, American Express y Cabal.
     </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">
