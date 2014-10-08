@@ -78,11 +78,13 @@
                 <div class="two-fourth last">
                     <div class="boxes">
                         <div class="box_img">
-                            <img src="images/fb_logo.png" alt="Logo Facebook"></div>
+                            <img src="images/fb_logo.png" alt="Logo Facebook">
+                        </div>
                         <div class="box_txt">
                             Promociones y novedades
                             <br />
-                            en nuestra Fan Page!</div>
+                            en nuestra Fan Page!
+                        </div>
                     </div>
                 </div>
                 <!--End of FACEBOOK BOX -->
@@ -110,69 +112,59 @@
                                 <h3 class="cbp-vm-title">
                                     Hogar
                                 </h3>
-                                </a>
-                            </li>
+                            </a></li>
                             <li><a class="cbp-vm-image" href="rubros/locales-indumentariafemenina.aspx">
                                 <img src="images/home_locales/female94.png" alt="Vestido">
                                 <h3 class="cbp-vm-title">
                                     Indumentaria Femenina
                                 </h3>
-                                </a>
-                            </li>
+                            </a></li>
                             <li><a class="cbp-vm-image" href="rubros/locales-indumentariainfantil.aspx">
                                 <img src="images/home_locales/kids.png" alt="Enterito para chicos">
                                 <h3 class="cbp-vm-title">
                                     Indumentaria Infantil
                                 </h3>
-                                </a>
-                            </li>
+                            </a></li>
                             <li><a class="cbp-vm-image" href="rubros/locales-indumentariamasculina.aspx">
                                 <img src="images/home_locales/male.png" alt="Ambo">
                                 <h3 class="cbp-vm-title">
                                     Indumentaria Masculina
                                 </h3>
-                                </a>
-                            </li>
+                            </a></li>
                             <li><a class="cbp-vm-image" href="rubros/locales-infantiles.aspx">
                                 <img src="images/home_locales/infantiles.png" alt="Caballito de juguete">
                                 <h3 class="cbp-vm-title">
                                     Infantiles
                                 </h3>
-                                </a>
-                            </li>
+                            </a></li>
                             <li><a class="cbp-vm-image" href="rubros/locales-joyeriabijouterie.aspx">
                                 <img src="images/home_locales/joyeria.png" alt="Cadenita con dije">
                                 <h3 class="cbp-vm-title">
                                     Joyeria y bijouterie
                                 </h3>
-                                </a>
-                            </li>
+                            </a></li>
                             <li><a class="cbp-vm-image" href="rubros/locales-lenceria.aspx">
                                 <img src="images/home_locales/lenceria.png" alt="Conjunto de corpiño y bombacha">
                                 <h3 class="cbp-vm-title">
                                     Lencería
                                 </h3>
-                                </a>
-                            </li>
+                            </a></li>
                             <li><a class="cbp-vm-image" href="rubros/locales-marroquineriacalzados.aspx">
                                 <img src="images/home_locales/marroquineria.png" alt="Zapato y Cartera">
                                 <h3 class="cbp-vm-title">
                                     Marroquinería y calzados
                                 </h3>
-                                </a>
-                            </li>
+                            </a></li>
                             <li><a class="cbp-vm-image" href="rubros/locales-merceria.aspx">
                                 <img src="images/home_locales/merceria.png" alt="Hilo y aguja">
                                 <h3 class="cbp-vm-title">
                                     Mercería
                                 </h3>
-                                </a>
-                            </li>
+                            </a></li>
                             <li><a class="cbp-vm-image" href="rubros/locales-tecnologia.aspx">
                                 <img src="images/home_locales/tecnologia.png" alt="Smartphone">
                                 <h3 class="cbp-vm-title">
-                                    Tecnología y entretenimiento</h3>
-                            </li>
+                                    Tecnología y entretenimiento</h3></li>
                             </a>
                         </ul>
                     </div>
