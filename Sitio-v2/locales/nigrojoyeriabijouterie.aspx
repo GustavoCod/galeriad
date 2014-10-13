@@ -11,22 +11,22 @@
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <li>
-        <img src="fotos/nigro/nigro1.jpg" alt="nigro. Foto del local 1" />
+        <img src="fotos/nigrojoyeriabijouterie/nigro1.jpg" alt="nigro. Foto del local 1" />
     </li>
     <li>
-        <img src="fotos/nigro/nigro2.jpg" alt="nigro. Foto del local 2" />
+        <img src="fotos/nigrojoyeriabijouterie/nigro2.jpg" alt="nigro. Foto del local 2" />
     </li>
     <li>
-        <img src="fotos/nigro/nigro3.jpg" alt="nigro. Foto del local 3" />
+        <img src="fotos/nigrojoyeriabijouterie/nigro3.jpg" alt="nigro. Foto del local 3" />
     </li>
     <li>
-        <img src="fotos/nigro/nigro4.jpg" alt="nigro. Foto del local 4" />
+        <img src="fotos/nigrojoyeriabijouterie/nigro4.jpg" alt="nigro. Foto del local 4" />
     </li>
     <li>
-        <img src="fotos/nigro/nigro5.jpg" alt="nigro. Foto del local 5" />
+        <img src="fotos/nigrojoyeriabijouterie/nigro5.jpg" alt="nigro. Foto del local 5" />
     </li>
     <li>
-        <img src="fotos/nigro/nigro6.jpg" alt="nigro. Foto del local 6" />
+        <img src="fotos/nigrojoyeriabijouterie/nigro6.jpg" alt="nigro. Foto del local 6" />
     </li>    
 
   
@@ -57,11 +57,28 @@
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-        Sed ut perspiciatis <strong>unde omnis</strong> iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+        Joyeria Nigro, con mas de 30 años en el barrio y 45 de experiencia en el rubro nos dan la experiencia y herramientas para poder asesorarte y brindarte la mejor atención personalizada.
     </p>
     <p>
-        The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested<a href="#">. Sections 1.10.32</a> and 1.10.33 from &acirc;&euro;&oelig;de Finibus Bonorum et Malorum&acirc;&euro; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+Ubicados en los locales 42 y 49 de la Gran Galería Devoto, trabajamos para acercarle a nuestros  clientes las mejores piezas den relojería y joyería, convirtiéndose en una de las opciones ideales a la hora de hacer un regalo importante.
     </p>
+    <p>
+Se brinda asesoramiento profesional, se atienden consultas y se realizan presupuestos sin cargo.
+Contamos con talleres propios en los que se fabrican diseños por pedido. Es por eso que en los locales se caracterizan por ofrecer modelos exclusivos que se adaptan a las necesidades y preferencias de cada cliente.
+    </p>
+    <p>
+El local 42 se dedica a la venta de piezas en platería 925, acero quirúrgico, metal dorado y plateado ademas de variedad de  relojería japonesa. 
+    </p>
+    <p>
+El local 49 se enfoca a piezas destacadas y de diseño en oro 18 ktes, alianzas, relojería suiza y escritura ademas de  piezas en plata 925 italiana para colección.
+    </p>
+    <p>
+En relojería, se presentan exclusivas  marcas suizas como  Movado, Techno Marine, Longines, Alfex, Mido, Tissot, Swatch, Victorinox Swiss Army, Certina y Mont Balnc.
+    </p>
+    <p>
+ Marcas Japonesas como  Tommy Hilfiger , Converse, Festina, Guess, Okusai, Time Force, Marc Jacobs, Jacques Lemans, Junghans.<br />
+Ademas de otras marcas como,  Il Gioiello, Morellato Joyas, Monona, Waterman, Parker,  de Dios Joyas, Rodolfo Lang, Cardinal, Carassale hnos entre otras.
+    </p>        
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">
     <ul>

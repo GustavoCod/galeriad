@@ -62,10 +62,16 @@
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-        Sed ut perspiciatis <strong>unde omnis</strong> iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+        Bombonería y chocolatería fina.
     </p>
     <p>
-        The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested<a href="#">. Sections 1.10.32</a> and 1.10.33 from &acirc;&euro;&oelig;de Finibus Bonorum et Malorum&acirc;&euro; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+        Exquisiteces artesanales, en el rubro de bombones y chocolates, elaborados con materia prima de la más alta calidad, ofreciendo los productos adecuados para cada ocasión, que contribuyen a endulzar la vida de grandes y chicos
+    </p>
+    <p>
+    Comercio que es un icono en el rubro, desde hace 10 años, en Villa Devoto.
+    </p>
+    <p>
+    Excelencia, calidad y buen gusto, ofrecidos en un entorno coqueto y agradable.
     </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">

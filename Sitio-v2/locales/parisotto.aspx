@@ -55,10 +55,13 @@
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-        Sed ut perspiciatis <strong>unde omnis</strong> iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+       Tradicional local de venta de zapatos, carteras, cinturones, y demás artículos de cuero para la mujer.
     </p>
     <p>
-        The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested<a href="#">. Sections 1.10.32</a> and 1.10.33 from &acirc;&euro;&oelig;de Finibus Bonorum et Malorum&acirc;&euro; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+        Comercio que exhibe en sus amplias vidrieras una diversa variedad de artículos, a excelentes precios para satisfacer la demanda, de su extensa y fiel clientela.
+    </p>
+    <p>
+    Su permanencia en  la Gran Galería Devoto, trasciende, más de una generación, contando con variedad de sucursales, en Capital Federal, con fabricación propia  de reconocida calidad.
     </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">

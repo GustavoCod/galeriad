@@ -65,12 +65,14 @@
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
-    <p>
-        Sed ut perspiciatis <strong>unde omnis</strong> iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-    </p>
-    <p>
-        The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested<a href="#">. Sections 1.10.32</a> and 1.10.33 from &acirc;&euro;&oelig;de Finibus Bonorum et Malorum&acirc;&euro; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
-    </p>
+    <p>Lingerie de alta calidad y prestancia</p>
+	<p>Ropa interior femenina </p>
+	<p>Productos de diseño de creación propia</p>
+	<p>Líneas clásicas y modernas para la mujer de hoy</p>
+	<p>Local ambientado con los clásicos detalles que caracterizan a la marca 
+“CARO CUORE” </p>
+	<p>Vistosidad, delicadeza y glamur expresados a través de una marca emblema ampliamente reconocida y desplegada en sus numerosas sucursales de todo el país</p>
+    
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">
     <ul>

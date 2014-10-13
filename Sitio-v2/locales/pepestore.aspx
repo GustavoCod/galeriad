@@ -60,10 +60,13 @@
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-        Sed ut perspiciatis <strong>unde omnis</strong> iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+        Venta de juguetes nacionales e importados.
     </p>
     <p>
-        The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested<a href="#">. Sections 1.10.32</a> and 1.10.33 from &acirc;&euro;&oelig;de Finibus Bonorum et Malorum&acirc;&euro; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+        Ofrece invariablemente todas la líneas de productos que se comercializan en el rubro, estando atentos, tanto a los juguetes y juegos tradicionales, como a los de última moda, incluyendo a  los que se publicitan en televisión  o son lanzamiento de las últimas películas del cine.
+    </p>
+    <p>
+    Tradicional local que ha sabido crecer y superarse a través del tiempo, con la capacidad dinámica y emprendedora de sus propietarios, partiendo desde un drugstore , hasta convertirlo, con empeño, trabajo y tenacidad, a lo largo de 35 años, en la excelente juguetería que hoy conducen .
     </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">

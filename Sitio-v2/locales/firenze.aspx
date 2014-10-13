@@ -48,10 +48,13 @@
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-        Sed ut perspiciatis <strong>unde omnis</strong> iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+       Mercería y Botonería
     </p>
     <p>
-        The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested<a href="#">. Sections 1.10.32</a> and 1.10.33 from &acirc;&euro;&oelig;de Finibus Bonorum et Malorum&acirc;&euro; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+        Venta de todo tipo de artículos de mercería y arreglos finos de ropa para el hombre y la mujer
+    </p>
+    <p>
+    Histórico local de la Gran Galería Devoto, que ha sabido mantener a lo largo de sus más de cincuenta años de trayectoria,  la constancia en la variedad y calidad de sus artículos, y en la atención amable y esmerada a su fiel y nutrida clientela.
     </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">

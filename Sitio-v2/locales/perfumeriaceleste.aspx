@@ -11,16 +11,16 @@
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <li>
-        <img src="fotos/celeste/celeste1.jpg" alt="celeste. Foto del local 1" />
+        <img src="fotos/perfumeriaceleste/celeste1.jpg" alt="celeste. Foto del local 1" />
     </li>
     <li>
-        <img src="fotos/celeste/celeste2.jpg" alt="celeste. Foto del local 2" />
+        <img src="fotos/perfumeriaceleste/celeste2.jpg" alt="celeste. Foto del local 2" />
     </li>
     <li>
-        <img src="fotos/celeste/celeste3.jpg" alt="celeste. Foto del local 3" />
+        <img src="fotos/perfumeriaceleste/celeste3.jpg" alt="celeste. Foto del local 3" />
     </li>
     <li>
-        <img src="fotos/celeste/celeste4.jpg" alt="celeste. Foto del local 4" />
+        <img src="fotos/perfumeriaceleste/celeste4.jpg" alt="celeste. Foto del local 4" />
     </li>
   
     
@@ -50,10 +50,10 @@
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-        Sed ut perspiciatis <strong>unde omnis</strong> iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+        Venta de Articules de perfumería y maquillajes, nacionales e importados, de la más alta calidad, exhibiendo productos de variadas y reconocidas marcas. 
     </p>
     <p>
-        The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested<a href="#">. Sections 1.10.32</a> and 1.10.33 from &acirc;&euro;&oelig;de Finibus Bonorum et Malorum&acirc;&euro; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+     Su permanencia de más de seis años en  la Gran Galería Devoto, a contribuido a prestigiar la zona de villa Devoto, gracias a la calidad  de sus productos, además de su elegante diseño y la cordial y eficiente atención que ofrecen las bellas vendedoras, a hombres y mujeres , que componen su fina clientela.
     </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">

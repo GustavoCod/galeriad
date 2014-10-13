@@ -55,10 +55,17 @@
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-        Sed ut perspiciatis <strong>unde omnis</strong> iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+        Indumentaria femenina para la mujer joven y moderna.
     </p>
     <p>
-        The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested<a href="#">. Sections 1.10.32</a> and 1.10.33 from &acirc;&euro;&oelig;de Finibus Bonorum et Malorum&acirc;&euro; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+        Venta de indumentaria femenina, ampliamente reconocida en su segmento.
+Jeans, blusas, camperas, lencería y todo tipo de artículos que realzan la imagen de la mujer joven.
+    </p>
+    <p>
+    Sus múltiples sucursales se desarrollan a lo largo de todo el país, con un prestigio justamente valorado.
+    </p>
+    <p>
+    Atención personalizada, eficiente y cordial.
     </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">

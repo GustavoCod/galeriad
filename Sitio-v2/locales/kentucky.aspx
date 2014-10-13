@@ -55,10 +55,16 @@
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-        Sed ut perspiciatis <strong>unde omnis</strong> iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+        PIZZERIA<br />
+		Integrante de la ampliamente conocida cadena de pizzerías Kentucki, líder indiscutido en su rubro, con sus más de 42 años de trayectoria.
+
     </p>
     <p>
-        The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested<a href="#">. Sections 1.10.32</a> and 1.10.33 from &acirc;&euro;&oelig;de Finibus Bonorum et Malorum&acirc;&euro; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+       Local que exhibe un diseño de buen gusto y conocida calidad en sus productos, convirtiéndose en un lugar de referencia para su nutrida concurrencia.
+    </p>
+    <p>
+    Ubicado en la estratégica esquina de Nueva York y Fernández de Enciso, con una  inmejorable vista a la plaza Arenales
+Son ampliamente conocidos sus numerosos locales diseminados por toda la Capital Federal.
     </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">

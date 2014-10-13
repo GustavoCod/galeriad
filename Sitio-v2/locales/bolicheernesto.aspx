@@ -11,13 +11,13 @@
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <li>
-        <img src="fotos/ernesto/ernesto1.jpg" alt="ernesto. Foto del local 1" />
+        <img src="fotos/bolicheernesto/ernesto1.jpg" alt="ernesto. Foto del local 1" />
     </li>
     <li>
-        <img src="fotos/ernesto/ernesto2.jpg" alt="ernesto. Foto del local 2" />
+        <img src="fotos/bolicheernesto/ernesto2.jpg" alt="ernesto. Foto del local 2" />
     </li>
     <li>
-        <img src="fotos/ernesto/ernesto3.jpg" alt="ernesto. Foto del local 3" />
+        <img src="fotos/bolicheernesto/ernesto3.jpg" alt="ernesto. Foto del local 3" />
     </li>
 
        
