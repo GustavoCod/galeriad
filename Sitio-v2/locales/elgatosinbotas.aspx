@@ -1,4 +1,4 @@
-﻿<%@ Page Title="El gato sin botas" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="elgatosinbotas.aspx.cs" Inherits="locales_elgatosinbotas" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="elgatosinbotas.aspx.cs" Inherits="locales_elgatosinbotas" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="elgatosinbotas" />

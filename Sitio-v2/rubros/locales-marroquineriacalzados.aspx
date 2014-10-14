@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/rubros/Rubro.master" AutoEventWireup="true" CodeFile="locales-marroquineriacalzados.aspx.cs" Inherits="rubros_locales_marroquineriacalzados" %>
+﻿<%@ Page Title="Locales del rubro marroquineria y calzados" Language="C#" MasterPageFile="~/rubros/Rubro.master" AutoEventWireup="true" CodeFile="locales-marroquineriacalzados.aspx.cs" Inherits="rubros_locales_marroquineriacalzados" %>
 
 <%@ Register TagPrefix="uc" TagName="LocalBox" Src="~/rubros/LocalBox.ascx" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="cphMetaDescription" runat="Server">

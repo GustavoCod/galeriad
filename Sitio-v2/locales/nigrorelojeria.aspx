@@ -1,4 +1,4 @@
-﻿<%@ Page Title="nigro" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="nigrorelojeria.aspx.cs" Inherits="locales_nigrorelojeria" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="nigrorelojeria.aspx.cs" Inherits="locales_nigrorelojeria" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="nigro" />
@@ -17,40 +17,58 @@
         <img src="fotos/nigrorelojeria/nigrorelojeria2.jpg" alt="nigro. Foto del local 3" />
     </li>
     <li>
-        <img src="fotos/nigrorelojeria/nigrorelojeria3.jpg" alt="nigro. Foto del local 4" />
+        <img src="fotos/nigrorelojeria/nigrorelojeria3.jpg" alt="nigro. Foto del local 3" />
     </li>
   
     
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
-        <span class="label">Teléfono:</span> 4505-0814
+        <span class="label">Teléfono:</span> 4504-3438
     </p>
     <p class="workdate">
-        <span class="label">Mail:</span> info@mirtarovagna.com.ar
+        <span class="label">Mail:</span> info@nigrojoyero.com.ar
     </p>
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
-        Lunes a Viernes de 10 a 20 hs.
+        <strong>Lunes a Viernes<br />
+        </strong>10 a 13:30 hs. - 16 a 20:30 hs.
         <br />
-        Sabados de 10 a 18 hs.
+        <strong>Sabados<br />
+        </strong>10:30 a 14 hs. - 16:30 a 20:30 hs.
     </p>
-    <p class="workdate">
+    <!--<p class="workdate">
         <span class="label">Web:</span> www.miroweb.com.ar
-    </p>
+    </p>-->
     <p class="workdate">
-        <span class="label">Rubro:</span> Gastronomía
+        <span class="label">Rubro:</span> Joyeria y bijouterie
     </p>
     <p class="skills">
-        <span class="label">Local:</span> 15
+        <span class="label">Local:</span> 42-49
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-        Sed ut perspiciatis <strong>unde omnis</strong> iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+        Joyeria Nigro, con mas de 30 años en el barrio y 45 de experiencia en el rubro nos dan la experiencia y herramientas para poder asesorarte y brindarte la mejor atención personalizada.
     </p>
     <p>
-        The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested<a href="#">. Sections 1.10.32</a> and 1.10.33 from &acirc;&euro;&oelig;de Finibus Bonorum et Malorum&acirc;&euro; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+        Ubicados en los locales 42 y 49 de la Gran Galería Devoto, trabajamos para acercarle a nuestros clientes las mejores piezas den relojería y joyería, convirtiéndose en una de las opciones ideales a la hora de hacer un regalo importante.
+    </p>
+    <p>
+        Se brinda asesoramiento profesional, se atienden consultas y se realizan presupuestos sin cargo. Contamos con talleres propios en los que se fabrican diseños por pedido. Es por eso que en los locales se caracterizan por ofrecer modelos exclusivos que se adaptan a las necesidades y preferencias de cada cliente.
+    </p>
+    <p>
+        El local 42 se dedica a la venta de piezas en platería 925, acero quirúrgico, metal dorado y plateado ademas de variedad de relojería japonesa.
+    </p>
+    <p>
+        El local 49 se enfoca a piezas destacadas y de diseño en oro 18 ktes, alianzas, relojería suiza y escritura ademas de piezas en plata 925 italiana para colección.
+    </p>
+    <p>
+        En relojería, se presentan exclusivas marcas suizas como Movado, Techno Marine, Longines, Alfex, Mido, Tissot, Swatch, Victorinox Swiss Army, Certina y Mont Balnc.
+    </p>
+    <p>
+        Marcas Japonesas como Tommy Hilfiger , Converse, Festina, Guess, Okusai, Time Force, Marc Jacobs, Jacques Lemans, Junghans.<br />
+        Ademas de otras marcas como, Il Gioiello, Morellato Joyas, Monona, Waterman, Parker, de Dios Joyas, Rodolfo Lang, Cardinal, Carassale hnos entre otras.
     </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">

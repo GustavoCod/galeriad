@@ -59,14 +59,14 @@
                 <!-- START NAV -->
                 <div id="nav" class="group">
                     <ul class="level-1 white">
+                        <li class="bookmark">
+                            <asp:HyperLink ID="hlStores" NavigateUrl="~/rubros/locales.aspx" runat="server">LOCALES</asp:HyperLink>
+                        </li>
                         <li class="home">
                             <asp:HyperLink ID="hlHistory" NavigateUrl="~/historia.aspx" runat="server">HISTORIA</asp:HyperLink>
                         </li>
                         <li class="folder">
                             <asp:HyperLink ID="hlVillaDevoto" NavigateUrl="~/villadevoto.aspx" runat="server">VILLA DEVOTO</asp:HyperLink>
-                        </li>
-                        <li class="bookmark">
-                            <asp:HyperLink ID="hlStores" NavigateUrl="~/rubros/locales.aspx" runat="server">LOCALES</asp:HyperLink>
                         </li>
                         <li class="email">
                             <asp:HyperLink ID="hlMail" NavigateUrl="~/contacto.aspx" runat="server">CONTACTO</asp:HyperLink>

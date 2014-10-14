@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Luna de papel" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="lunadepapel.aspx.cs" Inherits="locales_lunadepapel" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="lunadepapel.aspx.cs" Inherits="locales_lunadepapel" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="lunadepapel" />

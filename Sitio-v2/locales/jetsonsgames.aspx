@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Jetsons Games" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="jetsonsgames.aspx.cs" Inherits="locales_jetsonsgames" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="jetsonsgames.aspx.cs" Inherits="locales_jetsonsgames" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="jetson" />

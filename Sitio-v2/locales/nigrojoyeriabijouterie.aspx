@@ -1,26 +1,17 @@
-﻿<%@ Page Title="nigro" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="nigrojoyeriabijouterie.aspx.cs" Inherits="locales_nigrojoyeriabijouterie" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="nigrojoyeriabijouterie.aspx.cs" Inherits="locales_nigrojoyeriabijouterie" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="nigro" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
-    nigro
+    Nigro
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
-    Indumentaria Femenina
+    Joyería y Bijouterie
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <li>
         <img src="fotos/nigrojoyeriabijouterie/nigro1.jpg" alt="nigro. Foto del local 1" />
-    </li>
-    <li>
-        <img src="fotos/nigrojoyeriabijouterie/nigro2.jpg" alt="nigro. Foto del local 2" />
-    </li>
-    <li>
-        <img src="fotos/nigrojoyeriabijouterie/nigro3.jpg" alt="nigro. Foto del local 3" />
-    </li>
-    <li>
-        <img src="fotos/nigrojoyeriabijouterie/nigro4.jpg" alt="nigro. Foto del local 4" />
     </li>
     <li>
         <img src="fotos/nigrojoyeriabijouterie/nigro5.jpg" alt="nigro. Foto del local 5" />

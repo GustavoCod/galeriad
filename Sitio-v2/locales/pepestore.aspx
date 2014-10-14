@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Pepe store" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="pepestore.aspx.cs" Inherits="locales_pepestore" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="pepestore.aspx.cs" Inherits="locales_pepestore" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="pepestore" />

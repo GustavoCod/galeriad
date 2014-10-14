@@ -1,4 +1,4 @@
-﻿<%@ Page Title="iavagni" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="iavagnifiesta.aspx.cs" Inherits="locales_iavagnifiesta" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="iavagnifiesta.aspx.cs" Inherits="locales_iavagnifiesta" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="iavagni" />

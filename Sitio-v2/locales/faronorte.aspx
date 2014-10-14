@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Faro Norte" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="faronorte.aspx.cs" Inherits="locales_faronorte" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="faronorte.aspx.cs" Inherits="locales_faronorte" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="faronorte" />

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="elephant" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="elephant.aspx.cs" Inherits="locales_elephant" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="elephant.aspx.cs" Inherits="locales_elephant" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="elephant" />

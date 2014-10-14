@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Bufalos" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="bufalos.aspx.cs" Inherits="locales_bufalos" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="bufalos.aspx.cs" Inherits="locales_bufalos" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="bufalos" />

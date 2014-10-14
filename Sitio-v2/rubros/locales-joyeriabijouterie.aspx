@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/rubros/Rubro.master" AutoEventWireup="true" CodeFile="locales-joyeriabijouterie.aspx.cs" Inherits="rubros_locales_joyeriabijouterie" %>
+﻿<%@ Page Title="Locales del rubro joyería y bijouterie" Language="C#" MasterPageFile="~/rubros/Rubro.master" AutoEventWireup="true" CodeFile="locales-joyeriabijouterie.aspx.cs" Inherits="rubros_locales_joyeriabijouterie" %>
 
 <%@ Register TagPrefix="uc" TagName="LocalBox" Src="~/rubros/LocalBox.ascx" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="cphMetaDescription" runat="Server">

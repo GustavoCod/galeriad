@@ -1,4 +1,4 @@
-﻿<%@ Page Title="El Vestidor" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="elvestidor.aspx.cs" Inherits="locales_elvestidor" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="elvestidor.aspx.cs" Inherits="locales_elvestidor" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="elvestidor" />

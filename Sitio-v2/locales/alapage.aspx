@@ -1,4 +1,4 @@
-﻿<%@ Page Title="A la page" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="alapage.aspx.cs" Inherits="locales_alapage" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="alapage.aspx.cs" Inherits="locales_alapage" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="A la page" />

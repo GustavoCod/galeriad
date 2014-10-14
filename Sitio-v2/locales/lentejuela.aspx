@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Lentejuela" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="lentejuela.aspx.cs" Inherits="locales_lentejuela" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="lentejuela.aspx.cs" Inherits="locales_lentejuela" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="lentejuela" />

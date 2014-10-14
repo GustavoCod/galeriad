@@ -53,6 +53,7 @@ TODO
 	-------
 	- Agregar el listado alfabetico de locales (ver si no usar masonry y usar divs con inline-block)
 	- Agregar resaltado de rubro seleccionado (Ej: Cuidados personales)
+	- Volver a agregar los locales relacionados.
 
 	Contacto
 	--------
@@ -72,3 +73,11 @@ TODO
 	- Agregar secciones "Productos que encontraras aqui" y "Medios de pago aceptados"
 	
 	- Pensar plan B para cuando JavaScript está desactivado. El slider no funciona. Ver clase no_js y no-js (Modernizr)
+	
+	
+Antes de instalar
+-----------------
+- Configurar web.config para hacer el redireccionamiento permanente.
+- Configurar correctamente la cuenta de mail a donde van a llegar las consultas.
+- Hacer un backup del sitio actual.
+

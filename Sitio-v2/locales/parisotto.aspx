@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Parisotto" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="parisotto.aspx.cs" Inherits="locales_parisotto" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="parisotto.aspx.cs" Inherits="locales_parisotto" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="parisotto" />

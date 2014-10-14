@@ -65,26 +65,32 @@
                 <!-- LOCALES BANNER-->
                 <div class="two-fourth">
                     <div class="boxes">
-                        <div class="box_img">
-                            <img src="images/local_icon.jpg" alt="Local comercial"></div>
-                        <div class="box_txt">
-                            Encontrá en nuestros LOCALES
-                            <br>
-                            lo que estás buscando!</div>
+                        <a href="rubros/locales.aspx">
+                            <div class="box_img">
+                                <img src="images/local_icon.jpg" alt="Local comercial">
+                            </div>
+                            <div class="box_txt">
+                                Encontrá en nuestros LOCALES
+                                <br>
+                                lo que estás buscando!
+                            </div>
+                        </a>
                     </div>
                 </div>
                 <!-- End of LOCALES BANNER-->
                 <!--FACEBOOK BOX -->
                 <div class="two-fourth last">
                     <div class="boxes">
-                        <div class="box_img">
-                            <img src="images/fb_logo.png" alt="Logo Facebook">
-                        </div>
-                        <div class="box_txt">
-                            Promociones y novedades
-                            <br />
-                            en nuestra Fan Page!
-                        </div>
+                        <a href="https://es-la.facebook.com/pages/Gran-Galeria-Devoto/141649039331786" target="_blank">
+                            <div class="box_img">
+                                <img src="images/fb_logo.png" alt="Logo Facebook">
+                            </div>
+                            <div class="box_txt">
+                                Promociones y novedades
+                                <br />
+                                en nuestra Fan Page!
+                            </div>
+                        </a>
                     </div>
                 </div>
                 <!--End of FACEBOOK BOX -->

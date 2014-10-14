@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Stylo" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="stylo.aspx.cs" Inherits="locales_stylo" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="stylo.aspx.cs" Inherits="locales_stylo" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="stylo" />

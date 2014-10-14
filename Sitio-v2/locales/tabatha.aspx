@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Tabatha" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="tabatha.aspx.cs" Inherits="locales_tabatha" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="tabatha.aspx.cs" Inherits="locales_tabatha" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="tabatha" />

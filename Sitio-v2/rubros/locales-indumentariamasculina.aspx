@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/rubros/Rubro.master" AutoEventWireup="true" CodeFile="locales-indumentariamasculina.aspx.cs" Inherits="rubros_locales_indumentariamasculina" %>
+﻿<%@ Page Title="Locales del rubro indumentaria masculina" Language="C#" MasterPageFile="~/rubros/Rubro.master" AutoEventWireup="true" CodeFile="locales-indumentariamasculina.aspx.cs" Inherits="rubros_locales_indumentariamasculina" %>
 <%@ Register TagPrefix="uc" TagName="LocalBox" Src="~/rubros/LocalBox.ascx" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="cphMetaDescription" Runat="Server">

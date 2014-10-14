@@ -44,12 +44,12 @@
             </div>
             <div id="relatedStores" class="one-fourth last">
                 <div class="widget-first widget more_projects">
-                    <h3>
+                    <%--<h3>
                         Locales relacionados
-                    </h3>
+                    </h3>--%>
                     <div class="more-projects-widget">
                         <div class="sliderWrap">
-                            <asp:ContentPlaceHolder ID="cphRelatedStores" runat="server" />
+                            <asp:ContentPlaceHolder ID="cphRelatedStores" runat="server" Visible="false" /> <!-- TODO: sacar el Visible = False-->
                         </div>
                     </div>
                 </div>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Collet" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="collet.aspx.cs" Inherits="locales_collet" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="collet.aspx.cs" Inherits="locales_collet" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="collet" />

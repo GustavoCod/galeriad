@@ -1,4 +1,4 @@
-﻿<%@ Page Title="devotomarket" Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="devotomarket.aspx.cs" Inherits="locales_devotomarket" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="devotomarket.aspx.cs" Inherits="locales_devotomarket" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
     <meta name="description" content="devotomarket" />
