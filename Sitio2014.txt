@@ -79,5 +79,6 @@ Antes de instalar
 -----------------
 - Configurar web.config para hacer el redireccionamiento permanente.
 - Configurar correctamente la cuenta de mail a donde van a llegar las consultas.
+- Agregar Google Analytics
 - Hacer un backup del sitio actual.
 
