@@ -27,25 +27,25 @@
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
-        <span class="label">Teléfono:</span> 4505-0814
+        <span class="label">Teléfono:</span> 4503-0555
     </p>
     <p class="workdate">
-        <span class="label">Mail:</span> info@mirtarovagna.com.ar
+        <span class="label">Mail:</span> iavagni@hotmail.com
     </p>
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
-        Lunes a Viernes de 10 a 20 hs.
+        <strong>Lunes a sábado </strong>
         <br />
-        Sabados de 10 a 18 hs.
+        9 a 20:30 hs.
     </p>
-    <p class="workdate">
+    <!--<p class="workdate">
         <span class="label">Web:</span> www.miroweb.com.ar
     </p>
     <p class="workdate">
         <span class="label">Rubro:</span> Gastronomía
-    </p>
+    </p>-->
     <p class="skills">
-        <span class="label">Local:</span> 15
+        <span class="label">Local:</span> 50-51
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">

@@ -25,26 +25,28 @@
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
-        <span class="label">Teléfono:</span> 4505-0814
-    </p>
+        <span class="label">Teléfono:</span> 4504-3438
+</p>
     <p class="workdate">
-        <span class="label">Mail:</span> info@mirtarovagna.com.ar
-    </p>
+        <span class="label">Mail:</span> info@nigrojoyero.com.ar
+</p>
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
-        Lunes a Viernes de 10 a 20 hs.
-        <br />
-        Sabados de 10 a 18 hs.
+        <strong>Lunes a Viernes<br /></strong>
+        10 a 13:30 hs. - 16 a 20:30 hs.
+    <br />
+        <strong>Sabados<br /></strong>
+        10:30 a 14 hs. - 16:30 a 20:30 hs.
     </p>
-    <p class="workdate">
+    <!--<p class="workdate">
         <span class="label">Web:</span> www.miroweb.com.ar
-    </p>
+    </p>-->
     <p class="workdate">
-        <span class="label">Rubro:</span> Gastronomía
+        <span class="label">Rubro:</span> Joyeria y bijouterie
     </p>
     <p class="skills">
-        <span class="label">Local:</span> 15
-    </p>
+        <span class="label">Local:</span> 42-49
+  </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
