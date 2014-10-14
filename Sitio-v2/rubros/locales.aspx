@@ -10,7 +10,6 @@
     <uc:LocalBox ID="boxBolicheErnesto" StorePage="~/locales/bolicheernesto.aspx" StoreName="Boliche Ernesto" StoreDescription="Indumentaria unisex" StoreLogoSrc="~/images/logos/bolicheernesto.jpg" runat="server" />
     <uc:LocalBox ID="boxBufalos" StorePage="~/locales/bufalos.aspx" StoreName="Bufalos" StoreDescription="Joyeria y bijouteri (marrouqineria, bijouteri y accesorios)" StoreLogoSrc="~/images/logos/bufalos.jpg" runat="server" />
     <uc:LocalBox ID="boxCaroCuoreRagazza" StorePage="~/locales/carocuoreragazza.aspx" StoreName="Caro Cuore Ragazza" StoreDescription="Lencería" StoreLogoSrc="~/images/logos/carocuoreragazza.jpg" runat="server" />
-    <uc:LocalBox ID="boxChiquilinByEli" StorePage="~/locales/chiquilinbyeli.aspx" StoreName="Chiquilin By Eli" StoreDescription="Indumentaria infantil" StoreLogoSrc="~/images/logos/chiquilinbyeli.jpg" runat="server" />
     <uc:LocalBox ID="boxCollet" StorePage="~/locales/collet.aspx" StoreName="Collet" StoreDescription="Indumentaria femenina" StoreLogoSrc="~/images/logos/collet.jpg" runat="server" />
     <uc:LocalBox ID="boxCountryFem" StorePage="~/locales/countryfem.aspx" StoreName="Country Fem" StoreDescription="Indumentaria femenina" StoreLogoSrc="~/images/logos/countryfem.jpg" runat="server" />
     <uc:LocalBox ID="boxCountryMasc" StorePage="~/locales/countrymasc.aspx" StoreName="Country Masc" StoreDescription="Indumentaria masculina" StoreLogoSrc="~/images/logos/countrymasc.jpg" runat="server" />
