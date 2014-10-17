@@ -39,7 +39,7 @@
     </p>
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
-        <strong>Lunes a sábado</strong>
+        <strong>Lunes a sábado</strong><br />
         10 a 20:30 hs.
     </p>
     <!-- <p class="workdate">

@@ -48,10 +48,10 @@
     </p> -->
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
-        <strong>Lunes a viernes</strong>
+        <strong>Lunes a viernes</strong><br />
         10 a 13 hs. / 14 a 20 hs. 
         <br />
-        <strong>Sábado</strong>
+        <strong>Sábado</strong><br />
         10 a 14 / 17 a 20 hs.
     </p>
     <!--<p class="workdate">

@@ -34,10 +34,10 @@
     </p> -->
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
-        <strong>Lunes a jueves</strong>
+        <strong>Lunes a jueves</strong><br />
         9:30 a 13 hs. - 16 a 20 hs. 
         <br />
-		<strong>Viernes</strong>
+		<strong>Viernes</strong><br />
         9:30 a 13 hs. - 14:30 a 16:30 hs.    
     </p>
     <!--<p class="workdate">
