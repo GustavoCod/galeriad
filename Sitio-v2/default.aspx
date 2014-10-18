@@ -81,7 +81,7 @@
                 <!--FACEBOOK BOX -->
                 <div class="two-fourth last">
                     <div class="boxes">
-                        <a href="https://es-la.facebook.com/pages/Gran-Galeria-Devoto/141649039331786" target="_blank">
+                        <a href="https://www.facebook.com/grangaleriadevoto" target="_blank">
                             <div class="box_img">
                                 <img src="images/fb_logo.png" alt="Logo Facebook">
                             </div>

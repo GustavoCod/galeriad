@@ -20,7 +20,8 @@
         <!-- END SLOGAN -->
         <!-- START PRIMARY -->
         <div id="primary" class="hentry group wrapper-content portfolio-post" role="main">
-            <div class="three-fourth">
+            <%--<div class="three-fourth">--%>
+            <div style="width: 68.25%; margin: 0 auto;">
                 <div class="post_header portfolio_header group">
                     <!--slider-->
                     <div class="hide-if-no-js">
@@ -42,7 +43,7 @@
                     </div>
                 </div>
             </div>
-            <div id="relatedStores" class="one-fourth last">
+            <div id="relatedStores" class="one-fourth last" style="width: 0px; height: 0px;">
                 <div class="widget-first widget more_projects">
                     <%--<h3>
                         Locales relacionados

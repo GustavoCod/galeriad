@@ -40,9 +40,9 @@
     <li>
         <img src="fotos/miro/miro10.jpg" alt="Miró. Foto del local 10" />
     </li>
-    <li>
+<%--    <li>
         <img src="fotos/miro/miro11.jpg" alt="Miró. Foto del local 11" />
-    </li>
+    </li>--%>
     <li>
         <img src="fotos/miro/miro12.jpg" alt="Miró. Foto del local 12" />
     </li>

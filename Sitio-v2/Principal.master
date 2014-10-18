@@ -89,7 +89,7 @@
                         </script>
                     </p>
                     <p class="right">
-                        <asp:HyperLink ID="hlFacebook" NavigateUrl="https://es-la.facebook.com/pages/Gran-Galeria-Devoto/141649039331786" ToolTip="Gran Galería Devoto en Facebook" CssClass="socials facebook" Target="_blank" runat="server">
+                        <asp:HyperLink ID="hlFacebook" NavigateUrl="https://www.facebook.com/grangaleriadevoto" ToolTip="Gran Galería Devoto en Facebook" CssClass="socials facebook" Target="_blank" runat="server">
                         Facebook
                         </asp:HyperLink>
                         <!-- <a href="#" class="socials mail" title="EMail">Email</a>-->
