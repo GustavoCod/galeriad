@@ -46,8 +46,8 @@ TODO
 
 	Principal
 	---------
-	Rubros: http://tympanus.net/codrops/2013/07/01/view-mode-switch/
-	Poner links al slider grande
+	- Rubros: http://tympanus.net/codrops/2013/07/01/view-mode-switch/
+	- Poner links al slider grande
 
 	Locales
 	-------
@@ -57,30 +57,23 @@ TODO
 
 	Contacto
 	--------
-
 	- Ver la posibilidad de cargar el mapa cuando el usuario hace click en "Ver mapa"
-
 	- En vez de obtener el marcador por latitud y longitud, hacerlo por el nombre de la empresa asi muestra la ficha
-	
 	- Construir las páginas HTML para cuando no es una llamada ajax
-
  	- Falta Codigo Postal
 
 	Miro.html
 	---------
-	
-	- Hacer que todas las imagenes del slider tengan 640px de ancho y 300px de alto. 
-	> HECHO
-	
+	- Todas las imagenes del slider deben tener 640px de ancho y 300px de alto. 
 	- Agregar secciones "Productos que encontraras aqui" y "Medios de pago aceptados"
-	
 	- Pensar plan B para cuando JavaScript está desactivado. El slider no funciona. Ver clase no_js y no-js (Modernizr)
 	
 	
 Antes de instalar
 -----------------
-- Configurar web.config para hacer el redireccionamiento permanente.
-- Configurar correctamente la cuenta de mail a donde van a llegar las consultas.
-- Agregar Google Analytics
-- Hacer un backup del sitio actual.
+1) Hacer un backup del sitio actual.
+2) Configurar correctamente la cuenta de mail a donde van a llegar las consultas.
+3) Agregar Google Analytics.
+4) Configurar web.config para hacer el redireccionamiento permanente.
+
 

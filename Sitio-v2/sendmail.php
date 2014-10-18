@@ -5,7 +5,7 @@
  */ 
  
 // email
-define('TO_EMAIL', 'gustavo.prueba@gmail.com'); 
+define('TO_EMAIL', 'info@grangaleriadevoto.com'); 
 define('FROM_EMAIL', 'info@grangaleriadevoto.com');  
 //define('FROM_NAME', 'Prueba Nuevo Sitio'); 
 
