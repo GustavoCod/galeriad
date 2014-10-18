@@ -31,7 +31,10 @@ Recursos
 	Iconos
 	------
 	http://fortawesome.github.io/Font-Awesome/
-
+	
+	Permanent Redirect con web.config
+	---------------------------------
+	http://www.dantor.com/support/misc/web-config-response-redirect.aspx
 
 Notas
 -----
