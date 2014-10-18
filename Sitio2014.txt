@@ -64,6 +64,8 @@ TODO
 	
 	- Construir las páginas HTML para cuando no es una llamada ajax
 
+ 	- Falta Codigo Postal
+
 	Miro.html
 	---------
 	
