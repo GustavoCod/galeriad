@@ -1,0 +1,8 @@
+﻿# siteId: grangaleriadevoto
+# country: argentina
+User-agent: *
+Disallow: /aspnet_client/
+Disallow: /ejemplos/
+Disallow: /webmail/
+Disallow: /nuevositio/
+Disallow: /v1/
