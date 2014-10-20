@@ -10,18 +10,18 @@
     Gastronomía
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
-    <li>
+    <%--<li>
         <img src="fotos/miro/miro1.jpg" alt="Miró. Foto del local 1" />
-    </li>
-    <li>
+    </li>--%>
+<%--    <li>
         <img src="fotos/miro/miro2.jpg" alt="Miró. Foto del local 2" />
-    </li>
+    </li>--%>
     <li>
         <img src="fotos/miro/miro3.jpg" alt="Miró. Foto del local 3" />
     </li>
-    <li>
+<%--    <li>
         <img src="fotos/miro/miro4.jpg" alt="Miró. Foto del local 4" />
-    </li>
+    </li>--%>
     <li>
         <img src="fotos/miro/miro5.jpg" alt="Miró. Foto del local 5" />
     </li>

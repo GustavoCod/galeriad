@@ -19,18 +19,18 @@
     <li>
         <img src="fotos/devotomarket/devotomarket3.jpg" alt="devotomarket. Foto del local 3" />
     </li>
-    <li>
+<%--    <li>
         <img src="fotos/devotomarket/devotomarket4.jpg" alt="devotomarket. Foto del local 4" />
-    </li>
+    </li>--%>
     <li>
         <img src="fotos/devotomarket/devotomarket5.jpg" alt="devotomarket. Foto del local 5" />
     </li>
-    <li>
+<%--    <li>
         <img src="fotos/devotomarket/devotomarket6.jpg" alt="devotomarket. Foto del local 6" />
-    </li>  
-    <li>
+    </li>  --%>
+<%--    <li>
         <img src="fotos/devotomarket/devotomarket7.jpg" alt="devotomarket. Foto del local 7" />
-    </li>
+    </li>--%>
     <li>
         <img src="fotos/devotomarket/devotomarket8.jpg" alt="devotomarket. Foto del local 8" />
     </li>          

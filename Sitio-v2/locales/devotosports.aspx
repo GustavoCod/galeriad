@@ -13,9 +13,9 @@
     <li>
         <img src="fotos/devotosports/devotosports1.jpg" alt="devotosports. Foto del local 1" />
     </li>
-    <li>
+<%--    <li>
         <img src="fotos/devotosports/devotosports2.jpg" alt="devotosports. Foto del local 2" />
-    </li>
+    </li>--%>
     <li>
         <img src="fotos/devotosports/devotosports3.jpg" alt="devotosports. Foto del local 3" />
     </li>

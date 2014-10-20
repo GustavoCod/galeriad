@@ -16,9 +16,9 @@
     <li>
         <img src="fotos/nigrorelojeria/nigrorelojeria2.jpg" alt="nigro. Foto del local 3" />
     </li>
-    <li>
+<%--    <li>
         <img src="fotos/nigrorelojeria/nigrorelojeria3.jpg" alt="nigro. Foto del local 3" />
-    </li>
+    </li>--%>
   
     
 </asp:Content>

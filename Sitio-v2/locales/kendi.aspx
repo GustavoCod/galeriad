@@ -13,9 +13,9 @@
     <li>
         <img src="fotos/kendi/kendi1.jpg" alt="kendi. Foto del local 1" />
     </li>
-    <li>
+<%--    <li>
         <img src="fotos/kendi/kendi2.jpg" alt="kendi. Foto del local 2" />
-    </li>
+    </li>--%>
     <li>
         <img src="fotos/kendi/kendi3.jpg" alt="kendi. Foto del local 3" />
     </li>
@@ -25,9 +25,9 @@
     <li>
         <img src="fotos/kendi/kendi5.jpg" alt="kendi. Foto del local 5" />
     </li>
-    <li>
+    <%--<li>
         <img src="fotos/kendi/kendi6.jpg" alt="kendi. Foto del local 6" />
-    </li>    
+    </li>--%>    
  
   
     

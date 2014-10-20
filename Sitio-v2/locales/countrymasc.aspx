@@ -16,15 +16,15 @@
     <li>
         <img src="fotos/countrymasc/countrymasc2.jpg" alt="country2. Foto del local 2" />
     </li>
-    <li>
+<%--    <li>
         <img src="fotos/countrymasc/countrymasc3.jpg" alt="country2. Foto del local 3" />
-    </li>
+    </li>--%>
     <li>
         <img src="fotos/countrymasc/countrymasc4.jpg" alt="country2. Foto del local 4" />
     </li>
-    <li>
+<%--    <li>
         <img src="fotos/countrymasc/countrymasc5.jpg" alt="country2. Foto del local 5" />
-    </li>
+    </li>--%>
     <li>
         <img src="fotos/countrymasc/countrymasc6.jpg" alt="country2. Foto del local 6" />
     </li>
