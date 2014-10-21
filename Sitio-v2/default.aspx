@@ -40,38 +40,16 @@
                 </div>
             </li>
             <li class="slide-2 slide align- image-content-type">
-                <img src="./images/slider/elastic/banner_madres.jpg" width="1280" height="500" alt="Banner día de la madre. Argentina." />
+                <img src="./images/slider/elastic/banner_institucional.jpg" width="1280" height="500" alt="Banner día de la madre. Argentina." />
                 <div class="ei-title">
                     <h2>
-                        Encontrá el regalo para tu mamá
+                        Bienvenidos!!!
                     </h2>
                     <h3>
-                        en Gran Galería Devoto
+                        visitá el nuevo sitio
                     </h3>
                 </div>
             </li>
-            <li class="slide-2 slide align- image-content-type">
-                <img src="./images/slider/elastic/banner_madres2.jpg" width="1280" height="500" alt="Banner día de la madre. Argentina." />
-                <div class="ei-title">
-                    <h2>
-                        Encontrá el regalo para tu mamá
-                    </h2>
-                    <h3>
-                        en Gran Galería Devoto
-                    </h3>
-                </div>
-            </li>  
-            <li class="slide-2 slide align- image-content-type">
-                <img src="./images/slider/elastic/banner_madres3.jpg" width="1280" height="500" alt="Banner día de la madre. Argentina." />
-                <div class="ei-title">
-                    <h2>
-                        Encontrá el regalo para tu mamá
-                    </h2>
-                    <h3>
-                        en Gran Galería Devoto
-                    </h3>
-                </div>
-            </li>                      
         </ul>
         <ul class="ei-slider-thumbs">
             <li class="ei-slider-element">Current</li>
