@@ -48,7 +48,7 @@
         <span class="label">Rubro:</span> Gastronomía
     </p> -->
     <p class="skills">
-        <span class="label">Local:</span> 36
+        <span class="label">Local:</span> 46
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">

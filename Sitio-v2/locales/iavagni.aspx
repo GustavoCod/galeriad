@@ -49,7 +49,7 @@
         <span class="label">Rubro:</span> Gastronomía
     </p>-->
     <p class="skills">
-        <span class="label">Local:</span> 50-51
+        <span class="label">Local:</span> 2-3
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
