@@ -39,7 +39,7 @@
         <span class="label">Horario de atención:</span><br />
         <strong>Lunes a domingo</strong>
         <br />
-        8 a 6 hs
+        8 a 5 Hs.
     </p>
     <!--<p class="workdate">
         <span class="label">Web:</span> www.miroweb.com.ar
