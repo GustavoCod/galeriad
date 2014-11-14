@@ -27,8 +27,7 @@
     </li>
     <li>
         <img src="fotos/alegrias/alegrias6.jpg" alt="Alegrias. Foto del local 6" />
-    </li>    
-
+    </li>
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
@@ -42,28 +41,22 @@
         <strong>Lunes a sábado</strong><br />
         10 a 20:30 hs.
     </p>
-    <!-- <p class="workdate">
-        <span class="label">Web:</span></p>-->
-    <!--<p class="workdate">
-        <span class="label">Rubro:</span> Gastronomía
-    </p> -->
     <p class="skills">
         <span class="label">Local:</span> 46
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-        Alegrías es un negocio especializado en regalaría infantil, que hace 13 años se destaca por la variedad de productos y buenos precios.
-	En nuestro local encontrara: <br />
-	•	Juguetes para bebes y chicos<br />
-	•	Peluches<br />
-	•	Paraguas – piloto<br />
-	•	Artículos escolares: mochilas, cartucheras y otros.<br />
-	•	Juegos de mesa<br />
-	•	Almohadones<br />
-	•	Tazas – vasos – platos en melamina<br />
-	•	Tazas en cerámica y mucho mas.<br />
-
+        Alegrías es un negocio especializado en regalaría infantil, que hace 13 años se destaca por la variedad de productos y buenos precios. En nuestro local encontrara:
+        <br />
+        • Juguetes para bebes y chicos<br />
+        • Peluches<br />
+        • Paraguas – piloto<br />
+        • Artículos escolares: mochilas, cartucheras y otros.<br />
+        • Juegos de mesa<br />
+        • Almohadones<br />
+        • Tazas – vasos – platos en melamina<br />
+        • Tazas en cerámica y mucho mas.<br />
     </p>
     <p>
         Se aceptan tarjetas de crédito y débito. Visa, American Express, MasterCard y Maestro.

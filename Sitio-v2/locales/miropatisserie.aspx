@@ -1,53 +1,53 @@
-﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="miro.aspx.cs" Inherits="locales_miro" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="miropatisserie.aspx.cs" Inherits="locales_miropatisserie" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
-    <meta name="description" content="Miró. Cosas ricas." />
+    <meta name="description" content="" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
-    Miró
+    Miró. Patisserie & Catering
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
     Gastronomía
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <%--<li>
-        <img src="fotos/miro/miro1.jpg" alt="Miró. Foto del local 1" />
+        <img src="fotos/miropatisserie/miropatisserie1.jpg" alt="Miró. Foto del local 1" />
     </li>--%>
-<%--    <li>
-        <img src="fotos/miro/miro2.jpg" alt="Miró. Foto del local 2" />
-    </li>--%>
-    <li>
-        <img src="fotos/miro/miro3.jpg" alt="Miró. Foto del local 3" />
-    </li>
-<%--    <li>
-        <img src="fotos/miro/miro4.jpg" alt="Miró. Foto del local 4" />
+    <%--    <li>
+        <img src="fotos/miropatisserie/miropatisserie2.jpg" alt="Miró. Foto del local 2" />
     </li>--%>
     <li>
-        <img src="fotos/miro/miro5.jpg" alt="Miró. Foto del local 5" />
+        <img src="fotos/miropatisserie/miropatisserie3.jpg" alt="Miró. Foto del local 3" />
     </li>
-    <li>
-        <img src="fotos/miro/miro6.jpg" alt="Miró. Foto del local 6" />
-    </li>
-    <li>
-        <img src="fotos/miro/miro7.jpg" alt="Miró. Foto del local 7" />
-    </li>
-    <li>
-        <img src="fotos/miro/miro8.jpg" alt="Miró. Foto del local 8" />
-    </li>
-    <li>
-        <img src="fotos/miro/miro9.jpg" alt="Miró. Foto del local 9" />
-    </li>
-    <li>
-        <img src="fotos/miro/miro10.jpg" alt="Miró. Foto del local 10" />
-    </li>
-<%--    <li>
-        <img src="fotos/miro/miro11.jpg" alt="Miró. Foto del local 11" />
+    <%--    <li>
+        <img src="fotos/miropatisserie/miropatisserie4.jpg" alt="Miró. Foto del local 4" />
     </li>--%>
     <li>
-        <img src="fotos/miro/miro12.jpg" alt="Miró. Foto del local 12" />
+        <img src="fotos/miropatisserie/miropatisserie5.jpg" alt="Miró. Foto del local 5" />
     </li>
     <li>
-        <img src="fotos/miro/miro13.jpg" alt="Miró. Foto del local 13" />
+        <img src="fotos/miropatisserie/miropatisserie6.jpg" alt="Miró. Foto del local 6" />
+    </li>
+    <li>
+        <img src="fotos/miropatisserie/miropatisserie7.jpg" alt="Miró. Foto del local 7" />
+    </li>
+    <li>
+        <img src="fotos/miropatisserie/miropatisserie8.jpg" alt="Miró. Foto del local 8" />
+    </li>
+    <li>
+        <img src="fotos/miropatisserie/miropatisserie9.jpg" alt="Miró. Foto del local 9" />
+    </li>
+    <li>
+        <img src="fotos/miropatisserie/miropatisserie10.jpg" alt="Miró. Foto del local 10" />
+    </li>
+    <%--    <li>
+        <img src="fotos/miropatisserie/miropatisserie11.jpg" alt="Miró. Foto del local 11" />
+    </li>--%>
+    <li>
+        <img src="fotos/miropatisserie/miropatisserie12.jpg" alt="Miró. Foto del local 12" />
+    </li>
+    <li>
+        <img src="fotos/miropatisserie/miropatisserie13.jpg" alt="Miró. Foto del local 13" />
     </li>
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
@@ -65,6 +65,9 @@
     </p>
     <p class="workdate">
         <span class="label">Web:</span> www.miroweb.com.ar
+    </p>
+    <p class="workdate">
+        <span class="label">Facebook:</span> <a href="https://es-es.facebook.com/miropatisserie" target="_blank">miropatisserie</a>
     </p>
     <p class="workdate">
         <span class="label">Rubro:</span> Gastronomía
@@ -91,13 +94,13 @@
         servicios de catering
     </p>
     <p>
-       Sucursales: Belgrano – Caballito – Devoto – Palermo.
+        Sucursales: Belgrano – Caballito – Devoto – Palermo.
     </p>
     <p>
-    Pedí tu presupuesto para servicios de catering.
+        Pedí tu presupuesto para servicios de catering.
     </p>
     <p>
-    Tarjeta Master. Visa.
+        Tarjeta Master. Visa.
     </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">

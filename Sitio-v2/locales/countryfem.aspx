@@ -22,30 +22,20 @@
     <li>
         <img src="fotos/countryfem/countryfem4.jpg" alt="country1. Foto del local 4" />
     </li>
-  
-  
-    
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
         <span class="label">Teléfono:</span> 4503-5751
     </p>
-    <!--<p class="workdate">
-        <span class="label">Mail:</span> info@mirtarovagna.com.ar
-    </p>-->
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
         <strong>Lunes a sábado</strong>
         <br />
         9:30 a 21 hs.
-
-    </p>
-    <!--<p class="workdate">
-        <span class="label">Web:</span> www.miroweb.com.ar
     </p>
     <p class="workdate">
-        <span class="label">Rubro:</span> Gastronomía
-    </p>-->
+        <span class="label">Facebook:</span> <a href="https://www.facebook.com/pages/Country-Devoto/164505953756072" target="_blank">Country-Devoto</a>
+    </p>
     <p class="skills">
         <span class="label">Local:</span> 11-12
     </p>
@@ -57,7 +47,8 @@
         Jackie Smith, Rapsodia<br />
         Las oreiro, Jazmin Chebar<br />
         Etiqueta negra<br />
-        tramando<br />Akiabara
+        tramando<br />
+        Akiabara
         <br />
         Juanita Go<br />
         Kosiuko<br />

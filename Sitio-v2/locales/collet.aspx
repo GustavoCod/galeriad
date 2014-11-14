@@ -27,41 +27,30 @@
     </li>
     <li>
         <img src="fotos/collet/collet6.jpg" alt="collet. Foto del local 6" />
-    </li>        
-  
-    
+    </li>
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
         <span class="label">Teléfono:</span> 4501-0779
     </p>
-    <!--<p class="workdate">
-        <span class="label">Mail:</span> info@mirtarovagna.com.ar
-    </p>-->
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
         <strong>Lunes a viernes</strong>
-        <br /> 
-        9:30 a 13 hs. / 16 a 20:30 hs. 
+        <br />
+        9:30 a 13 hs. / 16 a 20:30 hs.
         <br />
         <strong>Sábado</strong>
         <br />
         10 a 14 hs.
     </p>
-    <!--<p class="workdate">
-        <span class="label">Web:</span> www.miroweb.com.ar
-    </p>
-    <p class="workdate">
-        <span class="label">Rubro:</span> Gastronomía
-    </p> -->
     <p class="skills">
         <span class="label">Local:</span>39
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-      Indumentaria para la mujer<br />
-	   Líneas femeninas de alta moda y exquisito buen gusto
+        Indumentaria para la mujer<br />
+        Líneas femeninas de alta moda y exquisito buen gusto
     </p>
     <p>
         Local que ostenta una historia de larga permanencia en la Gran Galería Devoto, con sus más de 25 años de impecable trayectoria, ofreciendo variedad de productos de excelente calidad, en forma inalterable a través del los años.

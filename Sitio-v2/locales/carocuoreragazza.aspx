@@ -27,52 +27,48 @@
     </li>
     <li>
         <img src="fotos/carocuoreragazza/carocuore6.jpg" alt="carocuore. Foto del local 6" />
-    </li>  
+    </li>
     <li>
         <img src="fotos/carocuoreragazza/carocuore7.jpg" alt="carocuore. Foto del local 7" />
     </li>
     <li>
         <img src="fotos/carocuoreragazza/carocuore8.jpg" alt="carocuore. Foto del local 8" />
-    </li>          
+    </li>
     <li>
         <img src="fotos/carocuoreragazza/carocuore9.jpg" alt="carocuore. Foto del local 9" />
-    </li>   
-    
+    </li>
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
         <span class="label">Teléfono:</span> 4504-4278
     </p>
-    <!--<p class="workdate">
-        <span class="label">Mail:</span> info@mirtarovagna.com.ar
-    </p> -->
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
         <strong>Lunes a viernes</strong><br />
-        10 a 13 hs. / 14 a 20 hs. 
+        10 a 13 hs. / 14 a 20 hs.
         <br />
         <strong>Sábado</strong><br />
         10 a 14 / 17 a 20 hs.
     </p>
-    <!--<p class="workdate">
-        <span class="label">Web:</span> www.miroweb.com.ar
-    </p> -->
-    <!--<p class="workdate">
-        <span class="label">Rubro:</span> Gastronomía
-    </p>-->
     <p class="skills">
         <span class="label">Local:</span> 36
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
-    <p>Lingerie de alta calidad y prestancia</p>
-	<p>Ropa interior femenina </p>
-	<p>Productos de diseño de creación propia</p>
-	<p>Líneas clásicas y modernas para la mujer de hoy</p>
-	<p>Local ambientado con los clásicos detalles que caracterizan a la marca 
-“CARO CUORE” </p>
-	<p>Vistosidad, delicadeza y glamur expresados a través de una marca emblema ampliamente reconocida y desplegada en sus numerosas sucursales de todo el país</p>
-    
+    <p>
+        Lingerie de alta calidad y prestancia</p>
+    <p>
+        Ropa interior femenina
+    </p>
+    <p>
+        Productos de diseño de creación propia</p>
+    <p>
+        Líneas clásicas y modernas para la mujer de hoy</p>
+    <p>
+        Local ambientado con los clásicos detalles que caracterizan a la marca “CARO CUORE”
+    </p>
+    <p>
+        Vistosidad, delicadeza y glamur expresados a través de una marca emblema ampliamente reconocida y desplegada en sus numerosas sucursales de todo el país</p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">
     <ul>

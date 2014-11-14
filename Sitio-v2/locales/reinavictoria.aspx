@@ -19,9 +19,6 @@
     <li>
         <img src="fotos/reinavictoria/reinavictoria3.jpg" alt="reinavictoria. Foto del local 3" />
     </li>
-   
-  
-    
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
@@ -35,25 +32,20 @@
         <strong>Lunes a sábado</strong>
         <br />
         10 a 13 hs - 16 a 20:30 hs
-        
-    </p>
-    <!--<p class="workdate">
-        <span class="label">Web:</span> www.miroweb.com.ar
     </p>
     <p class="workdate">
-        <span class="label">Rubro:</span> Gastronomía
-    </p>-->
+        <span class="label">Facebook:</span> <a href="https://www.facebook.com/ReinaVictoriaOficial" target="_blank">ReinaVictoriaOficial</a>
+    </p>
     <p class="skills">
         <span class="label">Local:</span> 54
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-        A partir del 2011, reina Victoria abrió sus puertas, buscando marcar tendencia, tanto en jóvenes como en mujeres decididas, inspiradas en la belleza femenina. Proponiendo prendas comodas para usar en cualquier momento del día.
-En nuestro local, encontraras a Inversa, Seco, Las Julas, Déjate Llevas, virgina Kuroski y más!
+        A partir del 2011, reina Victoria abrió sus puertas, buscando marcar tendencia, tanto en jóvenes como en mujeres decididas, inspiradas en la belleza femenina. Proponiendo prendas comodas para usar en cualquier momento del día. En nuestro local, encontraras a Inversa, Seco, Las Julas, Déjate Llevas, virgina Kuroski y más!
     </p>
     <p>
-       Medios de pago: tarjetas de crédito y efectivo.
+        Medios de pago: tarjetas de crédito y efectivo.
     </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">

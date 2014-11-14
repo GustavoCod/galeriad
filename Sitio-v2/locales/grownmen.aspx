@@ -27,12 +27,10 @@
     </li>
     <li>
         <img src="fotos/grownmen/grownmen6.jpg" alt="grownmen. Foto del local 6" />
-    </li>   
+    </li>
     <li>
         <img src="fotos/grownmen/grownmen7.jpg" alt="grownmen. Foto del local 7" />
-    </li>            
-  
-    
+    </li>
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
@@ -45,25 +43,19 @@
         <span class="label">Horario de atención:</span><br />
         <strong>Lunes a sábado</strong>
         <br />
-        10 a 13:30 hs. - 16 a 20:30 hs. 
+        10 a 13:30 hs. - 16 a 20:30 hs.
         <br />
         <strong>Sábado</strong>
         <br />
         10 a 14 hs. - 15:30 a 20:30 hs.
     </p>
-    <!--<p class="workdate">
-        <span class="label">Web:</span> www.miroweb.com.ar
-    </p>
-    <p class="workdate">
-        <span class="label">Rubro:</span> Gastronomía
-    </p>-->
     <p class="skills">
         <span class="label">Local:</span> 34-35
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-       Indumentaria masculina, ropa sport, sastrería.
+        Indumentaria masculina, ropa sport, sastrería.
     </p>
     <p>
         <strong>Marcas:</strong><br />
@@ -72,10 +64,10 @@
         Christian Lacroix<br />
         Christian Dior<br />
         Rochas<br />
-        Huapi 
+        Huapi
     </p>
     <p>
-    Trabajamos talles especiales. Todas las tarjetas 3 cuotas sin interes. 
+        Trabajamos talles especiales. Todas las tarjetas 3 cuotas sin interes.
     </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">

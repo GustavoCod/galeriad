@@ -1,62 +1,52 @@
-﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="devotomarket.aspx.cs" Inherits="locales_devotomarket" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="nuevoenter.aspx.cs" Inherits="locales_nuevoenter" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
-    <meta name="description" content="devotomarket" />
+    <meta name="description" content="nuevoenter" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
-    Devoto Market
+    Nuevo Enter - Supermercado
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
-    Gastronomia
+    Gastronomía
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <li>
-        <img src="fotos/devotomarket/devotomarket1.jpg" alt="devotomarket. Foto del local 1" />
+        <img src="fotos/nuevoenter/nuevoenter1.jpg" alt="Nuevo Enter. Supermercado. Foto del local 1" />
     </li>
     <li>
-        <img src="fotos/devotomarket/devotomarket2.jpg" alt="devotomarket. Foto del local 2" />
+        <img src="fotos/nuevoenter/nuevoenter2.jpg" alt="Nuevo Enter. Supermercado. Foto del local 2" />
     </li>
     <li>
-        <img src="fotos/devotomarket/devotomarket3.jpg" alt="devotomarket. Foto del local 3" />
+        <img src="fotos/nuevoenter/nuevoenter3.jpg" alt="Nuevo Enter. Supermercado. Foto del local 3" />
     </li>
-<%--    <li>
-        <img src="fotos/devotomarket/devotomarket4.jpg" alt="devotomarket. Foto del local 4" />
+    <%--    <li>
+        <img src="fotos/nuevoenter/nuevoenter4.jpg" alt="Nuevo Enter. Supermercado. Foto del local 4" />
     </li>--%>
     <li>
-        <img src="fotos/devotomarket/devotomarket5.jpg" alt="devotomarket. Foto del local 5" />
+        <img src="fotos/nuevoenter/nuevoenter5.jpg" alt="Nuevo Enter. Supermercado. Foto del local 5" />
     </li>
-<%--    <li>
-        <img src="fotos/devotomarket/devotomarket6.jpg" alt="devotomarket. Foto del local 6" />
+    <%--    <li>
+        <img src="fotos/nuevoenter/nuevoenter6.jpg" alt="Nuevo Enter. Supermercado. Foto del local 6" />
     </li>  --%>
-<%--    <li>
-        <img src="fotos/devotomarket/devotomarket7.jpg" alt="devotomarket. Foto del local 7" />
+    <%--    <li>
+        <img src="fotos/nuevoenter/nuevoenter7.jpg" alt="Nuevo Enter. Supermercado. Foto del local 7" />
     </li>--%>
     <li>
-        <img src="fotos/devotomarket/devotomarket8.jpg" alt="devotomarket. Foto del local 8" />
-    </li>          
-
+        <img src="fotos/nuevoenter/nuevoenter8.jpg" alt="Nuevo Enter. Supermercado. Foto del local 8" />
+    </li>
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
         <span class="label">Teléfono:</span> 4502-0247
     </p>
-    <!--<p class="workdate">
-        <span class="label">Mail:</span> 
-    </p>-->
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
         <strong>Lunes a viernes</strong><br />
-        8 a 13 hs - 17 a 21 hs. 
+        8 a 13 hs - 17 a 21 hs.
         <br />
         <strong>Sábado</strong><br />
         8 a 13:30 hs - 17:30 a 21 hs.
     </p>
-    <!--<p class="workdate">
-        <span class="label">Web:</span> 
-    </p>-->
-    <!--<p class="workdate">
-        <span class="label">Rubro:</span> Gastronomía
-    </p> -->
     <p class="skills">
         <span class="label">Local:</span>SUPERMERCADO
     </p>
@@ -66,12 +56,15 @@
         SUPERMERCADO
     </p>
     <p>
-        Amplia variedad de productos del rubro alimenticio, artículos de limpieza y líneas de bazar. <br />
-		Mercadería de reconocida calidad, y esmerado servicio. <br />
-		Entrega a domicilio, aceptando todas las tarjetas de crédito, y demás formas de pago <br />
+        Amplia variedad de productos del rubro alimenticio, artículos de limpieza y líneas de bazar.
+        <br />
+        Mercadería de reconocida calidad, y esmerado servicio.
+        <br />
+        Entrega a domicilio, aceptando todas las tarjetas de crédito, y demás formas de pago
+        <br />
     </p>
     <p>
-	Su origen se remonta desde los inicios de la Gran Galería Devoto, hace 52 años.
+        Su origen se remonta desde los inicios de la Gran Galería Devoto, hace 52 años.
     </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">

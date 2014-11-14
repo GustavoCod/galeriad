@@ -25,29 +25,19 @@
     <li>
         <img src="fotos/alapage/alapage5.jpg" alt="A la page. Foto del local 5" />
     </li>
-
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
         <span class="label">Teléfono:</span> 4504-5929
     </p>
-    <!--<p class="workdate">
-        <span class="label">Mail:</span> 
-    </p>-->
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
         <strong>Lunes a viernes</strong><br />
-        10 a 20 hs. 
+        10 a 20 hs.
         <br />
         <strong>Sábado</strong><br />
         10 a 14 hs
     </p>
-    <!--<p class="workdate">
-        <span class="label">Web:</span> 
-    </p>-->
-    <!--<p class="workdate">
-        <span class="label">Rubro:</span> Gastronomía
-    </p> -->
     <p class="skills">
         <span class="label">Local:</span>4-5
     </p>
@@ -57,16 +47,15 @@
         Ropa exclusiva, pret a porter. Marca instalada hace más de 30 años.
     </p>
     <p>
-        Sucursales:  <br />
-        	Belgrano R Casa del ángel.<br />
-	    	Recoleta Juncal y Talcahuano.<br />
-	    	Villa Devoto Fernández de Enciso 3986.<br />
-		Venta mayorista: Arenales 1999 3° A.
-
+        Sucursales:
+        <br />
+        Belgrano R Casa del ángel.<br />
+        Recoleta Juncal y Talcahuano.<br />
+        Villa Devoto Fernández de Enciso 3986.<br />
+        Venta mayorista: Arenales 1999 3° A.
     </p>
     Todas las tarjetas, 6 pagos sin interés.
     <p>
-    
     </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">

@@ -19,31 +19,17 @@
     <li>
         <img src="fotos/elephant/elephant3.jpg" alt="elephant. Foto del local 3" />
     </li>
-
-  
-    
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
         <span class="label">Teléfono:</span> 4502-2593
     </p>
-    <!--<p class="workdate">
-        <span class="label">Mail:</span> 
+    <p class="workdate">
+        <span class="label">Facebook:</span> <a href="https://es-es.facebook.com/elephant.galeriadevoto" target="_blank">elephant.galeriadevoto</a>
     </p>
     <p class="workdate">
-        <span class="label">Horario de atención:</span><br />
-        <strong>Lunes a viernes</strong>
-        8 a 13 hs - 17 a 21 hs. 
-        <br />
-        <strong>Sábado</strong>
-        8 a 13:30 hs - 17:30 a 21 hs.
-    </p>-->
-    <!--<p class="workdate">
-        <span class="label">Web:</span> 
-    </p>-->
-    <!--<p class="workdate">
-        <span class="label">Rubro:</span> Gastronomía
-    </p> -->
+        <span class="label">Instagram:</span> <a href="http://instagram.com/elephant_galeriadevoto" target="_blank">elephant_galeriadevoto</a>
+    </p>
     <p class="skills">
         <span class="label">Local:</span>33
     </p>

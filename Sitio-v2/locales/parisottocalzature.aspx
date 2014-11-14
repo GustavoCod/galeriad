@@ -1,29 +1,29 @@
-﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="parisotto.aspx.cs" Inherits="locales_parisotto" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="parisottocalzature.aspx.cs" Inherits="locales_parisottocalzature" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
-    <meta name="description" content="parisotto" />
+    <meta name="description" content="" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
-    Parisotto
+    Parisotto Calzature
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
     Marroquinería y Calzados
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <li>
-        <img src="fotos/parisotto/parisotto1.jpg" alt="parisotto. Foto del local 1" />
+        <img src="fotos/parisottocalzature/parisottocalzature1.jpg" alt="parisottocalzature. Foto del local 1" />
     </li>
     <li>
-        <img src="fotos/parisotto/parisotto2.jpg" alt="parisotto. Foto del local 2" />
+        <img src="fotos/parisottocalzature/parisottocalzature2.jpg" alt="parisottocalzature. Foto del local 2" />
     </li>
     <li>
-        <img src="fotos/parisotto/parisotto3.jpg" alt="parisotto. Foto del local 3" />
+        <img src="fotos/parisottocalzature/parisottocalzature3.jpg" alt="parisottocalzature. Foto del local 3" />
     </li>
     <li>
-        <img src="fotos/parisotto/parisotto4.jpg" alt="parisotto. Foto del local 4" />
+        <img src="fotos/parisottocalzature/parisottocalzature4.jpg" alt="parisottocalzature. Foto del local 4" />
     </li>
     <li>
-        <img src="fotos/parisotto/parisotto5.jpg" alt="parisotto. Foto del local 5" />
+        <img src="fotos/parisottocalzature/parisottocalzature5.jpg" alt="parisottocalzature. Foto del local 5" />
     </li>
   
     

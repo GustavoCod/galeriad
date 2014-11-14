@@ -18,60 +18,56 @@
     </li>
     <li>
         <img src="fotos/nigrojoyeriabijouterie/nigro6.jpg" alt="nigro. Foto del local 6" />
-    </li>    
-
-  
-    
+    </li>
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
         <span class="label">Teléfono:</span> 4504-3438
-</p>
+    </p>
     <p class="workdate">
         <span class="label">Mail:</span> info@nigrojoyero.com.ar
-</p>
+    </p>
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
-        <strong>Lunes a Viernes<br /></strong>
-        10 a 13:30 hs. - 16 a 20:30 hs.
-    <br />
-        <strong>Sabados<br /></strong>
-        10:30 a 14 hs. - 16:30 a 20:30 hs.
+        <strong>Lunes a Viernes<br />
+        </strong>10 a 13:30 hs. - 16 a 20:30 hs.
+        <br />
+        <strong>Sabados<br />
+        </strong>10:30 a 14 hs. - 16:30 a 20:30 hs.
     </p>
-    <!--<p class="workdate">
-        <span class="label">Web:</span> www.miroweb.com.ar
-    </p>-->
+    <p class="workdate">
+        <span class="label">Facebook:</span> <a href="https://es-es.facebook.com/joyerianigrojoyero" target="_blank">joyerianigrojoyero</a>
+    </p>
     <p class="workdate">
         <span class="label">Rubro:</span> Joyeria y bijouterie
     </p>
     <p class="skills">
         <span class="label">Local:</span> 42-49
-  </p>
+    </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
         Joyeria Nigro, con mas de 30 años en el barrio y 45 de experiencia en el rubro nos dan la experiencia y herramientas para poder asesorarte y brindarte la mejor atención personalizada.
     </p>
     <p>
-Ubicados en los locales 42 y 49 de la Gran Galería Devoto, trabajamos para acercarle a nuestros  clientes las mejores piezas den relojería y joyería, convirtiéndose en una de las opciones ideales a la hora de hacer un regalo importante.
+        Ubicados en los locales 42 y 49 de la Gran Galería Devoto, trabajamos para acercarle a nuestros clientes las mejores piezas den relojería y joyería, convirtiéndose en una de las opciones ideales a la hora de hacer un regalo importante.
     </p>
     <p>
-Se brinda asesoramiento profesional, se atienden consultas y se realizan presupuestos sin cargo.
-Contamos con talleres propios en los que se fabrican diseños por pedido. Es por eso que en los locales se caracterizan por ofrecer modelos exclusivos que se adaptan a las necesidades y preferencias de cada cliente.
+        Se brinda asesoramiento profesional, se atienden consultas y se realizan presupuestos sin cargo. Contamos con talleres propios en los que se fabrican diseños por pedido. Es por eso que en los locales se caracterizan por ofrecer modelos exclusivos que se adaptan a las necesidades y preferencias de cada cliente.
     </p>
     <p>
-El local 42 se dedica a la venta de piezas en platería 925, acero quirúrgico, metal dorado y plateado ademas de variedad de  relojería japonesa. 
+        El local 42 se dedica a la venta de piezas en platería 925, acero quirúrgico, metal dorado y plateado ademas de variedad de relojería japonesa.
     </p>
     <p>
-El local 49 se enfoca a piezas destacadas y de diseño en oro 18 ktes, alianzas, relojería suiza y escritura ademas de  piezas en plata 925 italiana para colección.
+        El local 49 se enfoca a piezas destacadas y de diseño en oro 18 ktes, alianzas, relojería suiza y escritura ademas de piezas en plata 925 italiana para colección.
     </p>
     <p>
-En relojería, se presentan exclusivas  marcas suizas como  Movado, Techno Marine, Longines, Alfex, Mido, Tissot, Swatch, Victorinox Swiss Army, Certina y Mont Balnc.
+        En relojería, se presentan exclusivas marcas suizas como Movado, Techno Marine, Longines, Alfex, Mido, Tissot, Swatch, Victorinox Swiss Army, Certina y Mont Balnc.
     </p>
     <p>
- Marcas Japonesas como  Tommy Hilfiger , Converse, Festina, Guess, Okusai, Time Force, Marc Jacobs, Jacques Lemans, Junghans.<br />
-Ademas de otras marcas como,  Il Gioiello, Morellato Joyas, Monona, Waterman, Parker,  de Dios Joyas, Rodolfo Lang, Cardinal, Carassale hnos entre otras.
-    </p>        
+        Marcas Japonesas como Tommy Hilfiger , Converse, Festina, Guess, Okusai, Time Force, Marc Jacobs, Jacques Lemans, Junghans.<br />
+        Ademas de otras marcas como, Il Gioiello, Morellato Joyas, Monona, Waterman, Parker, de Dios Joyas, Rodolfo Lang, Cardinal, Carassale hnos entre otras.
+    </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">
     <ul>

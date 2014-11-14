@@ -13,7 +13,6 @@
     <uc:LocalBox ID="boxCollet" StorePage="~/locales/collet.aspx" StoreName="Collet" StoreDescription="Indumentaria femenina" StoreLogoSrc="~/images/logos/collet.jpg" runat="server" />
     <uc:LocalBox ID="boxCountryFem" StorePage="~/locales/countryfem.aspx" StoreName="Country Fem" StoreDescription="Indumentaria femenina" StoreLogoSrc="~/images/logos/countryfem.jpg" runat="server" />
     <uc:LocalBox ID="boxCountryMasc" StorePage="~/locales/countrymasc.aspx" StoreName="Country Masc" StoreDescription="Indumentaria masculina" StoreLogoSrc="~/images/logos/countrymasc.jpg" runat="server" />
-    <uc:LocalBox ID="boxDevotoMarket" StorePage="~/locales/devotomarket.aspx" StoreName="Devoto Market" StoreDescription="Supermercado" StoreLogoSrc="~/images/logos/devotomarket.jpg" runat="server" />
     <uc:LocalBox ID="boxDevotoSports" StorePage="~/locales/devotosports.aspx" StoreName="Devoto Sports" StoreDescription="Indumentaria unisex (deportiva)" StoreLogoSrc="~/images/logos/devotosports.jpg" runat="server" />
     <uc:LocalBox ID="boxElGatoSinBotas" StorePage="~/locales/elgatosinbotas.aspx" StoreName="El Gato Sin Botas" StoreDescription="Indumentaria infantil" StoreLogoSrc="~/images/logos/elgatosinbotas.jpg" runat="server" />
     <uc:LocalBox ID="boxElVestidor" StorePage="~/locales/elvestidor.aspx" StoreName="El Vestidor" StoreDescription="Indumentaria femenina" StoreLogoSrc="~/images/logos/elvestidor.jpg" runat="server" />
@@ -30,10 +29,11 @@
     <uc:LocalBox ID="boxLentejuela" StorePage="~/locales/lentejuela.aspx" StoreName="Lentejuela" StoreDescription="Indumentaria femenina" StoreLogoSrc="~/images/logos/lentejuela.jpg" runat="server" />
     <uc:LocalBox ID="boxLunaDePapel" StorePage="~/locales/lunadepapel.aspx" StoreName="Luna De Papel" StoreDescription="Infantiles (cotillón)" StoreLogoSrc="~/images/logos/lunadepapel.jpg" runat="server" />
     <uc:LocalBox ID="boxMiraQuienSoy" StorePage="~/locales/miraquiensoy.aspx" StoreName="Mira Quien Soy" StoreDescription="Indumentaria infantil" StoreLogoSrc="~/images/logos/miraquiensoy.jpg" runat="server" />
-    <uc:LocalBox ID="boxMiro" StorePage="~/locales/miro.aspx" StoreName="Miro" StoreDescription="Gastronomía (pastelería)" StoreLogoSrc="~/images/logos/miro.jpg" runat="server" />
+    <uc:LocalBox ID="boxMiroPatisserie" StorePage="~/locales/miropatisserie.aspx" StoreName="Miro" StoreDescription="Gastronomía (pastelería)" StoreLogoSrc="~/images/logos/miropatisserie.jpg" runat="server" />
     <uc:LocalBox ID="boxNigroJoyeriaBijouterie" StorePage="~/locales/nigrojoyeriabijouterie.aspx" StoreName="Nigro Joyería y Bijouterie" StoreDescription="Joyería, bijouterie y relojería" StoreLogoSrc="~/images/logos/nigrojoyeriabijouterie.jpg" runat="server" />
     <uc:LocalBox ID="boxNigroRelojeria" StorePage="~/locales/nigrorelojeria.aspx" StoreName="Nigro Relojería" StoreDescription="Joyería, bijouterie y relojería" StoreLogoSrc="~/images/logos/nigrorelojeria.jpg" runat="server" />
-    <uc:LocalBox ID="boxParisotto" StorePage="~/locales/parisotto.aspx" StoreName="Parisotto" StoreDescription="Marroquinería y calzados" StoreLogoSrc="~/images/logos/parisotto.jpg" runat="server" />
+    <uc:LocalBox ID="boxNuevoEnter" StorePage="~/locales/nuevoenter.aspx" StoreName="Nuevo Enter" StoreDescription="Supermercado" StoreLogoSrc="~/images/logos/nuevoenter.jpg" runat="server" />
+    <uc:LocalBox ID="boxParisottoCalzature" StorePage="~/locales/parisottocalzature.aspx" StoreName="Parisotto" StoreDescription="Marroquinería y calzados" StoreLogoSrc="~/images/logos/parisottocalzature.jpg" runat="server" />
     <uc:LocalBox ID="boxPepeStore" StorePage="~/locales/pepestore.aspx" StoreName="Pepe Store" StoreDescription="Infantiles (jugetería)" StoreLogoSrc="~/images/logos/pepestore.jpg" runat="server" />
     <uc:LocalBox ID="boxPerfumeriaCeleste" StorePage="~/locales/perfumeriaceleste.aspx" StoreName="Perfumería Celeste" StoreDescription="Cuidados personales (perfumería)" StoreLogoSrc="~/images/logos/perfumeriaceleste.jpg" runat="server" />
     <uc:LocalBox ID="boxReinaVictoria" StorePage="~/locales/reinavictoria.aspx" StoreName="Reina Victoria" StoreDescription="Indumentaria femenina" StoreLogoSrc="~/images/logos/reinavictoria.jpg" runat="server" />

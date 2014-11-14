@@ -7,7 +7,7 @@
     Country Masculino
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
-   Indumentaria Masculina
+    Indumentaria Masculina
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <li>
@@ -16,13 +16,13 @@
     <li>
         <img src="fotos/countrymasc/countrymasc2.jpg" alt="country2. Foto del local 2" />
     </li>
-<%--    <li>
+    <%--    <li>
         <img src="fotos/countrymasc/countrymasc3.jpg" alt="country2. Foto del local 3" />
     </li>--%>
     <li>
         <img src="fotos/countrymasc/countrymasc4.jpg" alt="country2. Foto del local 4" />
     </li>
-<%--    <li>
+    <%--    <li>
         <img src="fotos/countrymasc/countrymasc5.jpg" alt="country2. Foto del local 5" />
     </li>--%>
     <li>
@@ -30,42 +30,36 @@
     </li>
     <li>
         <img src="fotos/countrymasc/countrymasc7.jpg" alt="country2. Foto del local 7" />
-    </li>    
-  
-  
-    
+    </li>
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
         <span class="label">Teléfono:</span> 4504-0692
     </p>
     <p class="workdate">
-        <span class="label">Mail:</span> countrydevoto@hotmail.com 
+        <span class="label">Mail:</span> countrydevoto@hotmail.com
     </p>
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
         <strong>Lunes a viernes</strong>
         <br />
-        9 a 21 hs. 
+        9 a 21 hs.
         <br />
         <strong>Sábado</strong>
         <br />
         9:30 a 21 hs.
     </p>
-    <!--<p class="workdate">
-        <span class="label">Web:</span> www.miroweb.com.ar
-    </p>
     <p class="workdate">
-        <span class="label">Rubro:</span> Gastronomía
-    </p> -->
+        <span class="label">Facebook:</span> <a href="https://www.facebook.com/pages/Country-Devoto/164505953756072" target="_blank">Country-Devoto</a>
+    </p>
     <p class="skills">
         <span class="label">Local:</span> 47-48
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-        MARCAS:
-        Etiqueta negra <br />
+        MARCAS: Etiqueta negra
+        <br />
         Gola<br />
         Bensimon<br />
         El Burgues<br />
@@ -73,7 +67,6 @@
         Levi’s<br />
         Herencia argentina<br />
     </p>
-
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">
     <ul>

@@ -19,33 +19,16 @@
     <li>
         <img src="fotos/bolicheernesto/ernesto3.jpg" alt="ernesto. Foto del local 3" />
     </li>
-
-       
-
-  
-    
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
-    <!--<p class="workdate">
-        <span class="label">Teléfono:</span> 
-    </p>
-    <p class="workdate">
-        <span class="label">Mail:</span> 
-    </p> -->
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
         <strong>Lunes a jueves</strong><br />
-        9:30 a 13 hs. - 16 a 20 hs. 
+        9:30 a 13 hs. - 16 a 20 hs.
         <br />
-		<strong>Viernes</strong><br />
-        9:30 a 13 hs. - 14:30 a 16:30 hs.    
+        <strong>Viernes</strong><br />
+        9:30 a 13 hs. - 14:30 a 16:30 hs.
     </p>
-    <!--<p class="workdate">
-        <span class="label">Web:</span> 
-    </p> -->
-    <!--<p class="workdate">
-        <span class="label">Rubro:</span> Gastronomía
-    </p> -->
     <p class="skills">
         <span class="label">Local:</span> 22
     </p>

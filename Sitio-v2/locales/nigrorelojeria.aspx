@@ -7,7 +7,7 @@
     Nigro Relojeria
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
-   Joyería y Bijouterie
+    Joyería y Bijouterie
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <li>
@@ -16,11 +16,9 @@
     <li>
         <img src="fotos/nigrorelojeria/nigrorelojeria2.jpg" alt="nigro. Foto del local 3" />
     </li>
-<%--    <li>
+    <%--    <li>
         <img src="fotos/nigrorelojeria/nigrorelojeria3.jpg" alt="nigro. Foto del local 3" />
     </li>--%>
-  
-    
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
@@ -37,9 +35,9 @@
         <strong>Sabados<br />
         </strong>10:30 a 14 hs. - 16:30 a 20:30 hs.
     </p>
-    <!--<p class="workdate">
-        <span class="label">Web:</span> www.miroweb.com.ar
-    </p>-->
+    <p class="workdate">
+        <span class="label">Facebook:</span> <a href="https://es-es.facebook.com/joyerianigrojoyero" target="_blank">joyerianigrojoyero</a>
+    </p>
     <p class="workdate">
         <span class="label">Rubro:</span> Joyeria y bijouterie
     </p>

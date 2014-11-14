@@ -24,10 +24,7 @@
     </li>
     <li>
         <img src="fotos/iavagni/iavagni5.jpg" alt="iavagni. Foto del local 8" />
-    </li>   
-          
-  
-    
+    </li>
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
@@ -42,12 +39,12 @@
         <br />
         9 a 20:30 hs.
     </p>
-    <!--<p class="workdate">
-        <span class="label">Web:</span> www.miroweb.com.ar
+    <p class="workdate">
+        <span class="label">Web:</span> <a href="http://www.iavagni.com.ar" target="_blank">www.iavagni.com.ar</a>
     </p>
     <p class="workdate">
-        <span class="label">Rubro:</span> Gastronomía
-    </p>-->
+        <span class="label">Facebook:</span> <a href="https://es-es.facebook.com/boutiqueiavagni" target="_blank">boutiqueiavagni</a>
+    </p>
     <p class="skills">
         <span class="label">Local:</span> 2-3
     </p>

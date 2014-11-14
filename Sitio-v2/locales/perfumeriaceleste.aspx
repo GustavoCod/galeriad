@@ -4,7 +4,7 @@
     <meta name="description" content="celeste" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
-    Celeste
+    Perfumería Celeste
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
     Cuidados Personales
@@ -22,8 +22,6 @@
     <li>
         <img src="fotos/perfumeriaceleste/celeste4.jpg" alt="celeste. Foto del local 4" />
     </li>
-  
-    
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
@@ -38,9 +36,9 @@
         <br />
         10 a 20 hs.
     </p>
-    <!--<p class="workdate">
-        <span class="label">Web:</span> www.miroweb.com.ar
-    </p>-->
+    <p class="workdate">
+        <span class="label">Web:</span> <a href="http://www.celesteperfumerias.com.ar" target="_blank">www.celesteperfumerias.com.ar</a>
+    </p>
     <p class="workdate">
         <span class="label">Rubro:</span> Cuidados Personales
     </p>
@@ -50,10 +48,10 @@
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-        Venta de Articules de perfumería y maquillajes, nacionales e importados, de la más alta calidad, exhibiendo productos de variadas y reconocidas marcas. 
+        Venta de Articules de perfumería y maquillajes, nacionales e importados, de la más alta calidad, exhibiendo productos de variadas y reconocidas marcas.
     </p>
     <p>
-     Su permanencia de más de seis años en  la Gran Galería Devoto, a contribuido a prestigiar la zona de villa Devoto, gracias a la calidad  de sus productos, además de su elegante diseño y la cordial y eficiente atención que ofrecen las bellas vendedoras, a hombres y mujeres , que componen su fina clientela.
+        Su permanencia de más de seis años en la Gran Galería Devoto, a contribuido a prestigiar la zona de villa Devoto, gracias a la calidad de sus productos, además de su elegante diseño y la cordial y eficiente atención que ofrecen las bellas vendedoras, a hombres y mujeres , que componen su fina clientela.
     </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">

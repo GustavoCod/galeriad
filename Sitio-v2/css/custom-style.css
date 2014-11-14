@@ -109,22 +109,16 @@ p, li {
 ****************************/
 .boxWrapper {
     position: relative;
-    overflow: auto;
-    /*height: 80px;*/
-    /*margin-top: 10px;*/
-    /*width: 100%;*/
+    overflow: auto; /*height: 80px;*/ /*margin-top: 10px;*/ /*width: 100%;*/
     padding: 10px;
 }
 
 
 .boxes {
     /*width: 45%;*/
-    border: 1px solid #CCC;
-    /*float: left;*/
-    /*margin-left: 10px;*/
+    border: 1px solid #CCC; /*float: left;*/ /*margin-left: 10px;*/
     padding: 10px;
-    margin-bottom: 10px;
-    /*padding-left: 10px;*/
+    margin-bottom: 10px; /*padding-left: 10px;*/
     -moz-border-radius: 15px 15px 15px 15px; /*para Safari y Chrome*/
     -webkit-border-radius: 15px 15px 15px 15px; /* para Opera */
     border-radius: 15px 15px 15px 15px;
@@ -137,6 +131,9 @@ p, li {
 }
 
 .box_txt {
-    overflow: auto;
-    /*float: left;*/
+    overflow: auto; /*float: left;*/
+}
+
+.workdate a {
+    color: #545252;
 }
