@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="vonschokolade.aspx.cs" Inherits="locales_vonschokolade" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
-    <meta name="description" content="vonschokolade" />
+    <meta name="description" content="" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
     Von Schokolade
@@ -27,19 +27,12 @@
     </li>
     <li>
         <img src="fotos/vonschokolade/vonschokolade6.jpg" alt="vonschokolade. Foto del local 6" />
-    </li>        
-
-   
-  
-    
+    </li>
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
         <span class="label">Teléfono:</span> 4504-2203
     </p>
-    <!--<p class="workdate">
-        <span class="label">Mail:</span> info@mirtarovagna.com.ar
-    </p>-->
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
         <strong>Lunes a viernes</strong>
@@ -50,12 +43,9 @@
         <br />
         10 a 13 - 16 a 20:30 hs.
     </p>
-    <!--<p class="workdate">
-        <span class="label">Web:</span> www.miroweb.com.ar
+        <p class="workdate">
+        <span class="label">Facebook:</span> <a href="https://es-es.facebook.com/VonSchokolade" target="_blank">VonSchokolade</a>
     </p>
-    <p class="workdate">
-        <span class="label">Rubro:</span> Gastronomía
-    </p>-->
     <p class="skills">
         <span class="label">Local:</span> 45
     </p>
@@ -68,10 +58,10 @@
         Exquisiteces artesanales, en el rubro de bombones y chocolates, elaborados con materia prima de la más alta calidad, ofreciendo los productos adecuados para cada ocasión, que contribuyen a endulzar la vida de grandes y chicos
     </p>
     <p>
-    Comercio que es un icono en el rubro, desde hace 10 años, en Villa Devoto.
+        Comercio que es un icono en el rubro, desde hace 10 años, en Villa Devoto.
     </p>
     <p>
-    Excelencia, calidad y buen gusto, ofrecidos en un entorno coqueto y agradable.
+        Excelencia, calidad y buen gusto, ofrecidos en un entorno coqueto y agradable.
     </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">

@@ -8,7 +8,7 @@
     <uc:LocalBox ID="boxKentucky" StorePage="~/locales/kentucky.aspx" StoreName="Kentucky" StoreDescription="Gastronomía (pizzería)" StoreLogoSrc="~/images/logos/kentucky.png" runat="server" />
     <uc:LocalBox ID="boxMiroPatisserie" StorePage="~/locales/miropatisserie.aspx" StoreName="Miro" StoreDescription="Gastronomía (pastelería)" StoreLogoSrc="~/images/logos/miropatisserie.jpg" runat="server" />
     <uc:LocalBox ID="boxNuevoEnter" StorePage="~/locales/nuevoenter.aspx" StoreName="Nuevo Enter" StoreDescription="Supermercado" StoreLogoSrc="~/images/logos/nuevoenter.jpg" runat="server" />
-    <uc:LocalBox ID="boxStylo" StorePage="~/locales/stylo.aspx" StoreName="Stylo" StoreDescription="Gastronomía (bar y cafetería)" StoreLogoSrc="~/images/logos/stylo.jpg" runat="server" />
+    <uc:LocalBox ID="boxStyloCafe" StorePage="~/locales/stylocafe.aspx" StoreName="Stylo Café" StoreDescription="Gastronomía (bar y cafetería)" StoreLogoSrc="~/images/logos/stylocafe.jpg" runat="server" />
     <uc:LocalBox ID="boxVonSchokolade" StorePage="~/locales/vonschokolade.aspx" StoreName="Von Schokolade" StoreDescription="Gastronomía (bombonería)" StoreLogoSrc="~/images/logos/vonschokolade.jpg" runat="server" />
 </asp:Content>
 

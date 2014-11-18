@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="videodevoto.aspx.cs" Inherits="locales_videodevoto" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
-    <meta name="description" content="videodevoto" />
+    <meta name="description" content="" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
     Devoto Store
@@ -16,10 +16,6 @@
     <li>
         <img src="fotos/videodevoto/videodevoto2.jpg" alt="videodevoto. Foto del local 2" />
     </li>
-
-   
-  
-    
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
@@ -35,25 +31,21 @@
         Sabados de 10 a 18 hs.
     </p>
     <p class="workdate">
-        <span class="label">Web:</span>  www.videodevoto.com.ar
+        <span class="label">Web:</span> <a href="http://videodevoto.blogspot.com.ar" target="_blank">videodevoto.blogspot.com.ar</a>
     </p>
-    <!--<p class="workdate">
-        <span class="label">Rubro:</span> Gastronomía
-    </p>-->
     <p class="skills">
         <span class="label">Local:</span> 28-29
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-      •	Alquiler y venta de películas Dvd Blue ray y Blue ray 3D.<br />
-	•	Venta y accesorios de consolas de video juegos Xbox, PS3, PS4 y PS2 (chipeos y carga de juegos en rigido). Venta – insumos – pilar – baterías – cables.<br />
-	•	Tablet y electrónica.<br />
-	•	Servicio técnico especializado (solo video juegos). Presupuesto sin cargo.
-
+        • Alquiler y venta de películas Dvd Blue ray y Blue ray 3D.<br />
+        • Venta y accesorios de consolas de video juegos Xbox, PS3, PS4 y PS2 (chipeos y carga de juegos en rigido). Venta – insumos – pilar – baterías – cables.<br />
+        • Tablet y electrónica.<br />
+        • Servicio técnico especializado (solo video juegos). Presupuesto sin cargo.
     </p>
     <p>
-       23 años en el rubro. Atención personalizada pre y post venta. Un lugar recomendable en Devoto.
+        23 años en el rubro. Atención personalizada pre y post venta. Un lugar recomendable en Devoto.
     </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">

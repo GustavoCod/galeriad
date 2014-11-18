@@ -6,5 +6,5 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="cphSectorStores" runat="Server">
     <uc:LocalBox ID="boxIvanLaras" StorePage="~/locales/ivanlaras.aspx" StoreName="Ivan Laras" StoreDescription="Marroquinería y calzados" StoreLogoSrc="~/images/logos/ivanlaras.jpg" runat="server" />
     <uc:LocalBox ID="boxParisottoCalzature" StorePage="~/locales/parisottocalzature.aspx" StoreName="Parisotto" StoreDescription="Marroquinería y calzados" StoreLogoSrc="~/images/logos/parisottocalzature.jpg" runat="server" />
-    <uc:LocalBox ID="boxZZ" StorePage="~/locales/zz.aspx" StoreName="ZZ" StoreDescription="Marroquinería y calzados" StoreLogoSrc="~/images/logos/zz.jpg" runat="server" />
+    <uc:LocalBox ID="boxVezzoCalzados" StorePage="~/locales/vezzocalzados.aspx" StoreName="Vezzo Calzados" StoreDescription="Marroquinería y calzados" StoreLogoSrc="~/images/logos/vezzocalzados.jpg" runat="server" />
 </asp:Content>

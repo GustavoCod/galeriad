@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="tabatha.aspx.cs" Inherits="locales_tabatha" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
-    <meta name="description" content="tabatha" />
+    <meta name="description" content="" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
     Tabatha
@@ -22,9 +22,6 @@
     <li>
         <img src="fotos/tabatha/tabatha4.jpg" alt="tabatha. Foto del local 4" />
     </li>
-   
-  
-    
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
@@ -37,18 +34,16 @@
         <span class="label">Horario de atención:</span><br />
         <strong>Lunes a Viernes</strong>
         <br />
-        10 a 13;30 y de 16:30 a 20:30. 
-        
-        <strong>Sábados</strong>
+        10 a 13;30 y de 16:30 a 20:30. <strong>Sábados</strong>
         <br />
         10 a 14 y 15 a 20:30.
     </p>
     <p class="workdate">
-        <span class="label">Web:</span> www.tabathajeans.com
+        <span class="label">Web:</span> <a href="http://www.tabathajeans.com" target="_blank">www.tabathajeans.com</a>
     </p>
-    <!--<p class="workdate">
-        <span class="label">Rubro:</span> Gastronomía
-    </p>-->
+    <p class="workdate">
+        <span class="label">Facebook:</span> <a href="https://es-es.facebook.com/tabathajeans" target="_blank">tabathajeans</a>
+    </p>
     <p class="skills">
         <span class="label">Local:</span> 40
     </p>
@@ -58,14 +53,13 @@
         Indumentaria femenina para la mujer joven y moderna.
     </p>
     <p>
-        Venta de indumentaria femenina, ampliamente reconocida en su segmento.
-Jeans, blusas, camperas, lencería y todo tipo de artículos que realzan la imagen de la mujer joven.
+        Venta de indumentaria femenina, ampliamente reconocida en su segmento. Jeans, blusas, camperas, lencería y todo tipo de artículos que realzan la imagen de la mujer joven.
     </p>
     <p>
-    Sus múltiples sucursales se desarrollan a lo largo de todo el país, con un prestigio justamente valorado.
+        Sus múltiples sucursales se desarrollan a lo largo de todo el país, con un prestigio justamente valorado.
     </p>
     <p>
-    Atención personalizada, eficiente y cordial.
+        Atención personalizada, eficiente y cordial.
     </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">

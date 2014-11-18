@@ -1,32 +1,27 @@
-﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="zz.aspx.cs" Inherits="locales_zz" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="vezzocalzados.aspx.cs" Inherits="locales_vezzocalzados" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
-    <meta name="description" content="zz" />
+    <meta name="description" content="" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
-    Vezzo
+    Vezzo Calzados
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
-  Marroquinería y Calzados
+    Marroquinería y Calzados
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <li>
-        <img src="fotos/zz/zz.jpg" alt="zz. Foto del local 1" />
+        <img src="fotos/vezzocalzados/vezzocalzados.jpg" alt="Vezzo Calzados. Foto del local 1" />
     </li>
     <li>
-        <img src="fotos/zz/zz2.jpg" alt="zz. Foto del local 2" />
+        <img src="fotos/vezzocalzados/vezzocalzados2.jpg" alt="Vezzo Calzados. Foto del local 2" />
     </li>
     <li>
-        <img src="fotos/zz/zz3.jpg" alt="zz. Foto del local 3" />
+        <img src="fotos/vezzocalzados/vezzocalzados3.jpg" alt="Vezzo Calzados. Foto del local 3" />
     </li>
     <li>
-        <img src="fotos/zz/zz4.jpg" alt="zz. Foto del local 4" />
+        <img src="fotos/vezzocalzados/vezzocalzados4.jpg" alt="Vezzo Calzados. Foto del local 4" />
     </li>
-  
-
-   
-  
-    
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
@@ -45,19 +40,13 @@
         <br />
         9:30 a 14hs. - 17 a 20:30 hs.
     </p>
-    <!--<p class="workdate">
-        <span class="label">Web:</span> www.miroweb.com.ar
-    </p>
-    <p class="workdate">
-        <span class="label">Rubro:</span> Gastronomía
-    </p>-->
     <p class="skills">
         <span class="label">Local:</span> 26-27
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-	Más de 40 años en la Galería devoto. Ofreciendo calzados de calidad y al mejor precio, siempre con la destacada atención que caracteriza a la marca.
+        Más de 40 años en la Galería devoto. Ofreciendo calzados de calidad y al mejor precio, siempre con la destacada atención que caracteriza a la marca.
     </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">

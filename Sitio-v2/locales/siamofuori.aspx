@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="siamofuori.aspx.cs" Inherits="locales_siamofuori" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
-    <meta name="description" content="siamofuori" />
+    <meta name="description" content="" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
     Siamo Fuori
@@ -22,42 +22,40 @@
     <li>
         <img src="fotos/siamofuori/siamofuori4.jpg" alt="siamofuori. Foto del local 4" />
     </li>
-  
-    
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
         <span class="label">Teléfono:</span> 4504-8091
     </p>
-    <!--<p class="workdate">
-        <span class="label">Mail:</span> info@mirtarovagna.com.ar
-    </p>-->
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
         <strong>Lunes a viernes</strong>
         <br />
-        10 a 13.30 hs. - 16:30 a 20:30 hs. 
-        <strong>Sábado</strong>
+        10 a 13.30 hs. - 16:30 a 20:30 hs. <strong>Sábado</strong>
         <br />
         10 a 21 hs.
     </p>
     <p class="workdate">
-        <span class="label">Web:</span> www.siamofuori.net
+        <span class="label">Web:</span> <a href="http://www.siamofuori.net" target="_blank">www.siamofuori.net</a>
     </p>
-    <!--<p class="workdate">
-        <span class="label">Rubro:</span> Gastronomía
-    </p>-->
+    <p class="workdate">
+        <span class="label">Facebook:</span> <a href="https://es-la.facebook.com/clubsiamofuori" target="_blank">clubsiamofuori</a>
+    </p>
+    <p class="workdate">
+        <span class="label">Twitter:</span> <a href="https://twitter.com/clubsiamofuori" target="_blank">clubsiamofuori</a>
+    </p>
     <p class="skills">
         <span class="label">Local:</span> 8
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-    Indumentaria masculina con más de 60 sucursales en todo el país. <br />
-	Se destacas por su moderno diseño en camisas, jeans, remeras, camperas, zapatillas y más.
+        Indumentaria masculina con más de 60 sucursales en todo el país.
+        <br />
+        Se destacas por su moderno diseño en camisas, jeans, remeras, camperas, zapatillas y más.
     </p>
     <p>
-       Estamos en Devoto desde hace 4 años brindando y lookeando al “jugador de la noche”.
+        Estamos en Devoto desde hace 4 años brindando y lookeando al “jugador de la noche”.
     </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">

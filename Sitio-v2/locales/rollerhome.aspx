@@ -1,13 +1,13 @@
 ﻿<%@ Page Language="C#" MasterPageFile="~/locales/Local.master" AutoEventWireup="true" CodeFile="rollerhome.aspx.cs" Inherits="locales_rollerhome" %>
 
 <asp:Content ID="cMetaDescription" ContentPlaceHolderID="cphMetaDescription" runat="Server">
-    <meta name="description" content="rollerhome" />
+    <meta name="description" content="" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
-    rollerhome
+    Roller Home
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
-    Indumentaria Femenina
+    Hogar
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <li>
@@ -22,36 +22,30 @@
     <li>
         <img src="fotos/rollerhome/rollerhome4.jpg" alt="rollerhome. Foto del local 4" />
     </li>
-  
-    
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
         <span class="label">Teléfono:</span> 4505-2548
     </p>
     <p class="workdate">
-        <span class="label">Mail:</span> roller.home@hotmail.com 
+        <span class="label">Mail:</span> roller.home@hotmail.com
     </p>
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
         <strong>Lunes a Sábado</strong>
         <br />
         10 a 13 y 16 a 20 hs.
-        
-    </p>
-    <!--<p class="workdate">
-        <span class="label">Web:</span> www.miroweb.com.ar
     </p>
     <p class="workdate">
-        <span class="label">Rubro:</span> Gastronomía
-    </p>-->
+        <span class="label">Facebook:</span> <a href="https://www.facebook.com/pages/Roller-Home/113523405412810?sk=timeline&ref=page_internal" target="_blank">Roller-Home</a>
+    </p>
     <p class="skills">
         <span class="label">Local:</span> 41
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-        Comercio delicadamente presentado, con su propuesta de artículos para la decoración del hogar, en el rubro de cortinas de distintas  gamas y modelos, toldos y accesorios. 
+        Comercio delicadamente presentado, con su propuesta de artículos para la decoración del hogar, en el rubro de cortinas de distintas gamas y modelos, toldos y accesorios.
     </p>
     <p>
         Su esmerada atención, se complementa con el adecuado asesoramiento personal , a fin de encontrar la solución ideal para cada caso, en el rubro de cortinas

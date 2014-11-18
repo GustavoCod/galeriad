@@ -77,6 +77,14 @@ TODO
 	Nigro
 	-----
 	- Poner joyería solo, no joyería y bijouterie.
+
+	Von Schokolade
+	--------------
+	- Trabajar con la palabra clave chocolate y chocolate devoto.
+
+	Tabatha
+	-------
+	- Mandar mail a webmaster para que agregue el local al sitio oficial.
 	
 	
 Antes de instalar
