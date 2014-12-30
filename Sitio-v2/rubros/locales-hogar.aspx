@@ -5,6 +5,6 @@
     <meta name="description" content="" />
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="cphSectorStores" Runat="Server">
-    <uc:LocalBox ID="boxRollerHome" StorePage="~/locales/rollerhome.aspx" StoreName="Roller Home" StoreDescription="Cortinas, toldos y accesorios" StoreLogoSrc="~/images/logos/rollerhome.jpg" runat="server" />
+    <!--<uc:LocalBox ID="boxRollerHome" StorePage="~/locales/rollerhome.aspx" StoreName="Roller Home" StoreDescription="Cortinas, toldos y accesorios" StoreLogoSrc="~/images/logos/rollerhome.jpg" runat="server" />-->
 </asp:Content>
 
