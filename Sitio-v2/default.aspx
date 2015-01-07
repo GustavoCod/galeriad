@@ -113,12 +113,6 @@
                                     Gastronomía
                                 </h3>
                             </a></li>
-                            <li><a class="cbp-vm-image" href="rubros/locales-hogar.aspx">
-                                <img src="images/home_locales/hogar.png" alt="Casa">
-                                <h3 class="cbp-vm-title">
-                                    Hogar
-                                </h3>
-                            </a></li>
                             <li><a class="cbp-vm-image" href="rubros/locales-indumentariafemenina.aspx">
                                 <img src="images/home_locales/female94.png" alt="Vestido">
                                 <h3 class="cbp-vm-title">
