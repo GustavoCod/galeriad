@@ -50,6 +50,20 @@ Notas
 TODO
 ----
 
+	Borrar del servidor los directorios:
+		locales/fotos/devotomarket
+		locales/fotos/miro
+		locales/fotos/parisotto
+		locales/fotos/stylo
+		locales/fotos/zz
+		
+	Borrar los archivos:
+		images/logos/devotomarket.jpg
+		images/logos/miro.jpg
+		images/logos/parisotto.jpg
+		images/logos/stylo.jpg
+		images/logos/zz.jpg
+
 	Principal
 	---------
 	- Rubros: http://tympanus.net/codrops/2013/07/01/view-mode-switch/
