@@ -50,6 +50,18 @@
                     </h3>
                 </div>
             </li>
+            
+            <li class="slide-2 slide align- image-content-type">
+                <img src="./images/slider/elastic/website_banner.jpg" width="1280" height="500" alt="Banner día de la Padre. Argentina." />
+                <div class="ei-title">
+                    <h2>
+                       
+                    </h2>
+                    <h3>
+                       
+                    </h3>
+                </div>
+            </li>            
         </ul>
         <ul class="ei-slider-thumbs">
             <li class="ei-slider-element">Current</li>
