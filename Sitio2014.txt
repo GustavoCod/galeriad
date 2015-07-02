@@ -1,9 +1,5 @@
 Recursos
 --------
-	Publicaciones
-	-------------
-	La versión 2 del sitio se puso online el dia sábado 18/10/2014
-
 	Móviles
 	-------
 	Resolucion max candidata: 768x1024
@@ -38,14 +34,6 @@ Recursos
 	Permanent Redirect con web.config
 	---------------------------------
 	http://www.dantor.com/support/misc/web-config-response-redirect.aspx
-
-Notas
------
-
-	Dattatec - Panel de control
-	---------------------------
-	31/05/2014: Cambie la versión de ASP.NET Framework de ".NET Framework 1.1 - Modo clásico" a ".NET Framework 4 - Modo clásico"
-	16/08/2014: Cambie la versión "PHP 5.2.17 - Modo clásico" a ".NET Framework 4 - Modo clásico"
 
 TODO
 ----
@@ -101,11 +89,5 @@ TODO
 	- Mandar mail a webmaster para que agregue el local al sitio oficial.
 	
 	
-Antes de instalar
------------------
-1) Hacer un backup del sitio actual.
-2) Configurar correctamente la cuenta de mail a donde van a llegar las consultas.
-3) Agregar Google Analytics.
-4) Configurar web.config para hacer el redireccionamiento permanente.
 
 

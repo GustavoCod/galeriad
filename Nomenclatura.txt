@@ -13,6 +13,6 @@ css: Hojas de estilo
 img: Imágenes
 js: JavaScript
 locales: Páginas de cada local
-m: Sitio optimizado para móviles
+
 
 

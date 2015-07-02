@@ -1,0 +1,18 @@
+Antes de instalar
+-----------------
+1) Hacer un backup del sitio actual.
+2) Configurar correctamente la cuenta de mail a donde van a llegar las consultas.
+3) Agregar Google Analytics.
+4) Configurar web.config para hacer el redireccionamiento permanente.
+
+ChangeLog
+---------
+31/05/2014: Dattatec - Panel de control. Cambio, la versión de ASP.NET Framework de ".NET Framework 1.1 - Modo clásico" a ".NET Framework 4 - Modo clásico"
+16/08/2014: Dattatec - Panel de control. Cambio, la versión "PHP 5.2.17 - Modo clásico" a ".NET Framework 4 - Modo clásico"
+18/10/2014: La versión 2 del sitio se puso online el dia sábado 18/10/2014.
+01/07/2015: Exportación de repositorio SVN (https://code.google.com/p/galeriad) a GitHub (https://github.com/GustavoCod/galeriad)
+
+	
+	
+	
+
