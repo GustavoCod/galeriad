@@ -9,6 +9,5 @@
     <uc:LocalBox ID="boxDevotoSports" StorePage="~/locales/devotosports.aspx" StoreName="Devoto Sports" StoreDescription="Indumentaria unisex (deportiva)" StoreLogoSrc="~/images/logos/devotosports.jpg" runat="server" />
     <uc:LocalBox ID="boxFaroNorte" StorePage="~/locales/faronorte.aspx" StoreName="Faro Norte" StoreDescription="Indumentaria masculina" StoreLogoSrc="~/images/logos/faronorte.jpg" runat="server" />
     <uc:LocalBox ID="boxGrownMen" StorePage="~/locales/grownmen.aspx" StoreName="GrownMen" StoreDescription="Indumentaria masculina" StoreLogoSrc="~/images/logos/grownmen.jpg" runat="server" />
-    <uc:LocalBox ID="boxSiamoFuori" StorePage="~/locales/siamofuori.aspx" StoreName="Siamo Fuori" StoreDescription="Indumentaria masculina" StoreLogoSrc="~/images/logos/siamofuori.jpg" runat="server" />
 </asp:Content>
 
