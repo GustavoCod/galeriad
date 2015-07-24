@@ -16,3 +16,4 @@ locales: Páginas de cada local
 
 
 hola
+Modifiqué el archivo.
