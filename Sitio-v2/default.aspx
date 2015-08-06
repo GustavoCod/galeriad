@@ -29,7 +29,7 @@
     <div id="slider" class="ei-slider elastic">
         <ul class="ei-slider-large">
             <li class="first slide-1 slide align- image-content-type">
-                <img src="./images/slider/elastic/facebook.jpg" width="1280" height="500" alt="Banner Facebook" />
+                <img src="./images/slider/elastic/facebook.jpg" width="1280" height="500" alt="Banner promociones y novedades en Facebook." />
                 <div class="ei-title">
                     <h2>
                         Promociones
@@ -40,7 +40,7 @@
                 </div>
             </li>
             <li class="slide-2 slide align- image-content-type">
-                <img src="./images/slider/elastic/banner_institucional.jpg" width="1280" height="500" alt="Banner día de la madre. Argentina." />
+                <img src="./images/slider/elastic/banner_institucional.jpg" width="1280" height="500" alt="Banner nuevo sitio web." />
                 <div class="ei-title">
                     <h2>
                         Bienvenidos!!!
@@ -50,18 +50,6 @@
                     </h3>
                 </div>
             </li>
-            
-            <li class="slide-2 slide align- image-content-type">
-                <img src="./images/slider/elastic/website_banner.jpg" width="1280" height="500" alt="Banner día de la Padre. Argentina." />
-                <div class="ei-title">
-                    <h2>
-                       
-                    </h2>
-                    <h3>
-                       
-                    </h3>
-                </div>
-            </li>            
         </ul>
         <ul class="ei-slider-thumbs">
             <li class="ei-slider-element">Current</li>
