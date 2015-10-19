@@ -7,5 +7,6 @@
     <uc:LocalBox ID="boxAlegrias" StorePage="~/locales/alegrias.aspx" StoreName="Alegrías" StoreDescription="Infantiles (regalería y productos para niños)" StoreLogoSrc="~/images/logos/alegrias.jpg" runat="server" />
     <uc:LocalBox ID="boxLunaDePapel" StorePage="~/locales/lunadepapel.aspx" StoreName="Luna De Papel" StoreDescription="Infantiles (cotillón)" StoreLogoSrc="~/images/logos/lunadepapel.jpg" runat="server" />
     <uc:LocalBox ID="boxPepeStore" StorePage="~/locales/pepestore.aspx" StoreName="Pepe Store" StoreDescription="Infantiles (jugetería)" StoreLogoSrc="~/images/logos/pepestore.jpg" runat="server" />
+    <uc:LocalBox ID="boxPintaPolin" StorePage="~/locales/pintapolin.aspx" StoreName="Pinta Polin" StoreDescription="Infantiles (regalería)" StoreLogoSrc="~/images/logos/pintapolin.jpg" runat="server" />    
 </asp:Content>
 

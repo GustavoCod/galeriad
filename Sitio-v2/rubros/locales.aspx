@@ -35,6 +35,7 @@
     <uc:LocalBox ID="boxParisottoCalzature" StorePage="~/locales/parisottocalzature.aspx" StoreName="Parisotto" StoreDescription="Marroquinería y calzados" StoreLogoSrc="~/images/logos/parisottocalzature.jpg" runat="server" />
     <uc:LocalBox ID="boxPepeStore" StorePage="~/locales/pepestore.aspx" StoreName="Pepe Store" StoreDescription="Infantiles (jugetería)" StoreLogoSrc="~/images/logos/pepestore.jpg" runat="server" />
     <uc:LocalBox ID="boxPerfumeriaCeleste" StorePage="~/locales/perfumeriaceleste.aspx" StoreName="Perfumería Celeste" StoreDescription="Cuidados personales (perfumería)" StoreLogoSrc="~/images/logos/perfumeriaceleste.jpg" runat="server" />
+    <uc:LocalBox ID="boxPintaPolin" StorePage="~/locales/pintapolin.aspx" StoreName="Pinta Polin" StoreDescription="Infantiles (regalería)" StoreLogoSrc="~/images/logos/pintapolin.jpg" runat="server" />    
     <uc:LocalBox ID="boxReinaVictoria" StorePage="~/locales/reinavictoria.aspx" StoreName="Reina Victoria" StoreDescription="Indumentaria femenina" StoreLogoSrc="~/images/logos/reinavictoria.jpg" runat="server" />
     <uc:LocalBox ID="boxStyloCafe" StorePage="~/locales/stylocafe.aspx" StoreName="Stylo Café" StoreDescription="Gastronomía (bar y cafetería)" StoreLogoSrc="~/images/logos/stylocafe.jpg" runat="server" />
     <uc:LocalBox ID="boxTabatha" StorePage="~/locales/tabatha.aspx" StoreName="Tabatha" StoreDescription="Indumentaria femenina" StoreLogoSrc="~/images/logos/tabatha.jpg" runat="server" />
