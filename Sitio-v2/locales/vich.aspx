@@ -70,13 +70,14 @@
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-       Tradicional local de venta de zapatos, carteras, cinturones, y demás artículos de cuero para la mujer.
+      TENDENCIA EN CUERO | Una marca, todos los estilos, elegí cuál es el tuyo!
     </p>
     <p>
-        Comercio que exhibe en sus amplias vidrieras una diversa variedad de artículos, a excelentes precios para satisfacer la demanda, de su extensa y fiel clientela.
+        VICH Leather Trends es una marca de indumentaria, carteras y accesorios en cuero, pensada para satisfacer a un público audaz, inspirada en la tendencia europea, con toda la pasión argentina.
     </p>
     <p>
-    Su permanencia en  la Gran Galería Devoto, trasciende, más de una generación, contando con variedad de sucursales, en Capital Federal, con fabricación propia  de reconocida calidad.
+    Somos fabricantes de Indumentaria, Carteras y Accesorios en Cuero. 
+Ventas Minoristas en nuestros locales exclusivos y Ventas x Mayor a todo el país. Ambos sexos
     </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">
