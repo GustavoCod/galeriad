@@ -19,6 +19,7 @@
     <uc:LocalBox ID="boxFaroNorte" StorePage="~/locales/faronorte.aspx" StoreName="Faro Norte" StoreDescription="Indumentaria masculina" StoreLogoSrc="~/images/logos/faronorte.jpg" runat="server" />
     <uc:LocalBox ID="boxFirenze" StorePage="~/locales/firenze.aspx" StoreName="Firenze" StoreDescription="Merceria, arreglos y afines" StoreLogoSrc="~/images/logos/firenze.jpg" runat="server" />
     <uc:LocalBox ID="boxGrownMen" StorePage="~/locales/grownmen.aspx" StoreName="GrownMen" StoreDescription="Indumentaria masculina" StoreLogoSrc="~/images/logos/grownmen.jpg" runat="server" />
+    <uc:LocalBox ID="boxHausbrot" StorePage="~/locales/hausbrot.aspx" StoreName="Hausbrot" StoreDescription="Gastronomía (Panadería)" StoreLogoSrc="~/images/logos/hausbrot.jpg" runat="server" />    
     <uc:LocalBox ID="boxIavagni" StorePage="~/locales/iavagni.aspx" StoreName="Iavagni" StoreDescription="Indumentaria femenina" StoreLogoSrc="~/images/logos/iavagni.jpg" runat="server" />
     <uc:LocalBox ID="boxIavagniFiesta" StorePage="~/locales/iavagnifiesta.aspx" StoreName="Iavagni Fiesta" StoreDescription="Indumentaria femenina (ropa de fiesta)" StoreLogoSrc="~/images/logos/iavagnifiesta.jpg" runat="server" />
     <uc:LocalBox ID="boxIvanLaras" StorePage="~/locales/ivanlaras.aspx" StoreName="Ivan Laras" StoreDescription="Marroquinería y calzados" StoreLogoSrc="~/images/logos/ivanlaras.jpg" runat="server" />
