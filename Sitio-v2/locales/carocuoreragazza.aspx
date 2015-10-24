@@ -37,6 +37,9 @@
     <li>
         <img src="fotos/carocuoreragazza/carocuore9.jpg" alt="carocuore. Foto del local 9" />
     </li>
+    <li>
+        <img src="fotos/carocuoreragazza/carocuore10.jpg" alt="carocuore. Foto del local 10" />
+    </li>
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
@@ -51,7 +54,7 @@
         10 a 14 / 17 a 20 hs.
     </p>
     <p class="skills">
-        <span class="label">Local:</span> 36
+        <span class="label">Local:</span> 52/53
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
