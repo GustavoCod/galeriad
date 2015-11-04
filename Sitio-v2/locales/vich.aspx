@@ -4,7 +4,7 @@
     <meta name="description" content="" />
 </asp:Content>
 <asp:Content ID="cStoreName" ContentPlaceHolderID="cphStoreName" runat="Server">
-    Vich . Leather Trends. 
+    VICH Leather Trends | Tendencia en Cuero
 </asp:Content>
 <asp:Content ID="cStoreSector" ContentPlaceHolderID="cphStoreSector" runat="Server">
     Marroquinería y Calzados
@@ -36,24 +36,24 @@
     </li>
     <li>
         <img src="fotos/vich/vich9.jpg" alt="Vich. Foto del local 9" />
-    </li>    
-  
-    
+    </li>
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
-        <span class="label">Teléfono:</span> 
+        <span class="label">Teléfono:</span> 4503-2988
     </p>
     <p class="workdate">
         <span class="label">Mail:</span> info@vich.com.ar
     </p>
     <p class="workdate">
         <span class="label">Horario de atención:</span><br />
-        <strong>Lunes a sábado</strong>
+        <strong>Lunes a viernes</strong>
         <br />
-        10 a 14 hs.
+        10 a 13 hs. y 16:30 a 20 hs.
         <br />
-        16 a 20:30 hs.
+        <strong>Sábados</strong>
+        <br />
+        10 a 20 hs.
     </p>
     <p class="workdate">
         <span class="label">Web:</span>www.vich.com.ar
@@ -62,7 +62,7 @@
         <span class="label">Facebook:</span> <a href="https://www.facebook.com/VICH-Leather-Trends-222847934438455/" target="_blank">Vich</a>
     </p>
     <p class="workdate">
-        <span class="label">Rubro:</span> Indumentaria, carteras y accesorios en cuero. 
+        <span class="label">Rubro:</span> Indumentaria, carteras y accesorios en cuero.
     </p>
     <p class="skills">
         <span class="label">Local:</span> 20
@@ -70,14 +70,23 @@
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-      TENDENCIA EN CUERO | Una marca, todos los estilos, elegí cuál es el tuyo!
+        <b>VICH Leather Trends</b> | Tendencia en Cuero
     </p>
     <p>
-        VICH Leather Trends es una marca de indumentaria, carteras y accesorios en cuero, pensada para satisfacer a un público audaz, inspirada en la tendencia europea, con toda la pasión argentina.
+        Fabricación de Indumentaria, Carteras y Accesorios en Cuero.
     </p>
     <p>
-    Somos fabricantes de Indumentaria, Carteras y Accesorios en Cuero. 
-Ventas Minoristas en nuestros locales exclusivos y Ventas x Mayor a todo el país. Ambos sexos
+        Confección a medida, diseños para hombres y mujeres de todas las edades y diferentes estilos.
+    </p>
+    <p>
+        Medios de pago:
+        <br />
+        - Tarjetas de Crédito
+        <br />
+        - Tarjetas de Débito
+        <br />
+        - Importantes descuentos en contado/efectivo.
+        <br />
     </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">
