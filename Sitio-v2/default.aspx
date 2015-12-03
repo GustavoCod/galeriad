@@ -40,13 +40,13 @@
                 </div>
             </li>
             <li class="slide-2 slide align- image-content-type">
-                <img src="./images/slider/elastic/banner_institucional.jpg" width="1280" height="500" alt="Banner nuevo sitio web." />
+                <img src="./images/slider/elastic/navidad_banner_website.jpg" width="1280" height="500" alt="Felices fiestas!" />
                 <div class="ei-title">
                     <h2>
-                        Bienvenidos!!!
+                        <%--Felices Fiestas!--%>
                     </h2>
                     <h3>
-                        visitá el nuevo sitio
+                        <%--les desea Gran Galería Devoto--%>
                     </h3>
                 </div>
             </li>
