@@ -40,7 +40,6 @@
     <uc:LocalBox ID="boxReinaVictoria" StorePage="~/locales/reinavictoria.aspx" StoreName="Reina Victoria" StoreDescription="Indumentaria femenina" StoreLogoSrc="~/images/logos/reinavictoria.jpg" runat="server" />
     <uc:LocalBox ID="boxStyloCafe" StorePage="~/locales/stylocafe.aspx" StoreName="Stylo Café" StoreDescription="Gastronomía (bar y cafetería)" StoreLogoSrc="~/images/logos/stylocafe.jpg" runat="server" />
     <uc:LocalBox ID="boxTabatha" StorePage="~/locales/tabatha.aspx" StoreName="Tabatha" StoreDescription="Indumentaria femenina" StoreLogoSrc="~/images/logos/tabatha.jpg" runat="server" />
-    <uc:LocalBox ID="boxVezzoCalzados" StorePage="~/locales/vezzocalzados.aspx" StoreName="Vezzo Calzados" StoreDescription="Marroquinería y calzados" StoreLogoSrc="~/images/logos/vezzocalzados.jpg" runat="server" />
     <uc:LocalBox ID="boxVich" StorePage="~/locales/vich.aspx" StoreName="Vich" StoreDescription="Indumentaria, Carteras y accesorios en cuero" StoreLogoSrc="~/images/logos/vich.jpg" runat="server" />    
     <uc:LocalBox ID="boxVideoDevoto" StorePage="~/locales/videodevoto.aspx" StoreName="Devoto Store" StoreDescription="Tecnología y entretenimiento" StoreLogoSrc="~/images/logos/videodevoto.jpg" runat="server" />
     <uc:LocalBox ID="boxVonSchokolade" StorePage="~/locales/vonschokolade.aspx" StoreName="Von Schokolade" StoreDescription="Gastronomía (bombonería)" StoreLogoSrc="~/images/logos/vonschokolade.jpg" runat="server" />
