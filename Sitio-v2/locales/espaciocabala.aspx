@@ -40,9 +40,9 @@
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
-    La mas completa coleccion de libro de Cábala, Auto-ayuda, Familia, Pareja, Novelas y Relatos Infantiles.
-    Articulos de Judaica, Cuadros, Mezuzot, Tefilín, Taletim y Juegos para chicos.
-    Exquisiteces Kosher para acompañar un café o bebida en el lugar, comidas tipicas para llevar.
+    La más completa colección de libro de Cábala, Auto-ayuda, Familia, Pareja, Novelas y Relatos Infantiles.
+    Artículos de Judaica, Cuadros, Mezuzot, Tefilín, Taletim y Juegos para chicos.
+    Exquisiteces Kosher para acompañar un café o bebida en el lugar, comidas típicas para llevar.
     </p>
 </asp:Content>
 <asp:Content ID="cRelatedStores" ContentPlaceHolderID="cphRelatedStores" runat="Server">

@@ -5,7 +5,6 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="cphSectorStores" Runat="Server">
     <uc:LocalBox ID="boxElephant" StorePage="~/locales/espaciocabala.aspx" StoreName="Espacio Cabala" StoreDescription="Libreria" StoreLogoSrc="~/images/logos/espaciocabala.jpg" runat="server" />
-    <uc:LocalBox ID="boxDevotoStore" StorePage="~/locales/devotostore.aspx" StoreName="Devoto Store" StoreDescription="tecnologia" StoreLogoSrc="~/images/logos/devotostore.jpg" runat="server" />    
     <uc:LocalBox ID="boxJetsonsGames" StorePage="~/locales/jetsonsgames.aspx" StoreName="Jetsons Games" StoreDescription="tecnología y entretenimiento (librería)" StoreLogoSrc="~/images/logos/jetsonsgames.jpg" runat="server" />
     <uc:LocalBox ID="boxVideoDevoto" StorePage="~/locales/videodevoto.aspx" StoreName="Devoto Store" StoreDescription="Tecnología y entretenimiento" StoreLogoSrc="~/images/logos/videodevoto.jpg" runat="server" />
 </asp:Content>

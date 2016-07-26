@@ -11,11 +11,11 @@
 </asp:Content>
 <asp:Content ID="cStoreImages" ContentPlaceHolderID="cphStoreImages" runat="Server">
     <li>
-        <img src="fotos/videodevoto/videodevoto1.jpg" alt="videodevoto. Foto del local 1" />
+        <img src="fotos/devotostore/devotostore1.jpg" alt="Devoto Store. Foto del local 1" />
     </li>
-    <li>
-        <img src="fotos/videodevoto/videodevoto2.jpg" alt="videodevoto. Foto del local 2" />
-    </li>
+<%--    <li>
+        <img src="fotos/devotostore/devotostore2.jpg" alt="Devoto Store. Foto del local 2" />
+    </li>--%>
 </asp:Content>
 <asp:Content ID="cStoreContactInfo" ContentPlaceHolderID="cphStoreContactInfo" runat="Server">
     <p class="workdate">
@@ -34,14 +34,14 @@
         <span class="label">Web:</span> <a href="http://videodevoto.blogspot.com.ar" target="_blank">videodevoto.blogspot.com.ar</a>
     </p>
     <p class="skills">
-        <span class="label">Local:</span> 28-29
+        <span class="label">Local:</span> 26-27
     </p>
 </asp:Content>
 <asp:Content ID="cStoreDescription" ContentPlaceHolderID="cphStoreDescription" runat="Server">
     <p>
+        • Venta de TV Leds – Notebooks – Tablets – Consolas – Celulares – Accesorios – Video Juegos.<br />
         • Alquiler y venta de películas Dvd Blue ray y Blue ray 3D.<br />
         • Venta y accesorios de consolas de video juegos Xbox, PS3, PS4 y PS2 (chipeos y carga de juegos en rigido). Venta – insumos – pilar – baterías – cables.<br />
-        • Tablet y electrónica.<br />
         • Servicio técnico especializado (solo video juegos). Presupuesto sin cargo.
     </p>
     <p>

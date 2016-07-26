@@ -14,7 +14,6 @@
     <uc:LocalBox ID="boxCountryFem" StorePage="~/locales/countryfem.aspx" StoreName="Country Fem" StoreDescription="Indumentaria femenina" StoreLogoSrc="~/images/logos/countryfem.jpg" runat="server" />
     <uc:LocalBox ID="boxCountryMasc" StorePage="~/locales/countrymasc.aspx" StoreName="Country Masc" StoreDescription="Indumentaria masculina" StoreLogoSrc="~/images/logos/countrymasc.jpg" runat="server" />
     <uc:LocalBox ID="boxDevotoSports" StorePage="~/locales/devotosports.aspx" StoreName="Devoto Sports" StoreDescription="Indumentaria unisex (deportiva)" StoreLogoSrc="~/images/logos/devotosports.jpg" runat="server" />
-        <uc:LocalBox ID="boxDevotoStore" StorePage="~/locales/devotostore.aspx" StoreName="Devoto Store" StoreDescription="tecnologia" StoreLogoSrc="~/images/logos/devotostore.jpg" runat="server" />
     <uc:LocalBox ID="boxElVestidor" StorePage="~/locales/elvestidor.aspx" StoreName="El Vestidor" StoreDescription="Indumentaria femenina" StoreLogoSrc="~/images/logos/elvestidor.jpg" runat="server" />
     <uc:LocalBox ID="boxElephant" StorePage="~/locales/elephant.aspx" StoreName="Elephant" StoreDescription="Indumentaria femenina" StoreLogoSrc="~/images/logos/elephant.jpg" runat="server" />
     <uc:LocalBox ID="boxEspacioCabala" StorePage="~/locales/espaciocabala.aspx" StoreName="Espacio Cabala" StoreDescription="libreria" StoreLogoSrc="~/images/logos/espaciocabala.jpg" runat="server" />    

@@ -40,16 +40,27 @@
                 </div>
             </li>
             <li class="slide-2 slide align- image-content-type">
+                <img src="./images/slider/elastic/banner_institucional.jpg" width="1280" height="500" alt="Felices fiestas!" />
+                <div class="ei-title">
+                    <h2>
+                        Gran Galería Devoto
+                    </h2>
+                    <h3>
+                        Encontrá lo que buscás
+                    </h3>
+                </div>
+            </li>--%>
+           <%-- <li class="slide-2 slide align- image-content-type">
                 <img src="./images/slider/elastic/navidad_banner_website.jpg" width="1280" height="500" alt="Felices fiestas!" />
                 <div class="ei-title">
                     <h2>
-                        <%--Felices Fiestas!--%>
+                        <!--Felices Fiestas!-->
                     </h2>
                     <h3>
-                        <%--les desea Gran Galería Devoto--%>
+                        <!-- les desea Gran Galería Devoto -->
                     </h3>
                 </div>
-            </li>
+            </li>--%>
         </ul>
         <ul class="ei-slider-thumbs">
             <li class="ei-slider-element">Current</li>
